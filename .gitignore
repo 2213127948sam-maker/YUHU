@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.cache/
+.data-update.lock
+src/data/.data-update.lock
+src/data/.transaction.json
+src/data/**/*.tmp
+src/data/.staging-*/
+src/data/.previous-*/
+src/data/history/

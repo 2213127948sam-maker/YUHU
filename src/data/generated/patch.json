@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "Riot Games TFT patch notes",
+    "sourceUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-2/",
+    "set": "18",
+    "patch": "18.2",
+    "collectedAt": "2026-09-11T01:18:35.225Z",
+    "schemaVersion": 1,
+    "sourceVersion": "16.18.1",
+    "sha256": "6e4057cdcb75b0dc4188792d7a96b3e1a299bfd0cd9ff9ca41b79fd005a62c94",
+    "supportingSources": [
+      "https://teamfighttactics.leagueoflegends.com/en-us/news/",
+      "https://raw.communitydragon.org/latest/content-metadata.json",
+      "https://ddragon.leagueoflegends.com/api/versions.json"
+    ]
+  },
+  "data": [
+    {
+      "set": "18",
+      "releasedAt": "2026-09-09T18:00:00.000Z",
+      "patch": "18.2",
+      "patchNotesUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-2/",
+      "checkedAt": "2026-09-11T01:18:35.225Z",
+      "resourceVersion": "16.18.1",
+      "resourcePublishedAt": "2026-09-11T00:37:09.000Z",
+      "resourceMetadataUrl": "https://raw.communitydragon.org/latest/content-metadata.json",
+      "patchAssociation": "官方公告版本 + Riot/CDragon 资源分支一致 + 资源发布时间晚于公告；非地区服务器上线探测"
+    }
+  ]
+}

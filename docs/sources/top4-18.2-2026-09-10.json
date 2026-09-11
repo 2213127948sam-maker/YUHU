@@ -1,0 +1,1362 @@
+{
+  "source": "TOP4.GG public comps HTML",
+  "sourceUrl": "https://top4.gg/comps",
+  "patch": "18.2",
+  "set": "18",
+  "resourcePatch": "16.18",
+  "collectedAt": "2026-09-10T14:06:20.211Z",
+  "rank": "Diamond+",
+  "windowHours": 72,
+  "rankSelection": "Diamond+ · 122,597games",
+  "htmlSha256": "2592ecbd97b686b7e0daf29a076d21aae81c720140efa7ee6683629db84aaf4b",
+  "compFacts": [
+    {
+      "rank": 1,
+      "id": "comp-f3_900d6e7b6fd4f0f769facf5bf9ad14611c33630f8475c43026b3e9a3",
+      "title": "5 Brawler · Veigar · Rek'Sai",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_reksai",
+          "name": "Rek'Sai",
+          "threeStar": true,
+          "items": [
+            "DA_GargoyleStoneplate",
+            "DA_GargoyleStoneplate",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_18_teemo",
+          "name": "Teemo",
+          "threeStar": false,
+          "items": [
+            "DA_RedBuff",
+            "DA_TacticiansCrown",
+            "DA_VoidStaff"
+          ]
+        },
+        {
+          "id": "da_18_veigar",
+          "name": "Veigar",
+          "threeStar": true,
+          "items": [
+            "DA_18_EmblemFloraFatalis",
+            "DA_BlueBuff",
+            "DA_JeweledGauntlet"
+          ]
+        },
+        {
+          "id": "da_lux18_base",
+          "name": "Lux",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_gnarsmall",
+          "name": "Gnar",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_sett",
+          "name": "Sett",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_fiddlesticks18",
+          "name": "Fiddlesticks",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_rammus",
+          "name": "Rammus",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_krug18",
+          "name": "Krug",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_kogmaw18_ad",
+          "name": "Kog'Maw",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_kobuko",
+          "name": "Kobuko",
+          "threeStar": true,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place3.23",
+        "Top 474.7%",
+        "Wins23.5%"
+      ],
+      "sample": "1,419 gamesall-level sampleIncludes 1,148 boards inferred as incomplete"
+    },
+    {
+      "rank": 2,
+      "id": "comp-f3_f221f38413b66f884432548b24865a0302f35886de91f9cf20e3a678",
+      "title": "3 Riftbeast · Elder Dragon · Draven",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_elderdragon",
+          "name": "Elder Dragon",
+          "threeStar": false,
+          "items": [
+            "DA_GiantSlayer",
+            "DA_InfinityEdge",
+            "DA_LastWhisper"
+          ]
+        },
+        {
+          "id": "da_18_maokai",
+          "name": "Maokai",
+          "threeStar": false,
+          "items": [
+            "DA_GargoyleStoneplate",
+            "DA_GargoyleStoneplate",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_draven18",
+          "name": "Draven",
+          "threeStar": false,
+          "items": [
+            "DA_Deathblade",
+            "DA_GuinsoosRageblade",
+            "DA_KrakensFury"
+          ]
+        },
+        {
+          "id": "da_18_ivern",
+          "name": "Ivern",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_taric18",
+          "name": "Taric",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_kennen",
+          "name": "Kennen",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_alune",
+          "name": "Alune",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_amumu18",
+          "name": "Amumu",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place3.50",
+        "Top 465.2%",
+        "Wins33.1%"
+      ],
+      "sample": "1,510 gamesall-level sampleIncludes 252 boards inferred as incomplete"
+    },
+    {
+      "rank": 3,
+      "id": "comp-f3_954d0a0246e5a02a179934261070d30174b313a640c54a91dcdb3781",
+      "title": "4 Blackthorn · Soraka · Zyra",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_kennen",
+          "name": "Kennen",
+          "threeStar": false,
+          "items": [
+            "DA_18_EmblemBlackthorn",
+            "DA_HextechGunblade",
+            "DA_IonicSpark"
+          ]
+        },
+        {
+          "id": "da_18_malphite",
+          "name": "Malphite",
+          "threeStar": false,
+          "items": [
+            "DA_18_EmblemVanguard",
+            "DA_Crownguard",
+            "DA_GargoyleStoneplate"
+          ]
+        },
+        {
+          "id": "da_18_soraka",
+          "name": "Soraka",
+          "threeStar": false,
+          "items": [
+            "DA_ArchangelsStaff",
+            "DA_BlueBuff",
+            "DA_StrikersFlail"
+          ]
+        },
+        {
+          "id": "da_18_zyra",
+          "name": "Zyra",
+          "threeStar": false,
+          "items": [
+            "DA_ArchangelsStaff",
+            "DA_JeweledGauntlet",
+            "DA_VoidStaff"
+          ]
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_amumu18",
+          "name": "Amumu",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_azir",
+          "name": "Azir",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_fiddlesticks18",
+          "name": "Fiddlesticks",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_reksai",
+          "name": "Rek'Sai",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_yorick",
+          "name": "Yorick",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place3.64",
+        "Top 467.5%",
+        "Wins18.4%"
+      ],
+      "sample": "1,346 gamesall-level sampleIncludes 617 boards inferred as incomplete"
+    },
+    {
+      "rank": 4,
+      "id": "comp-f3_9638cd211af808b31c0eef57f0ad97f9f72a43768b965a9494fbef67",
+      "title": "3 Adaptor · Nidalee · Sivir",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_sett",
+          "name": "Sett",
+          "threeStar": false,
+          "items": [
+            "DA_Crownguard",
+            "DA_GargoyleStoneplate",
+            "DA_SteadfastHeart"
+          ]
+        },
+        {
+          "id": "da_18_sivir",
+          "name": "Sivir",
+          "threeStar": false,
+          "items": [
+            "DA_InfinityEdge",
+            "DA_KrakensFury",
+            "DA_RedBuff"
+          ]
+        },
+        {
+          "id": "da_nidalee18_ap",
+          "name": "Nidalee",
+          "threeStar": false,
+          "items": [
+            "DA_InfinityEdgeRadiant",
+            "DA_SpearOfShojin",
+            "DA_SteraksGage"
+          ]
+        },
+        {
+          "id": "da_18_ashe",
+          "name": "Ashe",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_taric18",
+          "name": "Taric",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_masteryi_ad",
+          "name": "Master Yi",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_krug18",
+          "name": "Krug",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_kogmaw18_ad",
+          "name": "Kog'Maw",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_cinderling18",
+          "name": "Cinderling",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place3.87",
+        "Top 462.4%",
+        "Wins12.6%"
+      ],
+      "sample": "1,113 gamesall-level sampleIncludes 441 boards inferred as incomplete"
+    },
+    {
+      "rank": 5,
+      "id": "comp-f3_e3b39b1c78cb3a123be8c208d01181c34a5aa2362e74f313c2bad6c1",
+      "title": "6 Juggernaut · Caitlyn · Sivir",
+      "level": "Representative level 9",
+      "units": [
+        {
+          "id": "da_18_ashe",
+          "name": "Ashe",
+          "threeStar": false,
+          "items": [
+            "DA_Deathblade",
+            "DA_Morellonomicon",
+            "DA_SpearOfShojin"
+          ]
+        },
+        {
+          "id": "da_18_caitlyn",
+          "name": "Caitlyn",
+          "threeStar": true,
+          "items": [
+            "DA_Deathblade",
+            "DA_GiantSlayer",
+            "DA_GuinsoosRageblade"
+          ]
+        },
+        {
+          "id": "da_18_maokai",
+          "name": "Maokai",
+          "threeStar": false,
+          "items": [
+            "DA_SpiritVisage",
+            "DA_SteraksGage",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_amumu18",
+          "name": "Amumu",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_sivir",
+          "name": "Sivir",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_vi18",
+          "name": "Vi",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_scuttlecrab18",
+          "name": "Scuttlecrab",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_rakan",
+          "name": "Rakan",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_yorick",
+          "name": "Yorick",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place3.91",
+        "Top 459.3%",
+        "Wins16.9%"
+      ],
+      "sample": "273 gamesall-level sampleIncludes 152 boards inferred as incomplete"
+    },
+    {
+      "rank": 7,
+      "id": "comp-f3_9d8088b000f746fc658aa54d1ace0cf0e7ede95992315f23eacf3ba5",
+      "title": "2 Flora Fatalis · Alune · Maokai",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_alune",
+          "name": "Alune",
+          "threeStar": false,
+          "items": [
+            "DA_JeweledGauntlet",
+            "DA_RabadonsDeathcap",
+            "DA_SpearOfShojin"
+          ]
+        },
+        {
+          "id": "da_18_maokai",
+          "name": "Maokai",
+          "threeStar": false,
+          "items": [
+            "DA_BrambleVest",
+            "DA_DragonsClaw",
+            "DA_SpiritVisage"
+          ]
+        },
+        {
+          "id": "da_taric18",
+          "name": "Taric",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_kennen",
+          "name": "Kennen",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_ivern",
+          "name": "Ivern",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_amumu18",
+          "name": "Amumu",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_soraka",
+          "name": "Soraka",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_lillia",
+          "name": "Lillia",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_fiddlesticks18",
+          "name": "Fiddlesticks",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_diana",
+          "name": "Diana",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place3.98",
+        "Top 456.5%",
+        "Wins22.9%"
+      ],
+      "sample": "678 gamesall-level sampleIncludes 177 boards inferred as incomplete"
+    },
+    {
+      "rank": 8,
+      "id": "comp-f3_2a192bd8066e3fff96a2e3df8303b3cec8034f81838f9473747ac4c5",
+      "title": "3 Blossom · Sivir · Nidalee",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_malphite",
+          "name": "Malphite",
+          "threeStar": false,
+          "items": [
+            "DA_Crownguard",
+            "DA_GargoyleStoneplate",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_18_sivir",
+          "name": "Sivir",
+          "threeStar": false,
+          "items": [
+            "DA_Deathblade",
+            "DA_GiantSlayer",
+            "DA_InfinityEdge"
+          ]
+        },
+        {
+          "id": "da_nidalee18_ap",
+          "name": "Nidalee",
+          "threeStar": false,
+          "items": [
+            "DA_BlueBuff",
+            "DA_Deathblade",
+            "DA_EdgeOfNight"
+          ]
+        },
+        {
+          "id": "da_taric18",
+          "name": "Taric",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_ashe",
+          "name": "Ashe",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_gnarsmall",
+          "name": "Gnar",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_lux18_base",
+          "name": "Lux",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_kogmaw18_ad",
+          "name": "Kog'Maw",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_reksai",
+          "name": "Rek'Sai",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place3.99",
+        "Top 459.9%",
+        "Wins18.3%"
+      ],
+      "sample": "279 gamesall-level sampleIncludes 8 boards inferred as incomplete"
+    },
+    {
+      "rank": 9,
+      "id": "comp-f3_0fe37104c5dd760ddac364b547c0ba22e340f8115efaa06f68907e4f",
+      "title": "4 Brawler · Rengar · Master Yi",
+      "level": "Representative level 9",
+      "units": [
+        {
+          "id": "da_18_masteryi_ad",
+          "name": "Master Yi",
+          "threeStar": true,
+          "items": [
+            "DA_18_EmblemBrawler",
+            "DA_GuinsoosRagebladeRadiant",
+            "DA_Quicksilver"
+          ]
+        },
+        {
+          "id": "da_18_rengar",
+          "name": "Rengar",
+          "threeStar": true,
+          "items": [
+            "DA_GuinsoosRageblade",
+            "DA_TitansResolve",
+            "DA_TitansResolve"
+          ]
+        },
+        {
+          "id": "da_krug18",
+          "name": "Krug",
+          "threeStar": true,
+          "items": [
+            "DA_DragonsClaw",
+            "DA_SunfireCape",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_18_gnarsmall",
+          "name": "Gnar",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_alune",
+          "name": "Alune",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_sett",
+          "name": "Sett",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_nidalee18_ap",
+          "name": "Nidalee",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_kogmaw18_ad",
+          "name": "Kog'Maw",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_yorick",
+          "name": "Yorick",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.04",
+        "Top 458.8%",
+        "Wins18.6%"
+      ],
+      "sample": "624 gamesall-level sampleIncludes 67 boards inferred as incomplete"
+    },
+    {
+      "rank": 10,
+      "id": "comp-f3_2d662a0c990ba9e057ec2322311af9a6e88afe76ed3c4122f93e684e",
+      "title": "6 Defender · Cassiopeia · Fiddlesticks",
+      "level": "Representative level 9",
+      "units": [
+        {
+          "id": "da_18_cassiopeia",
+          "name": "Cassiopeia",
+          "threeStar": true,
+          "items": [
+            "DA_ArchangelsStaff",
+            "DA_HextechGunblade",
+            "DA_SpearOfShojin"
+          ]
+        },
+        {
+          "id": "da_18_rammus",
+          "name": "Rammus",
+          "threeStar": true,
+          "items": [
+            "DA_BrambleVest",
+            "DA_DragonsClaw",
+            "DA_SteadfastHeart"
+          ]
+        },
+        {
+          "id": "da_fiddlesticks18",
+          "name": "Fiddlesticks",
+          "threeStar": true,
+          "items": [
+            "DA_IonicSpark",
+            "DA_SunfireCape",
+            "DA_TitansResolve"
+          ]
+        },
+        {
+          "id": "da_18_ivern",
+          "name": "Ivern",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_lux18_base",
+          "name": "Lux",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_lillia",
+          "name": "Lillia",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_shen",
+          "name": "Shen",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_leona",
+          "name": "Leona",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_ornn",
+          "name": "Ornn",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.06",
+        "Top 459.1%",
+        "Wins17.8%"
+      ],
+      "sample": "286 gamesall-level sampleIncludes 82 boards inferred as incomplete"
+    },
+    {
+      "rank": 11,
+      "id": "comp-f3_97bdc3d896af44972219c9f274259e844b5d2d2895b6001cf007b052",
+      "title": "4 Lunar · Aphelios · Brambleback",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_aphelios",
+          "name": "Aphelios",
+          "threeStar": false,
+          "items": [
+            "DA_Deathblade",
+            "DA_GuinsoosRageblade",
+            "DA_InfinityEdge"
+          ]
+        },
+        {
+          "id": "da_amumu18",
+          "name": "Amumu",
+          "threeStar": false,
+          "items": [
+            "DA_GargoyleStoneplate",
+            "DA_SteadfastHeart",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_brambleback18",
+          "name": "Brambleback",
+          "threeStar": false,
+          "items": [
+            "DA_Bloodthirster",
+            "DA_Quicksilver",
+            "DA_SteraksGage"
+          ]
+        },
+        {
+          "id": "da_taric18",
+          "name": "Taric",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_lux18_base",
+          "name": "Lux",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_crimsonraptor18",
+          "name": "Mama Beak",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_diana",
+          "name": "Diana",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_rakan",
+          "name": "Rakan",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_xayah",
+          "name": "Xayah",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.06",
+        "Top 459.6%",
+        "Wins12.7%"
+      ],
+      "sample": "3,043 gamesall-level sampleIncludes 619 boards inferred as incomplete"
+    },
+    {
+      "rank": 13,
+      "id": "comp-f3_f15196554cb89b9df8d551d440ff7fb03f94eaceb228feddd35a8613",
+      "title": "4 Spellweaver · Ahri · Sett",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_ahri",
+          "name": "Ahri",
+          "threeStar": false,
+          "items": [
+            "DA_ArchangelsStaffRadiant",
+            "DA_GiantSlayer",
+            "DA_JeweledGauntlet"
+          ]
+        },
+        {
+          "id": "da_18_morgana",
+          "name": "Morgana",
+          "threeStar": false,
+          "items": [
+            "DA_18_EmblemSpellweaver",
+            "DA_Morellonomicon",
+            "DA_VoidStaff"
+          ]
+        },
+        {
+          "id": "da_18_sett",
+          "name": "Sett",
+          "threeStar": false,
+          "items": [
+            "DA_GargoyleStoneplate",
+            "DA_SteadfastHeart",
+            "DA_SunfireCape"
+          ]
+        },
+        {
+          "id": "da_18_ivern",
+          "name": "Ivern",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_alune",
+          "name": "Alune",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_taric18",
+          "name": "Taric",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_krug18",
+          "name": "Krug",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_karma18",
+          "name": "Karma",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_sentry",
+          "name": "Pebbles",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.09",
+        "Top 457.8%",
+        "Wins12.9%"
+      ],
+      "sample": "2,489 gamesall-level sampleIncludes 597 boards inferred as incomplete"
+    },
+    {
+      "rank": 14,
+      "id": "comp-f3_1b625a5c64e6188f9aa950307d81780c46ebd257749b3fb402b764ec",
+      "title": "3 Inferno · Kayle · Sejuani",
+      "level": "Representative level 9",
+      "units": [
+        {
+          "id": "da_18_kayle",
+          "name": "Kayle",
+          "threeStar": true,
+          "items": [
+            "DA_GuinsoosRageblade",
+            "DA_JeweledGauntlet",
+            "DA_RabadonsDeathcap"
+          ]
+        },
+        {
+          "id": "da_18_sejuani",
+          "name": "Sejuani",
+          "threeStar": true,
+          "items": [
+            "DA_BrambleVest",
+            "DA_Crownguard",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_18_alune",
+          "name": "Alune",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_amumu18",
+          "name": "Amumu",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_aphelios",
+          "name": "Aphelios",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_diana",
+          "name": "Diana",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_shen",
+          "name": "Shen",
+          "threeStar": true,
+          "items": []
+        },
+        {
+          "id": "da_18_leona",
+          "name": "Leona",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_varus",
+          "name": "Varus",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.11",
+        "Top 456.7%",
+        "Wins20.9%"
+      ],
+      "sample": "277 gamesall-level sampleIncludes 75 boards inferred as incomplete"
+    },
+    {
+      "rank": 16,
+      "id": "comp-f3_03ee2d535405398d5d3a4fa532d57d6075f3cbc48a9382cb1965992d",
+      "title": "4 Primal · Malphite · Nidalee",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_malphite",
+          "name": "Malphite",
+          "threeStar": false,
+          "items": [
+            "DA_ProtectorsVow",
+            "DA_SteadfastHeart",
+            "DA_SunfireCape"
+          ]
+        },
+        {
+          "id": "da_18_sivir",
+          "name": "Sivir",
+          "threeStar": false,
+          "items": [
+            "DA_GuinsoosRageblade",
+            "DA_InfinityEdge",
+            "DA_InfinityEdge"
+          ]
+        },
+        {
+          "id": "da_nidalee18_ap",
+          "name": "Nidalee",
+          "threeStar": false,
+          "items": [
+            "DA_18_EmblemHunter",
+            "DA_SpearOfShojin",
+            "DA_SteraksGage"
+          ]
+        },
+        {
+          "id": "da_18_ivern",
+          "name": "Ivern",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_taric18",
+          "name": "Taric",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_ashe",
+          "name": "Ashe",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_alune",
+          "name": "Alune",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_vi18",
+          "name": "Vi",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_kogmaw18_ad",
+          "name": "Kog'Maw",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.13",
+        "Top 458.7%",
+        "Wins12.6%"
+      ],
+      "sample": "995 gamesall-level sampleIncludes 323 boards inferred as incomplete"
+    },
+    {
+      "rank": 17,
+      "id": "comp-f3_0d2112f63f86acf8937429a0880c0c4f6c543dc8f5e1ff7726db8877",
+      "title": "6 Blossom · Master Yi · Nidalee",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_masteryi_ad",
+          "name": "Master Yi",
+          "threeStar": true,
+          "items": [
+            "DA_18_EmblemBrawler",
+            "DA_GuinsoosRageblade",
+            "DA_TitansResolve_Radiant"
+          ]
+        },
+        {
+          "id": "da_nidalee18_ap",
+          "name": "Nidalee",
+          "threeStar": false,
+          "items": [
+            "DA_GuinsoosRageblade",
+            "DA_RabadonsDeathcap",
+            "DA_SpearOfShojin"
+          ]
+        },
+        {
+          "id": "da_vi18",
+          "name": "Vi",
+          "threeStar": true,
+          "items": [
+            "DA_DragonsClaw",
+            "DA_Evenshroud",
+            "DA_SpiritVisage"
+          ]
+        },
+        {
+          "id": "da_18_ashe",
+          "name": "Ashe",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_lux18_base",
+          "name": "Lux",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_sett",
+          "name": "Sett",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_malphite",
+          "name": "Malphite",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_krug18",
+          "name": "Krug",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_yorick",
+          "name": "Yorick",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_reksai",
+          "name": "Rek'Sai",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.14",
+        "Top 459.4%",
+        "Wins13.5%"
+      ],
+      "sample": "133 gamesall-level sampleIncludes 42 boards inferred as incomplete"
+    },
+    {
+      "rank": 18,
+      "id": "comp-f3_65cd63077c76206eaa61c4794ddce66ae40ee51697efaecb90edf5fb",
+      "title": "4 Inferno · Ashe · Sivir",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_ashe",
+          "name": "Ashe",
+          "threeStar": false,
+          "items": [
+            "DA_18_EmblemInferno",
+            "DA_RedBuff",
+            "DA_SpearOfShojin"
+          ]
+        },
+        {
+          "id": "da_18_sivir",
+          "name": "Sivir",
+          "threeStar": false,
+          "items": [
+            "DA_Deathblade",
+            "DA_InfinityEdge",
+            "DA_KrakensFury"
+          ]
+        },
+        {
+          "id": "da_amumu18",
+          "name": "Amumu",
+          "threeStar": false,
+          "items": [
+            "DA_Crownguard",
+            "DA_GargoyleStoneplate",
+            "DA_WarmogsArmor"
+          ]
+        },
+        {
+          "id": "da_18_ivern",
+          "name": "Ivern",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_lux18_base",
+          "name": "Lux",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_kennen",
+          "name": "Kennen",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_lillia",
+          "name": "Lillia",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_vi18",
+          "name": "Vi",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_tristana",
+          "name": "Tristana",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_shen",
+          "name": "Shen",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.17",
+        "Top 453.8%",
+        "Wins19.4%"
+      ],
+      "sample": "971 gamesall-level sampleIncludes 325 boards inferred as incomplete"
+    },
+    {
+      "rank": 20,
+      "id": "comp-f3_3dd1d5e7d7b866b1d77e02fae9397095d678b74a89817d98e75514ea",
+      "title": "4 Invoker · Tristana · Sivir",
+      "level": "Representative level 10",
+      "units": [
+        {
+          "id": "da_18_rammus",
+          "name": "Rammus",
+          "threeStar": true,
+          "items": [
+            "DA_DragonsClaw",
+            "DA_GargoyleStoneplate",
+            "DA_GargoyleStoneplate"
+          ]
+        },
+        {
+          "id": "da_18_sivir",
+          "name": "Sivir",
+          "threeStar": false,
+          "items": [
+            "DA_18_EmblemFae",
+            "DA_GiantSlayer",
+            "DA_HextechGunblade"
+          ]
+        },
+        {
+          "id": "da_18_tristana",
+          "name": "Tristana",
+          "threeStar": true,
+          "items": [
+            "DA_Artifact_NavoriFlickerblade",
+            "DA_GuinsoosRageblade",
+            "DA_HextechGunblade"
+          ]
+        },
+        {
+          "id": "da_draven18",
+          "name": "Draven",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_lillia",
+          "name": "Lillia",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_sentinel18",
+          "name": "Sentinel",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_vi18",
+          "name": "Vi",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_kogmaw18_ad",
+          "name": "Kog'Maw",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_teemo",
+          "name": "Teemo",
+          "threeStar": false,
+          "items": []
+        },
+        {
+          "id": "da_18_rakan",
+          "name": "Rakan",
+          "threeStar": false,
+          "items": []
+        }
+      ],
+      "metrics": [
+        "Avg place4.24",
+        "Top 453.3%",
+        "Wins20.3%"
+      ],
+      "sample": "2,615 gamesall-level sampleIncludes 469 boards inferred as incomplete"
+    }
+  ]
+}

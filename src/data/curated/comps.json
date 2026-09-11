@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "set18-top4-1",
+    "name": "致命丽花维迦雷克塞",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "reroll1",
+    "coreUnits": [
+      "DA_18_Veigar",
+      "DA_18_RekSai",
+      "DA_18_Kobuko"
+    ],
+    "optionalUnits": [
+      "DA_18_Teemo",
+      "DA_Lux18_Base",
+      "DA_18_GnarSmall",
+      "DA_18_Sett",
+      "DA_Fiddlesticks18",
+      "DA_18_Rammus",
+      "DA_Krug18",
+      "DA_KogMaw18_AD"
+    ],
+    "carries": [
+      "DA_18_Veigar"
+    ],
+    "tanks": [
+      "DA_18_RekSai"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_RekSai",
+        "items": [
+          "DA_GargoyleStoneplate",
+          "DA_GargoyleStoneplate",
+          "DA_WarmogsArmor"
+        ]
+      },
+      {
+        "unitId": "DA_18_Veigar",
+        "items": [
+          "DA_18_EmblemFloraFatalis",
+          "DA_BlueBuff",
+          "DA_JeweledGauntlet"
+        ]
+      }
+    ],
+    "preferredAugments": [
+      "DA_18_FloraFatalisAugment"
+    ],
+    "defaultRollLevel": 5,
+    "tags": [
+      "reroll1",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "强化符文致命丽花及绝命花妖纹章是该变体的前提"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "强化符文致命丽花及绝命花妖纹章是该变体的前提",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 3.23,
+      "top4Rate": 0.747,
+      "winRate": 0.235,
+      "sampleSize": 1419,
+      "incompleteBoards": 1148,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_900d6e7b6fd4f0f769facf5bf9ad14611c33630f8475c43026b3e9a3",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-2",
+    "name": "峡谷野怪远古巨龙德莱文",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast9",
+    "coreUnits": [
+      "DA_18_ElderDragon",
+      "DA_Draven18",
+      "DA_18_Maokai"
+    ],
+    "optionalUnits": [
+      "DA_18_Ivern",
+      "DA_Taric18",
+      "DA_18_Kennen",
+      "DA_18_Alune",
+      "DA_Amumu18",
+      "DA_Sentinel18"
+    ],
+    "carries": [
+      "DA_18_ElderDragon",
+      "DA_Draven18"
+    ],
+    "tanks": [
+      "DA_18_Maokai"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_ElderDragon",
+        "items": [
+          "DA_GiantSlayer",
+          "DA_InfinityEdge",
+          "DA_LastWhisper"
+        ]
+      },
+      {
+        "unitId": "DA_18_Maokai",
+        "items": [
+          "DA_GargoyleStoneplate",
+          "DA_GargoyleStoneplate",
+          "DA_WarmogsArmor"
+        ]
+      },
+      {
+        "unitId": "DA_Draven18",
+        "items": [
+          "DA_Deathblade",
+          "DA_GuinsoosRageblade",
+          "DA_KrakensFury"
+        ]
+      }
+    ],
+    "defaultRollLevel": 9,
+    "tags": [
+      "fast9",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "远古巨龙占两个人口；高费终盘样本有幸存者偏差"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "远古巨龙占两个人口；高费终盘样本有幸存者偏差",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 3.5,
+      "top4Rate": 0.652,
+      "winRate": 0.331,
+      "sampleSize": 1510,
+      "incompleteBoards": 252,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_f221f38413b66f884432548b24865a0302f35886de91f9cf20e3a678",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-3",
+    "name": "黑荆棘索拉卡婕拉",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast8",
+    "coreUnits": [
+      "DA_18_Soraka",
+      "DA_18_Zyra",
+      "DA_18_Malphite"
+    ],
+    "optionalUnits": [
+      "DA_18_Kennen",
+      "DA_Sentinel18",
+      "DA_Amumu18",
+      "DA_18_Azir",
+      "DA_Fiddlesticks18",
+      "DA_18_RekSai",
+      "DA_18_Yorick"
+    ],
+    "carries": [
+      "DA_18_Soraka",
+      "DA_18_Zyra"
+    ],
+    "tanks": [
+      "DA_18_Malphite"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Malphite",
+        "items": [
+          "DA_18_EmblemVanguard",
+          "DA_Crownguard",
+          "DA_GargoyleStoneplate"
+        ]
+      },
+      {
+        "unitId": "DA_18_Soraka",
+        "items": [
+          "DA_ArchangelsStaff",
+          "DA_BlueBuff",
+          "DA_StrikersFlail"
+        ]
+      },
+      {
+        "unitId": "DA_18_Zyra",
+        "items": [
+          "DA_ArchangelsStaff",
+          "DA_JeweledGauntlet",
+          "DA_VoidStaff"
+        ]
+      }
+    ],
+    "defaultRollLevel": 8,
+    "tags": [
+      "fast8",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "来源高羁绊变体带黑荆棘及重装纹章，不保证无转职复现"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源高羁绊变体带黑荆棘及重装纹章，不保证无转职复现",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 3.64,
+      "top4Rate": 0.675,
+      "winRate": 0.184,
+      "sampleSize": 1346,
+      "incompleteBoards": 617,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_954d0a0246e5a02a179934261070d30174b313a640c54a91dcdb3781",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-4",
+    "name": "魔战士奈德丽希维尔",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast8",
+    "coreUnits": [
+      "DA_Nidalee18_AP",
+      "DA_18_Sivir",
+      "DA_18_Sett"
+    ],
+    "optionalUnits": [
+      "DA_18_Ashe",
+      "DA_Taric18",
+      "DA_Sentinel18",
+      "DA_18_MasterYi_AD",
+      "DA_Krug18",
+      "DA_KogMaw18_AD",
+      "DA_Cinderling18"
+    ],
+    "carries": [
+      "DA_Nidalee18_AP",
+      "DA_18_Sivir"
+    ],
+    "tanks": [
+      "DA_18_Sett"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Sett",
+        "items": [
+          "DA_Crownguard",
+          "DA_GargoyleStoneplate",
+          "DA_SteadfastHeart"
+        ]
+      },
+      {
+        "unitId": "DA_18_Sivir",
+        "items": [
+          "DA_InfinityEdge",
+          "DA_KrakensFury",
+          "DA_RedBuff"
+        ]
+      },
+      {
+        "unitId": "DA_Nidalee18_AP",
+        "items": [
+          "DA_InfinityEdgeRadiant",
+          "DA_SpearOfShojin",
+          "DA_SteraksGage"
+        ]
+      }
+    ],
+    "defaultRollLevel": 8,
+    "tags": [
+      "fast8",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "奈德丽根据装备切换形态；来源光明无尽是条件装备"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "奈德丽根据装备切换形态；来源光明无尽是条件装备",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 3.87,
+      "top4Rate": 0.624,
+      "winRate": 0.126,
+      "sampleSize": 1113,
+      "incompleteBoards": 441,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_9638cd211af808b31c0eef57f0ad97f9f72a43768b965a9494fbef67",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-5",
+    "name": "主宰凯特琳",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "reroll2",
+    "coreUnits": [
+      "DA_18_Caitlyn",
+      "DA_18_Maokai"
+    ],
+    "optionalUnits": [
+      "DA_18_Ashe",
+      "DA_Amumu18",
+      "DA_18_Sivir",
+      "DA_Vi18",
+      "DA_Scuttlecrab18",
+      "DA_18_Rakan",
+      "DA_18_Yorick"
+    ],
+    "carries": [
+      "DA_18_Caitlyn"
+    ],
+    "tanks": [
+      "DA_18_Maokai"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Caitlyn",
+        "items": [
+          "DA_Deathblade",
+          "DA_GiantSlayer",
+          "DA_GuinsoosRageblade"
+        ]
+      },
+      {
+        "unitId": "DA_18_Maokai",
+        "items": [
+          "DA_SpiritVisage",
+          "DA_SteraksGage",
+          "DA_WarmogsArmor"
+        ]
+      }
+    ],
+    "defaultRollLevel": 6,
+    "tags": [
+      "reroll2",
+      "人工审核",
+      "条件变体",
+      "样本偏小"
+    ],
+    "requirements": [
+      "茂凯是后期替换主坦；前期以来源中的主宰前排过渡"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "茂凯是后期替换主坦；前期以来源中的主宰前排过渡",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 3.91,
+      "top4Rate": 0.593,
+      "winRate": 0.16899999999999998,
+      "sampleSize": 273,
+      "incompleteBoards": 152,
+      "representativeLevel": 9,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_e3b39b1c78cb3a123be8c208d01181c34a5aa2362e74f313c2bad6c1",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-7",
+    "name": "绝命花妖拉露恩九五",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast9",
+    "coreUnits": [
+      "DA_18_Alune",
+      "DA_18_Maokai"
+    ],
+    "optionalUnits": [
+      "DA_Taric18",
+      "DA_18_Kennen",
+      "DA_18_Ivern",
+      "DA_Amumu18",
+      "DA_18_Soraka",
+      "DA_18_Lillia",
+      "DA_Fiddlesticks18",
+      "DA_18_Diana"
+    ],
+    "carries": [
+      "DA_18_Alune"
+    ],
+    "tanks": [
+      "DA_18_Maokai"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Alune",
+        "items": [
+          "DA_JeweledGauntlet",
+          "DA_RabadonsDeathcap",
+          "DA_SpearOfShojin"
+        ]
+      },
+      {
+        "unitId": "DA_18_Maokai",
+        "items": [
+          "DA_BrambleVest",
+          "DA_DragonsClaw",
+          "DA_SpiritVisage"
+        ]
+      }
+    ],
+    "defaultRollLevel": 9,
+    "tags": [
+      "fast9",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "高等级成型样本不代表开局强行上九的成功率"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "高等级成型样本不代表开局强行上九的成功率",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 3.98,
+      "top4Rate": 0.565,
+      "winRate": 0.22899999999999998,
+      "sampleSize": 678,
+      "incompleteBoards": 177,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_9d8088b000f746fc658aa54d1ace0cf0e7ede95992315f23eacf3ba5",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-8",
+    "name": "灵魂莲华希维尔奈德丽节奏",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "tempo",
+    "coreUnits": [
+      "DA_18_Sivir",
+      "DA_Nidalee18_AP",
+      "DA_18_Malphite"
+    ],
+    "optionalUnits": [
+      "DA_Taric18",
+      "DA_18_Ashe",
+      "DA_18_GnarSmall",
+      "DA_Lux18_Base",
+      "DA_Sentinel18",
+      "DA_KogMaw18_AD",
+      "DA_18_RekSai"
+    ],
+    "carries": [
+      "DA_18_Sivir",
+      "DA_Nidalee18_AP"
+    ],
+    "tanks": [
+      "DA_18_Malphite"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Malphite",
+        "items": [
+          "DA_Crownguard",
+          "DA_GargoyleStoneplate",
+          "DA_WarmogsArmor"
+        ]
+      },
+      {
+        "unitId": "DA_18_Sivir",
+        "items": [
+          "DA_Deathblade",
+          "DA_GiantSlayer",
+          "DA_InfinityEdge"
+        ]
+      },
+      {
+        "unitId": "DA_Nidalee18_AP",
+        "items": [
+          "DA_BlueBuff",
+          "DA_Deathblade",
+          "DA_EdgeOfNight"
+        ]
+      }
+    ],
+    "defaultRollLevel": 6,
+    "tags": [
+      "tempo",
+      "人工审核",
+      "条件变体",
+      "样本偏小"
+    ],
+    "requirements": [
+      "tempo 是人工运营解释，来源仅证明终盘采用，未提供中期战斗统计"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "人工暂定：以中期稳血及灵活装备过渡到已观察到的双四费终盘；不是来源直接给出的运营结论。",
+      "caveats": [
+        "tempo 是人工运营解释，来源仅证明终盘采用，未提供中期战斗统计",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 3.99,
+      "top4Rate": 0.599,
+      "winRate": 0.183,
+      "sampleSize": 279,
+      "incompleteBoards": 8,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_2a192bd8066e3fff96a2e3df8303b3cec8034f81838f9473747ac4c5",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-9",
+    "name": "斗士雷恩加尔易",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "reroll3",
+    "coreUnits": [
+      "DA_18_Rengar",
+      "DA_18_MasterYi_AD",
+      "DA_Krug18"
+    ],
+    "optionalUnits": [
+      "DA_18_GnarSmall",
+      "DA_18_Alune",
+      "DA_18_Sett",
+      "DA_Nidalee18_AP",
+      "DA_KogMaw18_AD",
+      "DA_18_Yorick"
+    ],
+    "carries": [
+      "DA_18_Rengar",
+      "DA_18_MasterYi_AD"
+    ],
+    "tanks": [
+      "DA_Krug18"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_MasterYi_AD",
+        "items": [
+          "DA_18_EmblemBrawler",
+          "DA_GuinsoosRagebladeRadiant",
+          "DA_Quicksilver"
+        ]
+      },
+      {
+        "unitId": "DA_18_Rengar",
+        "items": [
+          "DA_GuinsoosRageblade",
+          "DA_TitansResolve",
+          "DA_TitansResolve"
+        ]
+      },
+      {
+        "unitId": "DA_Krug18",
+        "items": [
+          "DA_DragonsClaw",
+          "DA_SunfireCape",
+          "DA_WarmogsArmor"
+        ]
+      }
+    ],
+    "defaultRollLevel": 7,
+    "tags": [
+      "reroll3",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "来源中的易携带斗士纹章及光明装备，数值不代表普通装备版本"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源中的易携带斗士纹章及光明装备，数值不代表普通装备版本",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.04,
+      "top4Rate": 0.588,
+      "winRate": 0.18600000000000003,
+      "sampleSize": 624,
+      "incompleteBoards": 67,
+      "representativeLevel": 9,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_0fe37104c5dd760ddac364b547c0ba22e340f8115efaa06f68907e4f",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-10",
+    "name": "护卫卡西奥佩娅费德提克",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "reroll3",
+    "coreUnits": [
+      "DA_18_Cassiopeia",
+      "DA_18_Rammus",
+      "DA_Fiddlesticks18"
+    ],
+    "optionalUnits": [
+      "DA_18_Ivern",
+      "DA_Lux18_Base",
+      "DA_18_Lillia",
+      "DA_18_Shen",
+      "DA_18_Leona",
+      "DA_18_Ornn"
+    ],
+    "carries": [
+      "DA_18_Cassiopeia"
+    ],
+    "tanks": [
+      "DA_18_Rammus",
+      "DA_Fiddlesticks18"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Cassiopeia",
+        "items": [
+          "DA_ArchangelsStaff",
+          "DA_HextechGunblade",
+          "DA_SpearOfShojin"
+        ]
+      },
+      {
+        "unitId": "DA_18_Rammus",
+        "items": [
+          "DA_BrambleVest",
+          "DA_DragonsClaw",
+          "DA_SteadfastHeart"
+        ]
+      },
+      {
+        "unitId": "DA_Fiddlesticks18",
+        "items": [
+          "DA_IonicSpark",
+          "DA_SunfireCape",
+          "DA_TitansResolve"
+        ]
+      }
+    ],
+    "defaultRollLevel": 7,
+    "tags": [
+      "reroll3",
+      "人工审核",
+      "条件变体",
+      "样本偏小"
+    ],
+    "requirements": [
+      "来源展示的是后期代表棋盘，七级先追核心三费"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源展示的是后期代表棋盘，七级先追核心三费",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.06,
+      "top4Rate": 0.591,
+      "winRate": 0.17800000000000002,
+      "sampleSize": 286,
+      "incompleteBoards": 82,
+      "representativeLevel": 9,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_2d662a0c990ba9e057ec2322311af9a6e88afe76ed3c4122f93e684e",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-11",
+    "name": "月蚀厄斐琉斯绯红树怪",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast8",
+    "coreUnits": [
+      "DA_18_Aphelios",
+      "DA_Brambleback18",
+      "DA_Amumu18"
+    ],
+    "optionalUnits": [
+      "DA_Taric18",
+      "DA_Lux18_Base",
+      "DA_Sentinel18",
+      "DA_CrimsonRaptor18",
+      "DA_18_Diana",
+      "DA_18_Rakan",
+      "DA_18_Xayah"
+    ],
+    "carries": [
+      "DA_18_Aphelios",
+      "DA_Brambleback18"
+    ],
+    "tanks": [
+      "DA_Amumu18"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Aphelios",
+        "items": [
+          "DA_Deathblade",
+          "DA_GuinsoosRageblade",
+          "DA_InfinityEdge"
+        ]
+      },
+      {
+        "unitId": "DA_Amumu18",
+        "items": [
+          "DA_GargoyleStoneplate",
+          "DA_SteadfastHeart",
+          "DA_WarmogsArmor"
+        ]
+      },
+      {
+        "unitId": "DA_Brambleback18",
+        "items": [
+          "DA_Bloodthirster",
+          "DA_Quicksilver",
+          "DA_SteraksGage"
+        ]
+      }
+    ],
+    "defaultRollLevel": 8,
+    "tags": [
+      "fast8",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "四月蚀等来源标签可能包含纹章或拉克丝形态，不能视作无条件羁绊"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "四月蚀等来源标签可能包含纹章或拉克丝形态，不能视作无条件羁绊",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.06,
+      "top4Rate": 0.596,
+      "winRate": 0.127,
+      "sampleSize": 3043,
+      "incompleteBoards": 619,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_97bdc3d896af44972219c9f274259e844b5d2d2895b6001cf007b052",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-13",
+    "name": "法师阿狸瑟提",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast8",
+    "coreUnits": [
+      "DA_18_Ahri",
+      "DA_18_Morgana",
+      "DA_18_Sett"
+    ],
+    "optionalUnits": [
+      "DA_18_Ivern",
+      "DA_18_Alune",
+      "DA_Taric18",
+      "DA_Sentinel18",
+      "DA_Krug18",
+      "DA_Karma18",
+      "DA_18_Sentry"
+    ],
+    "carries": [
+      "DA_18_Ahri",
+      "DA_18_Morgana"
+    ],
+    "tanks": [
+      "DA_18_Sett"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Ahri",
+        "items": [
+          "DA_ArchangelsStaffRadiant",
+          "DA_GiantSlayer",
+          "DA_JeweledGauntlet"
+        ]
+      },
+      {
+        "unitId": "DA_18_Morgana",
+        "items": [
+          "DA_18_EmblemSpellweaver",
+          "DA_Morellonomicon",
+          "DA_VoidStaff"
+        ]
+      },
+      {
+        "unitId": "DA_18_Sett",
+        "items": [
+          "DA_GargoyleStoneplate",
+          "DA_SteadfastHeart",
+          "DA_SunfireCape"
+        ]
+      }
+    ],
+    "defaultRollLevel": 8,
+    "tags": [
+      "fast8",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "来源装备包含光明大天使及法师纹章，是有条件的样本配置"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源装备包含光明大天使及法师纹章，是有条件的样本配置",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.09,
+      "top4Rate": 0.578,
+      "winRate": 0.129,
+      "sampleSize": 2489,
+      "incompleteBoards": 597,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_f15196554cb89b9df8d551d440ff7fb03f94eaceb228feddd35a8613",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-14",
+    "name": "日蚀地狱火凯尔",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "reroll2",
+    "coreUnits": [
+      "DA_18_Kayle",
+      "DA_18_Sejuani",
+      "DA_18_Shen"
+    ],
+    "optionalUnits": [
+      "DA_18_Alune",
+      "DA_Amumu18",
+      "DA_18_Aphelios",
+      "DA_18_Diana",
+      "DA_18_Leona",
+      "DA_18_Varus"
+    ],
+    "carries": [
+      "DA_18_Kayle"
+    ],
+    "tanks": [
+      "DA_18_Sejuani"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Kayle",
+        "items": [
+          "DA_GuinsoosRageblade",
+          "DA_JeweledGauntlet",
+          "DA_RabadonsDeathcap"
+        ]
+      },
+      {
+        "unitId": "DA_18_Sejuani",
+        "items": [
+          "DA_BrambleVest",
+          "DA_Crownguard",
+          "DA_WarmogsArmor"
+        ]
+      }
+    ],
+    "defaultRollLevel": 6,
+    "tags": [
+      "reroll2",
+      "人工审核",
+      "条件变体",
+      "样本偏小"
+    ],
+    "requirements": [
+      "来源展示凯尔瑟庄妮慎三星；运营围绕二费核心"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.643Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源展示凯尔瑟庄妮慎三星；运营围绕二费核心",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.11,
+      "top4Rate": 0.5670000000000001,
+      "winRate": 0.209,
+      "sampleSize": 277,
+      "incompleteBoards": 75,
+      "representativeLevel": 9,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_1b625a5c64e6188f9aa950307d81780c46ebd257749b3fb402b764ec",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-16",
+    "name": "野兽之灵奈德丽墨菲特",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast8",
+    "coreUnits": [
+      "DA_Nidalee18_AP",
+      "DA_18_Sivir",
+      "DA_18_Malphite"
+    ],
+    "optionalUnits": [
+      "DA_18_Ivern",
+      "DA_Taric18",
+      "DA_18_Ashe",
+      "DA_18_Alune",
+      "DA_Sentinel18",
+      "DA_Vi18",
+      "DA_KogMaw18_AD"
+    ],
+    "carries": [
+      "DA_Nidalee18_AP",
+      "DA_18_Sivir"
+    ],
+    "tanks": [
+      "DA_18_Malphite"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Malphite",
+        "items": [
+          "DA_ProtectorsVow",
+          "DA_SteadfastHeart",
+          "DA_SunfireCape"
+        ]
+      },
+      {
+        "unitId": "DA_18_Sivir",
+        "items": [
+          "DA_GuinsoosRageblade",
+          "DA_InfinityEdge",
+          "DA_InfinityEdge"
+        ]
+      },
+      {
+        "unitId": "DA_Nidalee18_AP",
+        "items": [
+          "DA_18_EmblemHunter",
+          "DA_SpearOfShojin",
+          "DA_SteraksGage"
+        ]
+      }
+    ],
+    "defaultRollLevel": 8,
+    "tags": [
+      "fast8",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "来源奈德丽携带猎人纹章，高羁绊需要条件核实"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.644Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源奈德丽携带猎人纹章，高羁绊需要条件核实",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.13,
+      "top4Rate": 0.5870000000000001,
+      "winRate": 0.126,
+      "sampleSize": 995,
+      "incompleteBoards": 323,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_03ee2d535405398d5d3a4fa532d57d6075f3cbc48a9382cb1965992d",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-17",
+    "name": "灵魂莲华易奈德丽",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "reroll3",
+    "coreUnits": [
+      "DA_18_MasterYi_AD",
+      "DA_Nidalee18_AP",
+      "DA_Vi18"
+    ],
+    "optionalUnits": [
+      "DA_18_Ashe",
+      "DA_Lux18_Base",
+      "DA_18_Sett",
+      "DA_18_Malphite",
+      "DA_Krug18",
+      "DA_18_Yorick",
+      "DA_18_RekSai"
+    ],
+    "carries": [
+      "DA_18_MasterYi_AD",
+      "DA_Nidalee18_AP"
+    ],
+    "tanks": [
+      "DA_Vi18"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_MasterYi_AD",
+        "items": [
+          "DA_18_EmblemBrawler",
+          "DA_GuinsoosRageblade",
+          "DA_TitansResolve_Radiant"
+        ]
+      },
+      {
+        "unitId": "DA_Nidalee18_AP",
+        "items": [
+          "DA_GuinsoosRageblade",
+          "DA_RabadonsDeathcap",
+          "DA_SpearOfShojin"
+        ]
+      },
+      {
+        "unitId": "DA_Vi18",
+        "items": [
+          "DA_DragonsClaw",
+          "DA_Evenshroud",
+          "DA_SpiritVisage"
+        ]
+      }
+    ],
+    "defaultRollLevel": 7,
+    "tags": [
+      "reroll3",
+      "人工审核",
+      "条件变体",
+      "样本偏小"
+    ],
+    "requirements": [
+      "样本较小且有斗士纹章，低置信度条件路线"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.644Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "样本较小且有斗士纹章，低置信度条件路线",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.14,
+      "top4Rate": 0.594,
+      "winRate": 0.135,
+      "sampleSize": 133,
+      "incompleteBoards": 42,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_0d2112f63f86acf8937429a0880c0c4f6c543dc8f5e1ff7726db8877",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-18",
+    "name": "地狱火艾希希维尔",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "fast9",
+    "coreUnits": [
+      "DA_18_Ashe",
+      "DA_18_Sivir",
+      "DA_Amumu18"
+    ],
+    "optionalUnits": [
+      "DA_18_Ivern",
+      "DA_Lux18_Base",
+      "DA_18_Kennen",
+      "DA_18_Lillia",
+      "DA_Vi18",
+      "DA_18_Tristana",
+      "DA_18_Shen"
+    ],
+    "carries": [
+      "DA_18_Ashe",
+      "DA_18_Sivir"
+    ],
+    "tanks": [
+      "DA_Amumu18"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Ashe",
+        "items": [
+          "DA_18_EmblemInferno",
+          "DA_RedBuff",
+          "DA_SpearOfShojin"
+        ]
+      },
+      {
+        "unitId": "DA_18_Sivir",
+        "items": [
+          "DA_Deathblade",
+          "DA_InfinityEdge",
+          "DA_KrakensFury"
+        ]
+      },
+      {
+        "unitId": "DA_Amumu18",
+        "items": [
+          "DA_Crownguard",
+          "DA_GargoyleStoneplate",
+          "DA_WarmogsArmor"
+        ]
+      }
+    ],
+    "defaultRollLevel": 9,
+    "tags": [
+      "fast9",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "来源艾希携带地狱火纹章，九级路线需要经济条件"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.644Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源艾希携带地狱火纹章，九级路线需要经济条件",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.17,
+      "top4Rate": 0.5379999999999999,
+      "winRate": 0.19399999999999998,
+      "sampleSize": 971,
+      "incompleteBoards": 325,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_65cd63077c76206eaa61c4794ddce66ae40ee51697efaecb90edf5fb",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "set18-top4-20",
+    "name": "神谕崔丝塔娜",
+    "patch": "18.2",
+    "set": "18",
+    "archetype": "reroll3",
+    "coreUnits": [
+      "DA_18_Tristana",
+      "DA_18_Rammus"
+    ],
+    "optionalUnits": [
+      "DA_18_Sivir",
+      "DA_Draven18",
+      "DA_18_Lillia",
+      "DA_Sentinel18",
+      "DA_Vi18",
+      "DA_KogMaw18_AD",
+      "DA_18_Teemo",
+      "DA_18_Rakan"
+    ],
+    "carries": [
+      "DA_18_Tristana"
+    ],
+    "tanks": [
+      "DA_18_Rammus"
+    ],
+    "preferredItems": [
+      {
+        "unitId": "DA_18_Rammus",
+        "items": [
+          "DA_DragonsClaw",
+          "DA_GargoyleStoneplate",
+          "DA_GargoyleStoneplate"
+        ]
+      },
+      {
+        "unitId": "DA_18_Tristana",
+        "items": [
+          "DA_Artifact_NavoriFlickerblade",
+          "DA_GuinsoosRageblade",
+          "DA_HextechGunblade"
+        ]
+      }
+    ],
+    "defaultRollLevel": 7,
+    "tags": [
+      "reroll3",
+      "人工审核",
+      "条件变体"
+    ],
+    "requirements": [
+      "来源含烁刃及花仙子纹章，仅代表条件装备变体"
+    ],
+    "curation": {
+      "reviewedAt": "2026-09-10T14:28:57.644Z",
+      "rationale": "按公开 Diamond+ 均排、前四率、胜率、样本量及运营类型覆盖筛选；保留原始样本口径，不按 S/A/B 排名直接转换推荐分。未提供可比较登场率，故留空。",
+      "archetypeBasis": "根据来源三星目标、核心费用与代表终盘人工归类；D牌等级是运营默认值，不是样本平均等级。",
+      "caveats": [
+        "来源含烁刃及花仙子纹章，仅代表条件装备变体",
+        "全部为终盘聚类的 all-level sample；包含推断不完整棋盘，不能当作干净八人口固定阵容胜率。",
+        "未核实 Challenger 独立采用率；缺少 playRate 分母，未用样本数除以对局数伪造登场率。"
+      ]
+    },
+    "meta": {
+      "avgPlacement": 4.24,
+      "top4Rate": 0.5329999999999999,
+      "winRate": 0.203,
+      "sampleSize": 2615,
+      "incompleteBoards": 469,
+      "representativeLevel": 10,
+      "collectedAt": "2026-09-10T14:06:20.211Z",
+      "sources": [
+        {
+          "name": "TOP4.GG",
+          "url": "https://top4.gg/comps#comp-f3_3dd1d5e7d7b866b1d77e02fae9397095d678b74a89817d98e75514ea",
+          "patch": "18.2",
+          "collectedAt": "2026-09-10T14:06:20.211Z",
+          "snapshot": "docs/sources/top4-18.2-2026-09-10.json",
+          "sha256": "5d310681a042e44d2a144c96d535b9fdb0d9bf35c6a92096e746a0eaf102b2a9",
+          "rank": "Diamond+",
+          "windowHours": 72,
+          "sampleScope": "终盘聚类 / all-level / 包含 inferred incomplete boards"
+        }
+      ]
+    }
+  }
+]

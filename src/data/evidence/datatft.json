@@ -1,0 +1,13 @@
+{
+  "records": [],
+  "status": {
+    "id": "datatft",
+    "name": "DataTFT",
+    "sourceUrl": "https://www.datatft.com/comps/rank",
+    "checkedAt": "2026-09-11T01:18:38.963Z",
+    "method": "manual + HTML availability check",
+    "status": "unknown",
+    "fields": [],
+    "message": "人工 Provider 已就绪，尚无审核记录。"
+  }
+}

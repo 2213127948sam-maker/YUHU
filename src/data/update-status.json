@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-09-11T01:18:33.642Z",
+  "success": true,
+  "observedPatch": {
+    "set": "18",
+    "releasedAt": "2026-09-09T18:00:00.000Z",
+    "patch": "18.2",
+    "patchNotesUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-2/",
+    "checkedAt": "2026-09-11T01:18:35.225Z",
+    "resourceVersion": "16.18.1",
+    "resourcePublishedAt": "2026-09-11T00:37:09.000Z",
+    "resourceMetadataUrl": "https://raw.communitydragon.org/latest/content-metadata.json",
+    "patchAssociation": "官方公告版本 + Riot/CDragon 资源分支一致 + 资源发布时间晚于公告；非地区服务器上线探测"
+  }
+}

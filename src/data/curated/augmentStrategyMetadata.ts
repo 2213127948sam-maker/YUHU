@@ -1,0 +1,25 @@
+import type { AugmentStrategyMetadata } from '../types.ts';
+// Optional human annotations; intentionally independent of generated augments.
+export const augmentStrategyMetadata: AugmentStrategyMetadata[] = [
+  { augmentId: 'DA_LevelUp', type: 'economy', tempoImpact: 2, tags: ['fast8', 'fast9', '经验'] },
+  { augmentId: 'DA_PatientStudy', type: 'economy', tempoImpact: 1, tags: ['经验', '灵活'] },
+  { augmentId: 'DA_PatienceIsAVirtue', type: 'reroll', tempoImpact: 2, tags: ['免费刷新', '限制购买节奏'] },
+  { augmentId: 'DA_18_FloraFatalisAugment', type: 'trait', tempoImpact: 3, tags: ['条件路线', '绝命花妖'] },
+  { augmentId: 'DA_PrismaticTicket', type: 'reroll', tempoImpact: 2, tags: ['免费刷新'] },
+  { augmentId: 'DA_PandorasBench', type: 'reroll', tempoImpact: 1, tags: ['备战席', '追三'] },
+  { augmentId: 'DA_HeroicGrabBag', type: 'reroll', tempoImpact: 1, tags: ['次级复制器'] },
+  { augmentId: 'DA_HeroicGrabBagPlus', type: 'reroll', tempoImpact: 1, tags: ['次级复制器'] },
+  { augmentId: 'DA_HeroicGrabBagPlusPlus', type: 'reroll', tempoImpact: 1, tags: ['次级复制器'] },
+  { augmentId: 'DA_InvestedPlus', type: 'reroll', tempoImpact: 2, tags: ['高额储蓄', '免费刷新'] },
+  { augmentId: 'DA_InvestedPlusPlus', type: 'reroll', tempoImpact: 2, tags: ['高额储蓄', '免费刷新'] },
+  { augmentId: 'DA_Ascension', type: 'combat', tempoImpact: 1, tags: ['持续战斗'] },
+  { augmentId: 'DA_PartialAscension', type: 'combat', tempoImpact: 1, tags: ['持续战斗'] },
+  { augmentId: 'DA_JeweledLotus_I', type: 'combat', tempoImpact: 1, tags: ['技能暴击'] },
+  { augmentId: 'DA_JeweledLotus_II', type: 'combat', tempoImpact: 1, tags: ['技能暴击'] },
+  { augmentId: 'DA_18_BigGrabBag', type: 'item', tempoImpact: 1, tags: ['灵活装备'] },
+  { augmentId: 'DA_ItemGrabBag', type: 'item', tempoImpact: 1, tags: ['灵活装备'] },
+  { augmentId: 'DA_ComponentBuffet', type: 'item', tempoImpact: 1, tags: ['装备可调整'] },
+  { augmentId: 'DA_PandorasItemsI', type: 'item', tempoImpact: 2, tags: ['装备可调整'] },
+  { augmentId: 'DA_PandorasItemsII', type: 'item', tempoImpact: 2, tags: ['装备可调整'] },
+  { augmentId: 'DA_PandorasItemsIII', type: 'item', tempoImpact: 2, tags: ['装备可调整'] },
+];

@@ -1,0 +1,13 @@
+{
+  "records": [],
+  "status": {
+    "id": "metatft",
+    "name": "MetaTFT",
+    "sourceUrl": "https://www.metatft.com/comps",
+    "checkedAt": "2026-09-11T01:18:39.050Z",
+    "method": "manual + HTML availability check",
+    "status": "unknown",
+    "fields": [],
+    "message": "人工 Provider 已就绪，尚无审核记录。"
+  }
+}
