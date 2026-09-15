@@ -2,30 +2,13 @@
   "records": [
     {
       "source": "tftflow",
-      "sourceRecordId": "draven-fast-9",
-      "sourceUrl": "https://tftflow.com/composition/set18/draven-fast-9",
-      "name": "Draven Fast 9",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "default",
-      "archetype": "fast9",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
       "sourceRecordId": "nidalee-aphelios",
       "sourceUrl": "https://tftflow.com/composition/set18/nidalee-aphelios",
       "name": "Nidalee Aphelios",
       "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
       "category": "default",
       "archetype": "fast8",
       "notes": [
@@ -40,9 +23,9 @@
       "sourceUrl": "https://tftflow.com/composition/set18/sivir-hunters",
       "name": "Sivir Hunters",
       "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
       "category": "default",
       "archetype": "fast8",
       "notes": [
@@ -57,9 +40,9 @@
       "sourceUrl": "https://tftflow.com/composition/set18/sivir-nidalee",
       "name": "Sivir Nidalee",
       "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
       "category": "default",
       "archetype": "fast8",
       "notes": [
@@ -67,6 +50,554 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "invoker-ahri",
+      "sourceUrl": "https://tftflow.com/composition/set18/invoker-ahri",
+      "name": "Invoker Ahri",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "default",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "soraka-zyra",
+      "sourceUrl": "https://tftflow.com/composition/set18/soraka-zyra",
+      "name": "Soraka Flex",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "default",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "draven-fast-9",
+      "sourceUrl": "https://tftflow.com/composition/set18/draven-fast-9",
+      "name": "Draven Fast 9",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "fast9",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "elderwood-aphelios",
+      "sourceUrl": "https://tftflow.com/composition/set18/elderwood-aphelios",
+      "name": "Elderwood Aphelios",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "vanguard-aphelios",
+      "sourceUrl": "https://tftflow.com/composition/set18/vanguard-aphelios",
+      "name": "Vanguard Aphelios",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "rengar-reroll-3",
+      "sourceUrl": "https://tftflow.com/composition/set18/rengar-reroll-3",
+      "name": "Rengar Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "riftbeast-tempo",
+      "sourceUrl": "https://tftflow.com/composition/set18/riftbeast-tempo",
+      "name": "Riftbeast Tempo",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "tristana-reroll-2",
+      "sourceUrl": "https://tftflow.com/composition/set18/tristana-reroll-2",
+      "name": "Tristana Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "caitlyn-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/caitlyn-reroll",
+      "name": "Caitlyn Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "master-yi-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/master-yi-reroll",
+      "name": "Master Yi Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "blossom",
+      "sourceUrl": "https://tftflow.com/composition/set18/blossom",
+      "name": "Blossom",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "veigar-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/veigar-reroll",
+      "name": "Veigar Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "meta",
+      "archetype": "reroll1",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "rapidfire-bramble",
+      "sourceUrl": "https://tftflow.com/composition/set18/rapidfire-bramble",
+      "name": "Rapidfire Bramble",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "A",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "unrivaled-khazix-rengar",
+      "sourceUrl": "https://tftflow.com/composition/set18/unrivaled-khazix-rengar",
+      "name": "Unrivaled Kha'Zix & Rengar",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "solar-yunara",
+      "sourceUrl": "https://tftflow.com/composition/set18/solar-yunara",
+      "name": "Solar Yunara",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "akali-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/akali-reroll",
+      "name": "Akali Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll1",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "yunara-executioner-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/yunara-executioner-reroll",
+      "name": "Yunara Executioner Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "C",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "warwick-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/warwick-reroll",
+      "name": "Warwick Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "D",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "dark-ritual-coven",
+      "sourceUrl": "https://tftflow.com/composition/set18/dark-ritual-coven",
+      "name": "Dark Ritual Coven",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "S",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "blossom-fast-9",
+      "sourceUrl": "https://tftflow.com/composition/set18/blossom-fast-9",
+      "name": "Blossom Fast 9",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "A",
+      "archetype": "fast9",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "invoker-brambleback",
+      "sourceUrl": "https://tftflow.com/composition/set18/invoker-brambleback",
+      "name": "Invoker Brambleback",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "juggernaut-zyra",
+      "sourceUrl": "https://tftflow.com/composition/set18/juggernaut-zyra",
+      "name": "Juggernaut Zyra",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "spellweaver-ahri",
+      "sourceUrl": "https://tftflow.com/composition/set18/spellweaver-ahri",
+      "name": "Spellweaver Ahri",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "defender-cassiopeia",
+      "sourceUrl": "https://tftflow.com/composition/set18/defender-cassiopeia",
+      "name": "Defender Cassiopeia",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "pebbles-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/pebbles-reroll",
+      "name": "Pebbles Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll1",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "invoker-nidalee",
+      "sourceUrl": "https://tftflow.com/composition/set18/invoker-nidalee",
+      "name": "Invoker Nidalee",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "C",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "blackthorn-khazix",
+      "sourceUrl": "https://tftflow.com/composition/set18/blackthorn-khazix",
+      "name": "Blackthorn Kha'Zix",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "C",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "elderwood-kayle-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/elderwood-kayle-reroll",
+      "name": "Elderwood Kayle Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "C",
+      "archetype": "unknown",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。",
+        "原站标为1费与2费混合 Reroll，不归为单一费用。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "elderwood-veigar",
+      "sourceUrl": "https://tftflow.com/composition/set18/elderwood-veigar",
+      "name": "Elderwood Veigar",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "C",
+      "archetype": "reroll1",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "inferno-kayle-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/inferno-kayle-reroll",
+      "name": "Inferno Kayle Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "collectedAt": "2026-09-15T17:05:09.477Z",
+      "sha256": "02900f9547602df48a7671a80158318247dea9786585dd959c1fd3e15451c70b",
+      "category": "other",
+      "tier": "D",
+      "archetype": "unknown",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。",
+        "原站标为1费与2费混合 Reroll，不归为单一费用。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "draven-fast-9",
+      "sourceUrl": "https://tftflow.com/composition/set18/draven-fast-9",
+      "name": "Draven Fast 9",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "default",
+      "archetype": "fast9",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
     },
     {
       "source": "tftflow",
@@ -83,13 +614,14 @@
         "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "missing"
     },
     {
       "source": "tftflow",
-      "sourceRecordId": "soraka-zyra",
-      "sourceUrl": "https://tftflow.com/composition/set18/soraka-zyra",
-      "name": "Soraka Flex",
+      "sourceRecordId": "nidalee-aphelios",
+      "sourceUrl": "https://tftflow.com/composition/set18/nidalee-aphelios",
+      "name": "Nidalee Aphelios",
       "set": "18",
       "patch": "18.2",
       "collectedAt": "2026-09-15T11:51:11.009Z",
@@ -100,394 +632,8 @@
         "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "elderwood-aphelios",
-      "sourceUrl": "https://tftflow.com/composition/set18/elderwood-aphelios",
-      "name": "Elderwood Aphelios",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "vanguard-aphelios",
-      "sourceUrl": "https://tftflow.com/composition/set18/vanguard-aphelios",
-      "name": "Vanguard Aphelios",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "rengar-reroll-3",
-      "sourceUrl": "https://tftflow.com/composition/set18/rengar-reroll-3",
-      "name": "Rengar Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "reroll3",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "riftbeast-tempo",
-      "sourceUrl": "https://tftflow.com/composition/set18/riftbeast-tempo",
-      "name": "Riftbeast Tempo",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "reroll3",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "tristana-reroll-2",
-      "sourceUrl": "https://tftflow.com/composition/set18/tristana-reroll-2",
-      "name": "Tristana Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "reroll3",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "caitlyn-reroll",
-      "sourceUrl": "https://tftflow.com/composition/set18/caitlyn-reroll",
-      "name": "Caitlyn Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "reroll2",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "master-yi-reroll",
-      "sourceUrl": "https://tftflow.com/composition/set18/master-yi-reroll",
-      "name": "Master Yi Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "reroll3",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "blossom",
-      "sourceUrl": "https://tftflow.com/composition/set18/blossom",
-      "name": "Blossom",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "veigar-reroll",
-      "sourceUrl": "https://tftflow.com/composition/set18/veigar-reroll",
-      "name": "Veigar Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "meta",
-      "archetype": "reroll1",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "rapidfire-bramble",
-      "sourceUrl": "https://tftflow.com/composition/set18/rapidfire-bramble",
-      "name": "Rapidfire Bramble",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "A",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "unrivaled-khazix-rengar",
-      "sourceUrl": "https://tftflow.com/composition/set18/unrivaled-khazix-rengar",
-      "name": "Unrivaled Kha'Zix & Rengar",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "reroll3",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "solar-yunara",
-      "sourceUrl": "https://tftflow.com/composition/set18/solar-yunara",
-      "name": "Solar Yunara",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "reroll2",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "akali-reroll",
-      "sourceUrl": "https://tftflow.com/composition/set18/akali-reroll",
-      "name": "Akali Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "reroll1",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "yunara-executioner-reroll",
-      "sourceUrl": "https://tftflow.com/composition/set18/yunara-executioner-reroll",
-      "name": "Yunara Executioner Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "C",
-      "archetype": "reroll2",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "warwick-reroll",
-      "sourceUrl": "https://tftflow.com/composition/set18/warwick-reroll",
-      "name": "Warwick Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "D",
-      "archetype": "reroll2",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "dark-ritual-coven",
-      "sourceUrl": "https://tftflow.com/composition/set18/dark-ritual-coven",
-      "name": "Dark Ritual Coven",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "S",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "blossom-fast-9",
-      "sourceUrl": "https://tftflow.com/composition/set18/blossom-fast-9",
-      "name": "Blossom Fast 9",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "A",
-      "archetype": "fast9",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "invoker-brambleback",
-      "sourceUrl": "https://tftflow.com/composition/set18/invoker-brambleback",
-      "name": "Invoker Brambleback",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "juggernaut-zyra",
-      "sourceUrl": "https://tftflow.com/composition/set18/juggernaut-zyra",
-      "name": "Juggernaut Zyra",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "spellweaver-ahri",
-      "sourceUrl": "https://tftflow.com/composition/set18/spellweaver-ahri",
-      "name": "Spellweaver Ahri",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "fast8",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "defender-cassiopeia",
-      "sourceUrl": "https://tftflow.com/composition/set18/defender-cassiopeia",
-      "name": "Defender Cassiopeia",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "reroll3",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftflow",
-      "sourceRecordId": "pebbles-reroll",
-      "sourceUrl": "https://tftflow.com/composition/set18/pebbles-reroll",
-      "name": "Pebbles Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "collectedAt": "2026-09-15T11:51:11.009Z",
-      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
-      "category": "other",
-      "tier": "B",
-      "archetype": "reroll1",
-      "notes": [
-        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
-        "部分阵容依赖特定强化或装备，完整条件见原文。"
-      ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "missing"
     },
     {
       "source": "tftflow",
@@ -505,7 +651,471 @@
         "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "vanguard-aphelios",
+      "sourceUrl": "https://tftflow.com/composition/set18/vanguard-aphelios",
+      "name": "Vanguard Aphelios",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "elderwood-aphelios",
+      "sourceUrl": "https://tftflow.com/composition/set18/elderwood-aphelios",
+      "name": "Elderwood Aphelios",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "defender-cassiopeia",
+      "sourceUrl": "https://tftflow.com/composition/set18/defender-cassiopeia",
+      "name": "Defender Cassiopeia",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "veigar-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/veigar-reroll",
+      "name": "Veigar Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "reroll1",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "sivir-hunters",
+      "sourceUrl": "https://tftflow.com/composition/set18/sivir-hunters",
+      "name": "Sivir Hunters",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "default",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "tristana-reroll-2",
+      "sourceUrl": "https://tftflow.com/composition/set18/tristana-reroll-2",
+      "name": "Tristana Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "spellweaver-ahri",
+      "sourceUrl": "https://tftflow.com/composition/set18/spellweaver-ahri",
+      "name": "Spellweaver Ahri",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "sivir-nidalee",
+      "sourceUrl": "https://tftflow.com/composition/set18/sivir-nidalee",
+      "name": "Sivir Nidalee",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "default",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "soraka-zyra",
+      "sourceUrl": "https://tftflow.com/composition/set18/soraka-zyra",
+      "name": "Soraka Flex",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "default",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "rengar-reroll-3",
+      "sourceUrl": "https://tftflow.com/composition/set18/rengar-reroll-3",
+      "name": "Rengar Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "riftbeast-tempo",
+      "sourceUrl": "https://tftflow.com/composition/set18/riftbeast-tempo",
+      "name": "Riftbeast Tempo",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "caitlyn-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/caitlyn-reroll",
+      "name": "Caitlyn Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "master-yi-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/master-yi-reroll",
+      "name": "Master Yi Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "blossom",
+      "sourceUrl": "https://tftflow.com/composition/set18/blossom",
+      "name": "Blossom",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "meta",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "rapidfire-bramble",
+      "sourceUrl": "https://tftflow.com/composition/set18/rapidfire-bramble",
+      "name": "Rapidfire Bramble",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "A",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "unrivaled-khazix-rengar",
+      "sourceUrl": "https://tftflow.com/composition/set18/unrivaled-khazix-rengar",
+      "name": "Unrivaled Kha'Zix & Rengar",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll3",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "solar-yunara",
+      "sourceUrl": "https://tftflow.com/composition/set18/solar-yunara",
+      "name": "Solar Yunara",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "akali-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/akali-reroll",
+      "name": "Akali Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll1",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "yunara-executioner-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/yunara-executioner-reroll",
+      "name": "Yunara Executioner Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "C",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "warwick-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/warwick-reroll",
+      "name": "Warwick Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "D",
+      "archetype": "reroll2",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "dark-ritual-coven",
+      "sourceUrl": "https://tftflow.com/composition/set18/dark-ritual-coven",
+      "name": "Dark Ritual Coven",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "S",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "blossom-fast-9",
+      "sourceUrl": "https://tftflow.com/composition/set18/blossom-fast-9",
+      "name": "Blossom Fast 9",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "A",
+      "archetype": "fast9",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "invoker-brambleback",
+      "sourceUrl": "https://tftflow.com/composition/set18/invoker-brambleback",
+      "name": "Invoker Brambleback",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "juggernaut-zyra",
+      "sourceUrl": "https://tftflow.com/composition/set18/juggernaut-zyra",
+      "name": "Juggernaut Zyra",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "pebbles-reroll",
+      "sourceUrl": "https://tftflow.com/composition/set18/pebbles-reroll",
+      "name": "Pebbles Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "collectedAt": "2026-09-15T11:51:11.009Z",
+      "sha256": "5e1fa2fa0c1263d14358a943079643d65fbf514eb7b652220113bf24fcc4d5e3",
+      "category": "other",
+      "tier": "B",
+      "archetype": "reroll1",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": true,
+      "retentionReason": "missing"
     },
     {
       "source": "tftflow",
@@ -523,7 +1133,8 @@
         "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "missing"
     },
     {
       "source": "tftflow",
@@ -542,7 +1153,8 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。",
         "原站标为1费与2费混合 Reroll，不归为单一费用。"
       ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "missing"
     },
     {
       "source": "tftflow",
@@ -560,7 +1172,8 @@
         "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "missing"
     },
     {
       "source": "tftflow",
@@ -579,24 +1192,25 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。",
         "原站标为1费与2费混合 Reroll，不归为单一费用。"
       ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "missing"
     }
   ],
   "status": {
     "id": "tftflow",
     "name": "TFTFlow",
     "sourceUrl": "https://tftflow.com/",
-    "checkedAt": "2026-09-15T11:51:11.009Z",
+    "checkedAt": "2026-09-15T17:05:09.477Z",
     "method": "公开 HTML 语义卡片",
-    "detectedPatch": "18.2",
-    "collectedAt": "2026-09-15T11:51:11.009Z",
-    "status": "fresh",
+    "detectedPatch": "18.2b",
+    "collectedAt": "2026-09-15T17:05:09.477Z",
+    "status": "stale",
     "fields": [
       "阵容名称",
       "原站分组",
       "部分Tier",
       "运营分类"
     ],
-    "message": "只采集公开卡片；无胜率/样本统计，不推断隐藏评级。"
+    "message": "只采集公开卡片；无胜率/样本统计，不推断隐藏评级。 保留33条历史记录，已标记不属于本次采集。"
   }
 }
