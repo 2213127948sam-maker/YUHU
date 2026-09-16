@@ -39,9 +39,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ahri-morgana",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.435Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.419Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast8",
         "coreUnits": [
@@ -100,8 +100,8 @@
         "name": "Invoker Ahri",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "default",
         "archetype": "fast8",
         "notes": [
@@ -129,7 +129,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-412d669db2066acd",
@@ -174,9 +174,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dragon-princess",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-16T05:59:31.596Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.536Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast9",
         "coreUnits": [
@@ -229,7 +229,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-51c996b80a544c01",
@@ -275,9 +275,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-elderwood-executioners-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.841Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.534Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast9",
         "coreUnits": [
@@ -335,6 +335,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -347,8 +348,8 @@
         "name": "Draven Fast 9",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "fast9",
         "notes": [
@@ -376,7 +377,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-2331b0237694c365",
@@ -421,9 +422,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-blossom-fast-9",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.782Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.521Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast9",
         "coreUnits": [
@@ -476,7 +477,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-621a092dcb9822f6",
@@ -520,9 +521,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-invoker-nidalee-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.808Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:13.951Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast8",
         "coreUnits": [
@@ -575,7 +576,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-0085600f2661be5b",
@@ -620,9 +621,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-aphelios-nidalee",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.434Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:17.863Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast8",
         "coreUnits": [
@@ -681,8 +682,8 @@
         "name": "Nidalee Aphelios",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "default",
         "archetype": "fast8",
         "notes": [
@@ -710,7 +711,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-00de214d1771f013",
@@ -755,9 +756,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-soraka-flex",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.828Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:16:59.841Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast8",
         "coreUnits": [
@@ -810,7 +811,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-bbae3b0a633eafed",
@@ -852,9 +853,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-caitlyn-hunters",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.302Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:18.115Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "reroll2",
         "coreUnits": [
@@ -905,7 +906,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-3a81b563702a37ab",
@@ -948,9 +949,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-riftbeast-reroll",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.782Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:24.169Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "reroll1",
         "coreUnits": [
@@ -1003,7 +1004,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-d476a53bb990e3d0",
@@ -1044,9 +1045,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-16T05:59:56.301Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:26.558Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "reroll3",
         "coreUnits": [
@@ -1097,110 +1098,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
-  },
-  {
-    "id": "comp-135c86566b0e9fe9",
-    "name": "Juggernaut AP",
-    "aliases": [
-      "Juggernaut AP"
-    ],
-    "set": "18",
-    "archetype": "fast8",
-    "coreUnits": [
-      "DA_18_Yorick",
-      "DA_Scuttlecrab18",
-      "DA_18_Azir",
-      "DA_Vi18",
-      "DA_Amumu18",
-      "DA_18_Zyra",
-      "DA_18_Maokai",
-      "DA_18_Ivern",
-      "DA_18_Kennen"
-    ],
-    "carries": [
-      "DA_Amumu18"
-    ],
-    "tanks": [],
-    "traits": [
-      "DA_18_Blossom",
-      "DA_Juggernaut18",
-      "DA_18_Summoner",
-      "DA_Riftbeast18",
-      "DA_18_Blackthorn",
-      "DA_18_Executioner",
-      "DA_Primal18",
-      "DA_18_Inferno",
-      "DA_18_ZyraUniqueTrait",
-      "DA_18_Maokai_UniqueTrait",
-      "DA_18_Greenfather"
-    ],
-    "sources": [
-      {
-        "source": "tftacademy",
-        "sourceRecordId": "uqypgdyijf2m8jp",
-        "name": "Juggernaut AP",
-        "set": "18",
-        "patch": "18.2b",
-        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-6-juggernaut-ap",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.485Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
-        "tier": "B",
-        "archetype": "fast8",
-        "coreUnits": [
-          "DA_18_Yorick",
-          "DA_Scuttlecrab18",
-          "DA_18_Azir",
-          "DA_Vi18",
-          "DA_Amumu18",
-          "DA_18_Zyra",
-          "DA_18_Maokai",
-          "DA_18_Ivern",
-          "DA_18_Kennen"
-        ],
-        "carries": [
-          "DA_Amumu18"
-        ],
-        "notes": [
-          "专家评级；条件与完整指南请查看原文。"
-        ],
-        "retained": false
-      },
-      {
-        "source": "tftacademy",
-        "sourceRecordId": "uqypgdyijf2m8jp",
-        "name": "Juggernaut AP",
-        "set": "18",
-        "patch": "18.2",
-        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-6-juggernaut-ap",
-        "collectedAt": "2026-09-15T17:05:09.103Z",
-        "sourceUpdatedAt": "2026-09-15T14:23:30.303Z",
-        "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
-        "tier": "B",
-        "archetype": "fast8",
-        "coreUnits": [
-          "DA_18_Yorick",
-          "DA_Scuttlecrab18",
-          "DA_18_Azir",
-          "DA_Vi18",
-          "DA_Amumu18",
-          "DA_18_Zyra",
-          "DA_18_Maokai",
-          "DA_18_Ivern",
-          "DA_18_Kennen"
-        ],
-        "carries": [
-          "DA_Amumu18"
-        ],
-        "notes": [
-          "专家评级；条件与完整指南请查看原文。"
-        ],
-        "retained": true,
-        "retentionReason": "missing"
-      }
-    ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-223152e200d2df2c",
@@ -1247,9 +1145,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-cashout-morgana",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.313Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:16:50.661Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "unknown",
         "coreUnits": [
@@ -1304,7 +1202,110 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
+  },
+  {
+    "id": "comp-135c86566b0e9fe9",
+    "name": "Juggernaut AP",
+    "aliases": [
+      "Juggernaut AP"
+    ],
+    "set": "18",
+    "archetype": "fast8",
+    "coreUnits": [
+      "DA_18_Yorick",
+      "DA_Scuttlecrab18",
+      "DA_18_Azir",
+      "DA_Vi18",
+      "DA_Amumu18",
+      "DA_18_Zyra",
+      "DA_18_Maokai",
+      "DA_18_Ivern",
+      "DA_18_Kennen"
+    ],
+    "carries": [
+      "DA_Amumu18"
+    ],
+    "tanks": [],
+    "traits": [
+      "DA_18_Blossom",
+      "DA_Juggernaut18",
+      "DA_18_Summoner",
+      "DA_Riftbeast18",
+      "DA_18_Blackthorn",
+      "DA_18_Executioner",
+      "DA_Primal18",
+      "DA_18_Inferno",
+      "DA_18_ZyraUniqueTrait",
+      "DA_18_Maokai_UniqueTrait",
+      "DA_18_Greenfather"
+    ],
+    "sources": [
+      {
+        "source": "tftacademy",
+        "sourceRecordId": "uqypgdyijf2m8jp",
+        "name": "Juggernaut AP",
+        "set": "18",
+        "patch": "18.2b",
+        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-6-juggernaut-ap",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:14.746Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
+        "tier": "B",
+        "archetype": "fast8",
+        "coreUnits": [
+          "DA_18_Yorick",
+          "DA_Scuttlecrab18",
+          "DA_18_Azir",
+          "DA_Vi18",
+          "DA_Amumu18",
+          "DA_18_Zyra",
+          "DA_18_Maokai",
+          "DA_18_Ivern",
+          "DA_18_Kennen"
+        ],
+        "carries": [
+          "DA_Amumu18"
+        ],
+        "notes": [
+          "专家评级；条件与完整指南请查看原文。"
+        ],
+        "retained": false
+      },
+      {
+        "source": "tftacademy",
+        "sourceRecordId": "uqypgdyijf2m8jp",
+        "name": "Juggernaut AP",
+        "set": "18",
+        "patch": "18.2",
+        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-6-juggernaut-ap",
+        "collectedAt": "2026-09-15T17:05:09.103Z",
+        "sourceUpdatedAt": "2026-09-15T14:23:30.303Z",
+        "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
+        "tier": "B",
+        "archetype": "fast8",
+        "coreUnits": [
+          "DA_18_Yorick",
+          "DA_Scuttlecrab18",
+          "DA_18_Azir",
+          "DA_Vi18",
+          "DA_Amumu18",
+          "DA_18_Zyra",
+          "DA_18_Maokai",
+          "DA_18_Ivern",
+          "DA_18_Kennen"
+        ],
+        "carries": [
+          "DA_Amumu18"
+        ],
+        "notes": [
+          "专家评级；条件与完整指南请查看原文。"
+        ],
+        "retained": true,
+        "retentionReason": "missing"
+      }
+    ],
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-8349531555a2809e",
@@ -1346,9 +1347,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solar-melee",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.531Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:18.061Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "reroll1",
         "coreUnits": [
@@ -1399,7 +1400,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-823b3c28fec12419",
@@ -1441,9 +1442,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.265Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:24.245Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "reroll3",
         "coreUnits": [
@@ -1494,7 +1495,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-039571deaa1eb6de",
@@ -1538,9 +1539,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-lunarwood-khazix",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.839Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:16:46.933Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "reroll3",
         "coreUnits": [
@@ -1596,13 +1597,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-6d074cecb94904d7",
@@ -1613,26 +1615,26 @@
     "set": "18",
     "archetype": "fast8",
     "coreUnits": [
-      "DA_18_Soraka",
       "DA_18_Ornn",
       "DA_18_Alistar",
-      "DA_18_Ezreal",
-      "DA_18_Ahri",
-      "DA_18_Sett",
       "DA_18_Yunara",
-      "DA_Fiddlesticks18"
+      "DA_Fiddlesticks18",
+      "DA_18_Soraka",
+      "DA_18_Ahri",
+      "DA_18_Ezreal",
+      "DA_18_Sett"
     ],
     "carries": [
       "DA_18_Ezreal"
     ],
     "tanks": [],
     "traits": [
-      "DA_FloraFatalis18",
-      "DA_18_Executioner",
       "DA_18_Elderwood",
       "DA_18_Defender",
       "DA_18_Brawler",
       "DA_18_Blossom",
+      "DA_18_Executioner",
+      "DA_FloraFatalis18",
       "DA_18_Spellweaver"
     ],
     "sources": [
@@ -1643,22 +1645,22 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-woodblossom",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.319Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:14:55.891Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast8",
         "coreUnits": [
-          "DA_18_Soraka",
+          "DA_Elderwood18_Lifeblossom",
+          "DA_Elderwood18_StonebarkTree",
           "DA_18_Ornn",
           "DA_18_Alistar",
-          "DA_18_Ezreal",
-          "DA_18_Ahri",
-          "DA_18_Sett",
-          "DA_Elderwood18_Lifeblossom",
           "DA_18_Yunara",
           "DA_Fiddlesticks18",
-          "DA_Elderwood18_StonebarkTree"
+          "DA_18_Soraka",
+          "DA_18_Ahri",
+          "DA_18_Ezreal",
+          "DA_18_Sett"
         ],
         "carries": [
           "DA_18_Ezreal"
@@ -1701,13 +1703,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-4a4c93398788e7e3",
@@ -1748,9 +1751,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-veigar-consuming-flora-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
         "sourceUpdatedAt": "2026-09-15T20:01:50.449Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "reroll1",
         "coreUnits": [
@@ -1804,13 +1807,113 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
+  },
+  {
+    "id": "comp-6bde9e86ab52b096",
+    "name": "Solar Yunara Reroll",
+    "aliases": [
+      "Solar Yunara Reroll"
+    ],
+    "set": "18",
+    "archetype": "reroll2",
+    "coreUnits": [
+      "DA_18_LeBlanc",
+      "DA_18_Leona",
+      "DA_18_Yorick",
+      "DA_18_Kayle",
+      "DA_Karma18",
+      "DA_18_Sejuani",
+      "DA_18_Yunara",
+      "DA_18_Azir"
+    ],
+    "carries": [
+      "DA_18_Yunara"
+    ],
+    "tanks": [],
+    "traits": [
+      "DA_18_Elderwood",
+      "DA_18_Spellweaver",
+      "DA_18_Solar",
+      "DA_18_Defender",
+      "DA_18_Blossom",
+      "DA_Juggernaut18",
+      "DA_18_Summoner",
+      "DA_18_Rapidfire",
+      "DA_18_Executioner",
+      "DA_18_Blackthorn"
+    ],
+    "sources": [
+      {
+        "source": "tftacademy",
+        "sourceRecordId": "dp3g3imnc4cihl4",
+        "name": "Solar Yunara Reroll",
+        "set": "18",
+        "patch": "18.2b",
+        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solara-yunara",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.544Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
+        "tier": "B",
+        "archetype": "reroll2",
+        "coreUnits": [
+          "DA_18_LeBlanc",
+          "DA_18_Leona",
+          "DA_18_Yorick",
+          "DA_18_Kayle",
+          "DA_Karma18",
+          "DA_18_Sejuani",
+          "DA_18_Yunara",
+          "DA_18_Azir"
+        ],
+        "carries": [
+          "DA_18_Yunara"
+        ],
+        "notes": [
+          "专家评级；条件与完整指南请查看原文。"
+        ],
+        "retained": false
+      },
+      {
+        "source": "tftacademy",
+        "sourceRecordId": "dp3g3imnc4cihl4",
+        "name": "Solar Yunara Reroll",
+        "set": "18",
+        "patch": "18.2",
+        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solara-yunara",
+        "collectedAt": "2026-09-15T17:05:09.103Z",
+        "sourceUpdatedAt": "2026-09-14T15:32:20.175Z",
+        "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
+        "tier": "C",
+        "archetype": "reroll2",
+        "coreUnits": [
+          "DA_18_Yunara",
+          "DA_18_Leona",
+          "DA_18_LeBlanc",
+          "DA_Karma18",
+          "DA_18_Sejuani",
+          "DA_18_Azir",
+          "DA_18_Kayle",
+          "DA_18_Yorick"
+        ],
+        "carries": [
+          "DA_18_Yunara"
+        ],
+        "notes": [
+          "专家评级；条件与完整指南请查看原文。"
+        ],
+        "retained": true,
+        "retentionReason": "missing"
+      }
+    ],
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-43bf4d2f1eb4d648",
@@ -1850,9 +1953,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solar-kayle",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.274Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:16:17.484Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "reroll2",
         "coreUnits": [
@@ -1906,13 +2009,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-8c3f42fbc02e11f2",
@@ -1955,9 +2059,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-nidalee",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
         "sourceUpdatedAt": "2026-09-15T20:01:50.518Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "fast8",
         "coreUnits": [
@@ -2016,8 +2120,8 @@
         "name": "Invoker Nidalee",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "C",
         "archetype": "fast8",
@@ -2047,7 +2151,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-22ce1545a596636d",
@@ -2091,9 +2195,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-rengar-rr",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.444Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:14.708Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "reroll3",
         "coreUnits": [
@@ -2146,106 +2250,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
-  },
-  {
-    "id": "comp-6bde9e86ab52b096",
-    "name": "Solar Yunara Reroll",
-    "aliases": [
-      "Solar Yunara Reroll"
-    ],
-    "set": "18",
-    "archetype": "reroll2",
-    "coreUnits": [
-      "DA_18_LeBlanc",
-      "DA_18_Leona",
-      "DA_18_Yorick",
-      "DA_18_Kayle",
-      "DA_Karma18",
-      "DA_18_Sejuani",
-      "DA_18_Yunara",
-      "DA_18_Azir"
-    ],
-    "carries": [
-      "DA_18_Yunara"
-    ],
-    "tanks": [],
-    "traits": [
-      "DA_18_Elderwood",
-      "DA_18_Spellweaver",
-      "DA_18_Solar",
-      "DA_18_Defender",
-      "DA_18_Blossom",
-      "DA_Juggernaut18",
-      "DA_18_Summoner",
-      "DA_18_Rapidfire",
-      "DA_18_Executioner",
-      "DA_18_Blackthorn"
-    ],
-    "sources": [
-      {
-        "source": "tftacademy",
-        "sourceRecordId": "dp3g3imnc4cihl4",
-        "name": "Solar Yunara Reroll",
-        "set": "18",
-        "patch": "18.2b",
-        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solara-yunara",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.413Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
-        "tier": "B",
-        "archetype": "reroll2",
-        "coreUnits": [
-          "DA_18_LeBlanc",
-          "DA_18_Leona",
-          "DA_18_Yorick",
-          "DA_18_Kayle",
-          "DA_Karma18",
-          "DA_18_Sejuani",
-          "DA_18_Yunara",
-          "DA_18_Azir"
-        ],
-        "carries": [
-          "DA_18_Yunara"
-        ],
-        "notes": [
-          "专家评级；条件与完整指南请查看原文。"
-        ],
-        "retained": false
-      },
-      {
-        "source": "tftacademy",
-        "sourceRecordId": "dp3g3imnc4cihl4",
-        "name": "Solar Yunara Reroll",
-        "set": "18",
-        "patch": "18.2",
-        "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solara-yunara",
-        "collectedAt": "2026-09-15T17:05:09.103Z",
-        "sourceUpdatedAt": "2026-09-14T15:32:20.175Z",
-        "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
-        "tier": "C",
-        "archetype": "reroll2",
-        "coreUnits": [
-          "DA_18_Yunara",
-          "DA_18_Leona",
-          "DA_18_LeBlanc",
-          "DA_Karma18",
-          "DA_18_Sejuani",
-          "DA_18_Azir",
-          "DA_18_Kayle",
-          "DA_18_Yorick"
-        ],
-        "carries": [
-          "DA_18_Yunara"
-        ],
-        "notes": [
-          "专家评级；条件与完整指南请查看原文。"
-        ],
-        "retained": true,
-        "retentionReason": "missing"
-      }
-    ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-638b3a989f631534",
@@ -2285,9 +2290,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-warwick-rr",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.271Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:17.936Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "reroll2",
         "coreUnits": [
@@ -2338,7 +2343,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-411bbd5ec9ff1d96",
@@ -2349,13 +2354,13 @@
     "set": "18",
     "archetype": "reroll2",
     "coreUnits": [
-      "DA_18_Teemo",
-      "DA_18_LeBlanc",
-      "DA_18_Hecarim",
-      "DA_Sentinel18",
-      "DA_18_Alistar",
       "DA_18_Kobuko",
-      "DA_18_Veigar"
+      "DA_18_Veigar",
+      "DA_18_Alistar",
+      "DA_18_LeBlanc",
+      "DA_18_Teemo",
+      "DA_18_Hecarim",
+      "DA_Sentinel18"
     ],
     "carries": [
       "DA_18_Teemo"
@@ -2363,13 +2368,13 @@
     "tanks": [],
     "traits": [
       "DA_18_Sprykin",
-      "DA_18_Invoker",
-      "DA_18_Elderwood",
-      "DA_18_Spellweaver",
-      "DA_18_Vanguard",
-      "DA_Riftbeast18",
       "DA_18_Brawler",
-      "DA_18_Blackthorn"
+      "DA_18_Blackthorn",
+      "DA_18_Spellweaver",
+      "DA_18_Elderwood",
+      "DA_18_Invoker",
+      "DA_18_Vanguard",
+      "DA_Riftbeast18"
     ],
     "sources": [
       {
@@ -2379,28 +2384,28 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-teemo-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.507Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:16:06.449Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "reroll2",
         "coreUnits": [
-          "DA_18_Teemo",
-          "DA_18_LeBlanc",
-          "DA_Elderwood18_StonebarkTree",
-          "DA_18_Hecarim",
-          "DA_Sentinel18",
-          "DA_18_Alistar",
           "DA_Elderwood18_Lifeblossom",
+          "DA_Elderwood18_StonebarkTree",
           "DA_18_Kobuko",
-          "DA_18_Veigar"
+          "DA_18_Veigar",
+          "DA_18_Alistar",
+          "DA_18_LeBlanc",
+          "DA_18_Teemo",
+          "DA_18_Hecarim",
+          "DA_Sentinel18"
         ],
         "carries": [
           "DA_18_Teemo"
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
-          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": false
       },
@@ -2435,13 +2440,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-aa3beb3b9615739a",
@@ -2484,9 +2490,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.228Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:26.558Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "X",
         "archetype": "reroll1",
         "coreUnits": [
@@ -2539,7 +2545,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-5c81c4331cf16705",
@@ -2584,9 +2590,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-trait-ladder",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.516Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.542Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "X",
         "archetype": "fast9",
         "coreUnits": [
@@ -2642,13 +2648,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-44830d495043127c",
@@ -2689,9 +2696,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.534Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:24.049Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "X",
         "archetype": "reroll3",
         "coreUnits": [
@@ -2742,7 +2749,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-4849273b363eaf8c",
@@ -2783,9 +2790,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-unrivaled-reroll",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.318Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:26.561Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "X",
         "archetype": "reroll3",
         "coreUnits": [
@@ -2839,13 +2846,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-c9a0e2e80fbe1481",
@@ -2886,9 +2894,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-fae-tristana-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.299Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:24.066Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "X",
         "archetype": "reroll3",
         "coreUnits": [
@@ -2939,7 +2947,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-41bc018277215367",
@@ -2984,9 +2992,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-elderwood-executioners",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.548Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:21.714Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "fast8",
         "coreUnits": [
@@ -3046,13 +3054,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-81c1a18f3505f3ba",
@@ -3097,9 +3106,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-spirit-blossom",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.265Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:14.670Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast8",
         "coreUnits": [
@@ -3154,7 +3163,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-7683099a7ee34922",
@@ -3196,9 +3205,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
         "sourceUpdatedAt": "2026-09-15T20:01:50.299Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "reroll3",
         "coreUnits": [
@@ -3249,7 +3258,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-22541aae51627ea4",
@@ -3291,9 +3300,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-teemo",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
         "sourceUpdatedAt": "2026-09-15T20:01:50.484Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "reroll2",
         "coreUnits": [
@@ -3344,7 +3353,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-50b259d8674b156d",
@@ -3386,9 +3395,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-moo-nara",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.273Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:24.209Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "C",
         "archetype": "reroll2",
         "coreUnits": [
@@ -3444,13 +3453,14 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-614003b700f44bdb",
@@ -3500,9 +3510,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-10-riftbeast",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.807Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.517Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast9",
         "coreUnits": [
@@ -3561,7 +3571,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-019c38d1632b8dff",
@@ -3607,9 +3617,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-aphelios-rapidfire",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.512Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.555Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast8",
         "coreUnits": [
@@ -3668,12 +3678,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.21,
-        "playRate": 0.011547475052918053,
-        "trendDelta": -0.07,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.22,
+        "playRate": 0.009952682510317347,
+        "trendDelta": -0.062,
         "notes": [
           "原站阵容标识：rapidfire_aphelios",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -3703,7 +3713,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-1f66b81e34088a9c",
@@ -3747,9 +3757,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-primal-jungle-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.779Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.533Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "A",
         "archetype": "fast8",
         "coreUnits": [
@@ -3802,7 +3812,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-997f60dedbfcf944",
@@ -3846,9 +3856,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-6-juggernaut-ap-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:50.453Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:18:17.945Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast8",
         "coreUnits": [
@@ -3903,7 +3913,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-a3c480f46eb0f15c",
@@ -3948,9 +3958,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-moon-fire",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
         "sourceUpdatedAt": "2026-09-15T20:01:49.783Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast8",
         "coreUnits": [
@@ -4009,12 +4019,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.48,
-        "playRate": 0.0172550650136075,
-        "trendDelta": -0.058,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.51,
+        "playRate": 0.01735715810445425,
+        "trendDelta": -0.021,
         "notes": [
           "原站阵容标识：vanguard_aphelios",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4050,8 +4060,8 @@
         "name": "Vanguard Aphelios",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "fast8",
         "notes": [
@@ -4079,7 +4089,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-e00644e923d1d048",
@@ -4126,9 +4136,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-coven-ahri",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.811Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.517Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast8",
         "coreUnits": [
@@ -4183,7 +4193,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-912059af3bfeee2c",
@@ -4232,9 +4242,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-spellweavers",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.517Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.524Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast8",
         "coreUnits": [
@@ -4289,7 +4299,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-97acb76f57a7fa8c",
@@ -4335,9 +4345,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-aphelios-flex",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
-        "sourceUpdatedAt": "2026-09-15T20:01:49.752Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
+        "sourceUpdatedAt": "2026-09-16T14:17:05.533Z",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast8",
         "coreUnits": [
@@ -4390,7 +4400,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.308Z"
+    "updatedAt": "2026-09-16T17:04:53.955Z"
   },
   {
     "id": "comp-a3d3672ed6dca873",
@@ -4436,9 +4446,9 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-aphelios-vanguards-copy",
-        "collectedAt": "2026-09-16T11:44:11.308Z",
+        "collectedAt": "2026-09-16T17:04:53.955Z",
         "sourceUpdatedAt": "2026-09-15T20:01:49.714Z",
-        "sha256": "a34bafac93e58edf89e6cc93a3710549172a80af2b74c504ad56abdc0283b4a0",
+        "sha256": "6301ce8538508859dccec4a23fc9093e4f17e7c321fbad9bc6d79d0a87656a5d",
         "tier": "B",
         "archetype": "fast8",
         "coreUnits": [
@@ -4500,6 +4510,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
         ],
         "retained": true,
@@ -4512,12 +4523,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.33,
-        "playRate": 0.014854853341397037,
-        "trendDelta": -0.08,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.35,
+        "playRate": 0.016076383947630567,
+        "trendDelta": -0.055,
         "notes": [
           "原站阵容标识：elderwood_aphelios",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4553,8 +4564,8 @@
         "name": "Elderwood Aphelios",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "fast8",
         "notes": [
@@ -4582,7 +4593,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-b2916c6c30cee798",
@@ -4604,12 +4615,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 3.33,
-        "playRate": 0.013210613849410342,
-        "trendDelta": 0.099,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 3.47,
+        "playRate": 0.01496460082538779,
+        "trendDelta": 0.235,
         "notes": [
           "原站阵容标识：inferno_95",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4639,7 +4650,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-5b2ee50aa8b5c266",
@@ -4661,12 +4672,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 3.79,
-        "playRate": 0.05516706985182945,
-        "trendDelta": 0.004,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 3.8,
+        "playRate": 0.05507773587590722,
+        "trendDelta": 0.009,
         "notes": [
           "原站阵容标识：elderwood_95",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4696,7 +4707,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-60ee6b97e1f994c8",
@@ -4718,12 +4729,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 3.87,
-        "playRate": 0.10027970970668279,
-        "trendDelta": 0.035,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 3.86,
+        "playRate": 0.10886135619752384,
+        "trendDelta": 0.032,
         "notes": [
           "原站阵容标识：dragon_95",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4753,7 +4764,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-a22a9029459f3e1a",
@@ -4775,12 +4786,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 3.99,
-        "playRate": 0.010470214696099184,
-        "trendDelta": -0.095,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.02,
+        "playRate": 0.010370712964280632,
+        "trendDelta": -0.067,
         "notes": [
           "原站阵容标识：khazix_reroll",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4810,7 +4821,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-c42abd31c8d1a4a8",
@@ -4832,12 +4843,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.27,
-        "playRate": 0.04042561233746598,
-        "trendDelta": 0.054,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.31,
+        "playRate": 0.04202984915326598,
+        "trendDelta": 0.091,
         "notes": [
           "原站阵容标识：juggernaut_flex",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4867,7 +4878,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-91acf3c50d25c253",
@@ -4889,12 +4900,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
         "avgPlacement": 4.32,
-        "playRate": 0.07382068339885092,
-        "trendDelta": -0.035,
+        "playRate": 0.07504091361889853,
+        "trendDelta": -0.04,
         "notes": [
           "原站阵容标识：nidalee_aphelios_flex",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4924,7 +4935,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-396ea6c32f21b6fc",
@@ -4946,12 +4957,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.36,
-        "playRate": 0.016593589355911702,
-        "trendDelta": -0.034,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.33,
+        "playRate": 0.015155827522413548,
+        "trendDelta": -0.059,
         "notes": [
           "原站阵容标识：riftbeast_reroll",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -4981,7 +4992,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-37e938fdafc2b9f2",
@@ -5003,12 +5014,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
         "avgPlacement": 4.36,
-        "playRate": 0.10020411248866042,
-        "trendDelta": -0.011,
+        "playRate": 0.0953509676960296,
+        "trendDelta": -0.007,
         "notes": [
           "原站阵容标识：vanguard_morgana",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5038,7 +5049,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-2129034509bbe964",
@@ -5060,12 +5071,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.39,
-        "playRate": 0.01527063804052011,
-        "trendDelta": 0.056,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.4,
+        "playRate": 0.015502703856553295,
+        "trendDelta": 0.067,
         "notes": [
           "原站阵容标识：elderwood",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5095,178 +5106,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
-  },
-  {
-    "id": "comp-e7a3dc1e918bbaae",
-    "name": "blossom ahri",
-    "aliases": [
-      "blossom ahri"
-    ],
-    "set": "18",
-    "archetype": "unknown",
-    "coreUnits": [],
-    "carries": [],
-    "tanks": [],
-    "traits": [],
-    "sources": [
-      {
-        "source": "tftable",
-        "sourceRecordId": "blossom_ahri",
-        "name": "blossom ahri",
-        "set": "18",
-        "patch": "18.2b",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.4,
-        "playRate": 0.021469609918355004,
-        "trendDelta": 0.055,
-        "notes": [
-          "原站阵容标识：blossom_ahri",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": false
-      },
-      {
-        "source": "tftable",
-        "sourceRecordId": "blossom_ahri",
-        "name": "blossom ahri",
-        "set": "18",
-        "patch": "18.2",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-15T21:26:29.493Z",
-        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-        "avgPlacement": 4.35,
-        "playRate": 0.021899606299212598,
-        "trendDelta": 0.008,
-        "notes": [
-          "原站阵容标识：blossom_ahri",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": true,
-        "retentionReason": "missing"
-      }
-    ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
-  },
-  {
-    "id": "comp-be8c1a94db3a1124",
-    "name": "solar akali",
-    "aliases": [
-      "solar akali"
-    ],
-    "set": "18",
-    "archetype": "unknown",
-    "coreUnits": [],
-    "carries": [],
-    "tanks": [],
-    "traits": [],
-    "sources": [
-      {
-        "source": "tftable",
-        "sourceRecordId": "solar_akali",
-        "name": "solar akali",
-        "set": "18",
-        "patch": "18.2b",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.43,
-        "playRate": 0.023000453583308135,
-        "trendDelta": -0.043,
-        "notes": [
-          "原站阵容标识：solar_akali",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": false
-      },
-      {
-        "source": "tftable",
-        "sourceRecordId": "solar_akali",
-        "name": "solar akali",
-        "set": "18",
-        "patch": "18.2",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-15T21:26:29.493Z",
-        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-        "avgPlacement": 4.44,
-        "playRate": 0.02503231872135386,
-        "trendDelta": -0.045,
-        "notes": [
-          "原站阵容标识：solar_akali",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": true,
-        "retentionReason": "missing"
-      }
-    ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
-  },
-  {
-    "id": "comp-7fd36105fb91fea0",
-    "name": "caitlyn",
-    "aliases": [
-      "caitlyn"
-    ],
-    "set": "18",
-    "archetype": "unknown",
-    "coreUnits": [],
-    "carries": [],
-    "tanks": [],
-    "traits": [],
-    "sources": [
-      {
-        "source": "tftable",
-        "sourceRecordId": "caitlyn",
-        "name": "caitlyn",
-        "set": "18",
-        "patch": "18.2b",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.43,
-        "playRate": 0.013853190202600544,
-        "trendDelta": -0.02,
-        "notes": [
-          "原站阵容标识：caitlyn",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": false
-      },
-      {
-        "source": "tftable",
-        "sourceRecordId": "caitlyn",
-        "name": "caitlyn",
-        "set": "18",
-        "patch": "18.2",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-15T21:26:29.493Z",
-        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-        "avgPlacement": 4.47,
-        "playRate": 0.011572305793865319,
-        "trendDelta": 0.006,
-        "notes": [
-          "原站阵容标识：caitlyn",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": true,
-        "retentionReason": "missing"
-      }
-    ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-42ddc6c89ea0d134",
@@ -5289,12 +5129,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.44,
-        "playRate": 0.011925461143029937,
-        "trendDelta": 0.022,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.4,
+        "playRate": 0.011006652910203502,
+        "trendDelta": -0.022,
         "notes": [
           "原站阵容标识：defender_cassiopeia",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5330,8 +5170,8 @@
         "name": "Defender Cassiopeia",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "reroll3",
@@ -5361,13 +5201,13 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
-    "id": "comp-b2af142c3bb5f550",
-    "name": "zyra fatalis",
+    "id": "comp-e7a3dc1e918bbaae",
+    "name": "blossom ahri",
     "aliases": [
-      "zyra fatalis"
+      "blossom ahri"
     ],
     "set": "18",
     "archetype": "unknown",
@@ -5378,19 +5218,19 @@
     "sources": [
       {
         "source": "tftable",
-        "sourceRecordId": "zyra_fatalis",
-        "name": "zyra fatalis",
+        "sourceRecordId": "blossom_ahri",
+        "name": "blossom ahri",
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.48,
-        "playRate": 0.07654218324765649,
-        "trendDelta": -0.063,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.44,
+        "playRate": 0.021497438451686352,
+        "trendDelta": 0.087,
         "notes": [
-          "原站阵容标识：zyra_fatalis",
+          "原站阵容标识：blossom_ahri",
           "统计分段、地区和样本数未随此公开快照提供。",
           "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
         ],
@@ -5398,19 +5238,19 @@
       },
       {
         "source": "tftable",
-        "sourceRecordId": "zyra_fatalis",
-        "name": "zyra fatalis",
+        "sourceRecordId": "blossom_ahri",
+        "name": "blossom ahri",
         "set": "18",
         "patch": "18.2",
         "sourceUrl": "https://tftable.cc/comps",
         "collectedAt": "2026-09-15T21:26:29.493Z",
         "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
         "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-        "avgPlacement": 4.55,
-        "playRate": 0.07595266776354448,
-        "trendDelta": 0.006,
+        "avgPlacement": 4.35,
+        "playRate": 0.021899606299212598,
+        "trendDelta": 0.008,
         "notes": [
-          "原站阵容标识：zyra_fatalis",
+          "原站阵容标识：blossom_ahri",
           "统计分段、地区和样本数未随此公开快照提供。",
           "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
         ],
@@ -5418,7 +5258,64 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
+  },
+  {
+    "id": "comp-7fd36105fb91fea0",
+    "name": "caitlyn",
+    "aliases": [
+      "caitlyn"
+    ],
+    "set": "18",
+    "archetype": "unknown",
+    "coreUnits": [],
+    "carries": [],
+    "tanks": [],
+    "traits": [],
+    "sources": [
+      {
+        "source": "tftable",
+        "sourceRecordId": "caitlyn",
+        "name": "caitlyn",
+        "set": "18",
+        "patch": "18.2b",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.44,
+        "playRate": 0.012434182439163227,
+        "trendDelta": -0.012,
+        "notes": [
+          "原站阵容标识：caitlyn",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": false
+      },
+      {
+        "source": "tftable",
+        "sourceRecordId": "caitlyn",
+        "name": "caitlyn",
+        "set": "18",
+        "patch": "18.2",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-15T21:26:29.493Z",
+        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+        "avgPlacement": 4.47,
+        "playRate": 0.011572305793865319,
+        "trendDelta": 0.006,
+        "notes": [
+          "原站阵容标识：caitlyn",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": true,
+        "retentionReason": "missing"
+      }
+    ],
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-1542b51344b2fbfc",
@@ -5441,12 +5338,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.48,
-        "playRate": 0.056490021167221044,
-        "trendDelta": -0.09,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.46,
+        "playRate": 0.056763199089227265,
+        "trendDelta": -0.116,
         "notes": [
           "原站阵容标识：veigar_reroll",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5482,8 +5379,8 @@
         "name": "Veigar Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "reroll1",
         "notes": [
@@ -5511,7 +5408,178 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
+  },
+  {
+    "id": "comp-be8c1a94db3a1124",
+    "name": "solar akali",
+    "aliases": [
+      "solar akali"
+    ],
+    "set": "18",
+    "archetype": "unknown",
+    "coreUnits": [],
+    "carries": [],
+    "tanks": [],
+    "traits": [],
+    "sources": [
+      {
+        "source": "tftable",
+        "sourceRecordId": "solar_akali",
+        "name": "solar akali",
+        "set": "18",
+        "patch": "18.2b",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.48,
+        "playRate": 0.02179984346093639,
+        "trendDelta": 0.008,
+        "notes": [
+          "原站阵容标识：solar_akali",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": false
+      },
+      {
+        "source": "tftable",
+        "sourceRecordId": "solar_akali",
+        "name": "solar akali",
+        "set": "18",
+        "patch": "18.2",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-15T21:26:29.493Z",
+        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+        "avgPlacement": 4.44,
+        "playRate": 0.02503231872135386,
+        "trendDelta": -0.045,
+        "notes": [
+          "原站阵容标识：solar_akali",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": true,
+        "retentionReason": "missing"
+      }
+    ],
+    "updatedAt": "2026-09-16T17:04:54.135Z"
+  },
+  {
+    "id": "comp-b2af142c3bb5f550",
+    "name": "zyra fatalis",
+    "aliases": [
+      "zyra fatalis"
+    ],
+    "set": "18",
+    "archetype": "unknown",
+    "coreUnits": [],
+    "carries": [],
+    "tanks": [],
+    "traits": [],
+    "sources": [
+      {
+        "source": "tftable",
+        "sourceRecordId": "zyra_fatalis",
+        "name": "zyra fatalis",
+        "set": "18",
+        "patch": "18.2b",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.5,
+        "playRate": 0.07622829799345382,
+        "trendDelta": -0.042,
+        "notes": [
+          "原站阵容标识：zyra_fatalis",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": false
+      },
+      {
+        "source": "tftable",
+        "sourceRecordId": "zyra_fatalis",
+        "name": "zyra fatalis",
+        "set": "18",
+        "patch": "18.2",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-15T21:26:29.493Z",
+        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+        "avgPlacement": 4.55,
+        "playRate": 0.07595266776354448,
+        "trendDelta": 0.006,
+        "notes": [
+          "原站阵容标识：zyra_fatalis",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": true,
+        "retentionReason": "missing"
+      }
+    ],
+    "updatedAt": "2026-09-16T17:04:54.135Z"
+  },
+  {
+    "id": "comp-436323293261909d",
+    "name": "adaptor reroll",
+    "aliases": [
+      "adaptor reroll"
+    ],
+    "set": "18",
+    "archetype": "unknown",
+    "coreUnits": [],
+    "carries": [],
+    "tanks": [],
+    "traits": [],
+    "sources": [
+      {
+        "source": "tftable",
+        "sourceRecordId": "adaptor_reroll",
+        "name": "adaptor reroll",
+        "set": "18",
+        "patch": "18.2b",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.51,
+        "playRate": 0.015017966415255444,
+        "trendDelta": 0.009,
+        "notes": [
+          "原站阵容标识：adaptor_reroll",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": false
+      },
+      {
+        "source": "tftable",
+        "sourceRecordId": "adaptor_reroll",
+        "name": "adaptor reroll",
+        "set": "18",
+        "patch": "18.2",
+        "sourceUrl": "https://tftable.cc/comps",
+        "collectedAt": "2026-09-15T21:26:29.493Z",
+        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+        "avgPlacement": 4.49,
+        "playRate": 0.015182453872370431,
+        "trendDelta": -0.044,
+        "notes": [
+          "原站阵容标识：adaptor_reroll",
+          "统计分段、地区和样本数未随此公开快照提供。",
+          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+        ],
+        "retained": true,
+        "retentionReason": "missing"
+      }
+    ],
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-d8cddbe97ecf7c4c",
@@ -5534,12 +5602,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.53,
-        "playRate": 0.086577713940127,
-        "trendDelta": -0.075,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.54,
+        "playRate": 0.0843887861107158,
+        "trendDelta": -0.06,
         "notes": [
           "原站阵容标识：hunter_sivir",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5575,8 +5643,8 @@
         "name": "Sivir Hunters",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "default",
         "archetype": "fast8",
         "notes": [
@@ -5604,64 +5672,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
-  },
-  {
-    "id": "comp-436323293261909d",
-    "name": "adaptor reroll",
-    "aliases": [
-      "adaptor reroll"
-    ],
-    "set": "18",
-    "archetype": "unknown",
-    "coreUnits": [],
-    "carries": [],
-    "tanks": [],
-    "traits": [],
-    "sources": [
-      {
-        "source": "tftable",
-        "sourceRecordId": "adaptor_reroll",
-        "name": "adaptor reroll",
-        "set": "18",
-        "patch": "18.2b",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.54,
-        "playRate": 0.015478530390081645,
-        "trendDelta": 0.043,
-        "notes": [
-          "原站阵容标识：adaptor_reroll",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": false
-      },
-      {
-        "source": "tftable",
-        "sourceRecordId": "adaptor_reroll",
-        "name": "adaptor reroll",
-        "set": "18",
-        "patch": "18.2",
-        "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-15T21:26:29.493Z",
-        "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-        "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-        "avgPlacement": 4.49,
-        "playRate": 0.015182453872370431,
-        "trendDelta": -0.044,
-        "notes": [
-          "原站阵容标识：adaptor_reroll",
-          "统计分段、地区和样本数未随此公开快照提供。",
-          "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-        ],
-        "retained": true,
-        "retentionReason": "missing"
-      }
-    ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-e8e3941dc5aa4817",
@@ -5683,12 +5694,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.62,
-        "playRate": 0.010659207741155126,
-        "trendDelta": -0.044,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.63,
+        "playRate": 0.009997153835207058,
+        "trendDelta": -0.04,
         "notes": [
           "原站阵容标识：unrivaled",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5718,7 +5729,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-99c3227d4a144174",
@@ -5740,12 +5751,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.77,
-        "playRate": 0.017009374055034776,
-        "trendDelta": -0.053,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.81,
+        "playRate": 0.016983598975380675,
+        "trendDelta": -0.02,
         "notes": [
           "原站阵容标识：solar_kayle",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5775,7 +5786,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-2ebff6de90759dad",
@@ -5798,12 +5809,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.91,
-        "playRate": 0.013683096462050197,
-        "trendDelta": 0.037,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.89,
+        "playRate": 0.014017361605236943,
+        "trendDelta": 0.021,
         "notes": [
           "原站阵容标识：tristana_reroll",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5839,8 +5850,8 @@
         "name": "Tristana Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "reroll3",
         "notes": [
@@ -5868,7 +5879,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-7a823dadd1cd6776",
@@ -5890,12 +5901,12 @@
         "set": "18",
         "patch": "18.2b",
         "sourceUrl": "https://tftable.cc/comps",
-        "collectedAt": "2026-09-16T11:44:11.530Z",
-        "sourceUpdatedAt": "2026-09-16T04:42:54.012237+00:00",
-        "sha256": "ed939a1f1d0dfcf7f4c145fe5eecabc30f91a73aa08a477075c6caf21c90ea5c",
-        "avgPlacement": 4.94,
-        "playRate": 0.020354550952524947,
-        "trendDelta": 0.078,
+        "collectedAt": "2026-09-16T17:04:54.135Z",
+        "sourceUpdatedAt": "2026-09-16T13:42:38.312760+00:00",
+        "sha256": "7b3a06ec72e0f2f788d6dc3029f66686be441cbfe5e6dcee6e239d7cfa556ec4",
+        "avgPlacement": 4.92,
+        "playRate": 0.020474597979223,
+        "trendDelta": 0.058,
         "notes": [
           "原站阵容标识：yunara",
           "统计分段、地区和样本数未随此公开快照提供。",
@@ -5925,7 +5936,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.530Z"
+    "updatedAt": "2026-09-16T17:04:54.135Z"
   },
   {
     "id": "comp-39fb09dcd1d03191",
@@ -5969,8 +5980,8 @@
         "name": "Spellweaver Ahri",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "fast8",
@@ -6000,7 +6011,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-58968d824c70b7ae",
@@ -6170,8 +6181,8 @@
         "name": "Sivir Nidalee",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "default",
         "archetype": "fast8",
         "notes": [
@@ -6199,7 +6210,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-bdbf5d922f81a4a7",
@@ -6221,8 +6232,8 @@
         "name": "Blossom Executioners",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "default",
         "archetype": "fast8",
         "notes": [
@@ -6232,7 +6243,7 @@
         "retained": false
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-8bf5b243f843c70b",
@@ -6254,8 +6265,8 @@
         "name": "Soraka Flex",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "default",
         "archetype": "fast8",
         "notes": [
@@ -6283,7 +6294,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-d4691bf944c3fe4f",
@@ -6305,8 +6316,8 @@
         "name": "Rengar Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "reroll3",
         "notes": [
@@ -6334,7 +6345,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-c435cd37cfc76be6",
@@ -6356,8 +6367,8 @@
         "name": "Riftbeast Tempo",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "reroll3",
         "notes": [
@@ -6385,7 +6396,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-8fef13dd2ba1328f",
@@ -6407,8 +6418,8 @@
         "name": "Caitlyn Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "reroll2",
         "notes": [
@@ -6436,7 +6447,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-40152d6c6373b201",
@@ -6458,8 +6469,8 @@
         "name": "Master Yi Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "reroll3",
         "notes": [
@@ -6487,7 +6498,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-fbabd7236d8dd150",
@@ -6509,8 +6520,8 @@
         "name": "Blossom",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "meta",
         "archetype": "fast8",
         "notes": [
@@ -6538,7 +6549,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-cc93e6cb198e13fc",
@@ -6560,8 +6571,8 @@
         "name": "Rapidfire Bramble",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "A",
         "archetype": "fast8",
@@ -6591,7 +6602,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-10417847df5b8b87",
@@ -6613,8 +6624,8 @@
         "name": "Unrivaled Kha'Zix & Rengar",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "reroll3",
@@ -6644,7 +6655,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-7eeb572a668c96eb",
@@ -6666,8 +6677,8 @@
         "name": "Solar Yunara",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "reroll2",
@@ -6697,7 +6708,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-a511142279815359",
@@ -6719,8 +6730,8 @@
         "name": "Akali Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "reroll1",
@@ -6750,7 +6761,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-7757b634a5083a97",
@@ -6772,8 +6783,8 @@
         "name": "Yunara Executioner Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "C",
         "archetype": "reroll2",
@@ -6803,7 +6814,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-ed7bbc25420e9aa0",
@@ -6825,8 +6836,8 @@
         "name": "Warwick Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "D",
         "archetype": "reroll2",
@@ -6856,7 +6867,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-5e0a32f178cd15ea",
@@ -6878,8 +6889,8 @@
         "name": "Dark Ritual Coven",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "S",
         "archetype": "fast8",
@@ -6909,7 +6920,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-46ddcf20e93e2f44",
@@ -6931,8 +6942,8 @@
         "name": "Blossom Fast 9",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "A",
         "archetype": "fast9",
@@ -6962,7 +6973,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-af94564347f4e38b",
@@ -6984,8 +6995,8 @@
         "name": "Invoker Brambleback",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "fast8",
@@ -7015,7 +7026,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-79e86f90040264fc",
@@ -7037,8 +7048,8 @@
         "name": "Juggernaut Zyra",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "fast8",
@@ -7068,7 +7079,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-caf2c9efd2bbcc67",
@@ -7090,8 +7101,8 @@
         "name": "Pebbles Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "B",
         "archetype": "reroll1",
@@ -7121,7 +7132,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-f04c54026375497a",
@@ -7143,8 +7154,8 @@
         "name": "Blackthorn Kha'Zix",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "C",
         "archetype": "reroll3",
@@ -7174,7 +7185,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-e4a857ede9393784",
@@ -7196,8 +7207,8 @@
         "name": "Elderwood Kayle Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "C",
         "archetype": "unknown",
@@ -7229,7 +7240,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-3b8e82b7cadb0d53",
@@ -7251,8 +7262,8 @@
         "name": "Elderwood Veigar",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "C",
         "archetype": "reroll1",
@@ -7282,7 +7293,7 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   },
   {
     "id": "comp-70b1a7a19b3e50a0",
@@ -7304,8 +7315,8 @@
         "name": "Inferno Kayle Reroll",
         "set": "18",
         "patch": "18.2b",
-        "collectedAt": "2026-09-16T11:44:11.697Z",
-        "sha256": "f33dea9231eca9a869b0f1a8d7335a8c01e74e0d3b46e9b724dcfc3d7dd42924",
+        "collectedAt": "2026-09-16T17:04:54.288Z",
+        "sha256": "68427dc7fb25bb87cd2b6b3be771a20fc439b387fb18e11fa505abb04ca7a0f1",
         "category": "other",
         "tier": "D",
         "archetype": "unknown",
@@ -7337,6 +7348,6 @@
         "retentionReason": "missing"
       }
     ],
-    "updatedAt": "2026-09-16T11:44:11.697Z"
+    "updatedAt": "2026-09-16T17:04:54.288Z"
   }
 ]
