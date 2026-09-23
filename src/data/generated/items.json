@@ -3,15 +3,15 @@
     "source": "CommunityDragon TFT zh_cn / Riot DataDragon cross-check",
     "sourceUrl": "https://raw.communitydragon.org/latest/cdragon/tft/zh_cn.json",
     "set": "18",
-    "patch": "18.2",
-    "collectedAt": "2026-09-22T17:01:33.711Z",
+    "patch": "18.3",
+    "collectedAt": "2026-09-23T21:33:49.006Z",
     "schemaVersion": 1,
-    "sourceVersion": "16.18.1",
-    "sha256": "d5e1c9a630ecc893995f311ccae4597f029c3e65b030fe77950ca05826a885ef",
-    "lastModified": "Sat, 12 Sep 2026 00:37:02 GMT",
+    "sourceVersion": "16.19.1",
+    "sha256": "4ddd70d7ccd0848642c944217059202c2a6329070fec734c9bf2f083e2be70b9",
+    "lastModified": "Wed, 23 Sep 2026 06:05:53 GMT",
     "supportingSources": [
-      "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/zh_CN/tft-champion.json",
-      "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/zh_CN/tft-item.json",
+      "https://ddragon.leagueoflegends.com/cdn/16.19.1/data/zh_CN/tft-champion.json",
+      "https://ddragon.leagueoflegends.com/cdn/16.19.1/data/zh_CN/tft-item.json",
       "https://teamfighttactics.leagueoflegends.com/en-sg/news/game-updates/enchanted-wilds-overview/"
     ]
   },
@@ -22,7 +22,7 @@
       "name": "黑荆棘纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemBlackthorn.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemBlackthorn.png"
     },
     {
       "id": "DA_18_EmblemBlossom",
@@ -30,7 +30,7 @@
       "name": "灵魂莲华纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemBlossom.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemBlossom.png"
     },
     {
       "id": "DA_18_EmblemBrawler",
@@ -38,7 +38,7 @@
       "name": "斗士纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemBrawler.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemBrawler.png"
     },
     {
       "id": "DA_18_EmblemCoven",
@@ -46,7 +46,7 @@
       "name": "魔女纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemCoven.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemCoven.png"
     },
     {
       "id": "DA_18_EmblemDefender",
@@ -54,7 +54,7 @@
       "name": "护卫纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemDefender.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemDefender.png"
     },
     {
       "id": "DA_18_EmblemElderwood",
@@ -62,7 +62,7 @@
       "name": "永恒之森纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemElderwood.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemElderwood.png"
     },
     {
       "id": "DA_18_EmblemExecutioner",
@@ -70,7 +70,7 @@
       "name": "裁决使纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemExecutioner.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemExecutioner.png"
     },
     {
       "id": "DA_18_EmblemFae",
@@ -78,7 +78,7 @@
       "name": "花仙子纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemFae.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemFae.png"
     },
     {
       "id": "DA_18_EmblemFloraFatalis",
@@ -86,7 +86,7 @@
       "name": "绝命花妖纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemFloraFatalis.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemFloraFatalis.png"
     },
     {
       "id": "DA_18_EmblemFloraFatalisAugment",
@@ -94,7 +94,7 @@
       "name": "绝命花妖纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemFloraFatalisAugment.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemFloraFatalisAugment.png"
     },
     {
       "id": "DA_18_EmblemHunter",
@@ -102,7 +102,7 @@
       "name": "猎人纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemHunter.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemHunter.png"
     },
     {
       "id": "DA_18_EmblemInferno",
@@ -110,7 +110,7 @@
       "name": "地狱火纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemInferno.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemInferno.png"
     },
     {
       "id": "DA_18_EmblemInvoker",
@@ -118,7 +118,7 @@
       "name": "神谕纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemInvoker.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemInvoker.png"
     },
     {
       "id": "DA_18_EmblemJuggernaut",
@@ -126,7 +126,7 @@
       "name": "主宰纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemJuggernaut.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemJuggernaut.png"
     },
     {
       "id": "DA_18_EmblemLunar",
@@ -134,7 +134,7 @@
       "name": "月蚀骑士纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemLunar.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemLunar.png"
     },
     {
       "id": "DA_18_EmblemPrimal",
@@ -142,7 +142,7 @@
       "name": "野兽之灵纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemPrimal.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemPrimal.png"
     },
     {
       "id": "DA_18_EmblemRapidfire",
@@ -150,7 +150,7 @@
       "name": "迅捷射手纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemRapidfire.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemRapidfire.png"
     },
     {
       "id": "DA_18_EmblemSlayer",
@@ -158,7 +158,7 @@
       "name": "狂战士纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemSlayer.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemSlayer.png"
     },
     {
       "id": "DA_18_EmblemSpellweaver",
@@ -166,7 +166,7 @@
       "name": "法师纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemSpellweaver.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemSpellweaver.png"
     },
     {
       "id": "DA_18_EmblemSprykin",
@@ -174,7 +174,7 @@
       "name": "约德尔人和朋友纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemSprykin.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemSprykin.png"
     },
     {
       "id": "DA_18_EmblemVanguard",
@@ -182,7 +182,7 @@
       "name": "重装战士纹章",
       "category": "emblem",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_18_EmblemVanguard.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_18_EmblemVanguard.png"
     },
     {
       "id": "DA_AbilityBooster18",
@@ -190,7 +190,7 @@
       "name": "法术加成补剂",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_AbilityBooster18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_AbilityBooster18.png"
     },
     {
       "id": "DA_AdaptiveHelm",
@@ -198,7 +198,7 @@
       "name": "适应性头盔",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_AdaptiveHelm.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_AdaptiveHelm.png"
     },
     {
       "id": "DA_AdaptiveHelm_Radiant",
@@ -206,7 +206,7 @@
       "name": "光明版适应性头盔",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_AdaptiveHelm_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_AdaptiveHelm_Radiant.png"
     },
     {
       "id": "DA_ArchangelsStaff",
@@ -214,7 +214,7 @@
       "name": "大天使之杖",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ArchangelsStaff.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ArchangelsStaff.png"
     },
     {
       "id": "DA_ArchangelsStaffRadiant",
@@ -222,7 +222,7 @@
       "name": "光明版大天使之杖",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ArchangelsStaffRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ArchangelsStaffRadiant.png"
     },
     {
       "id": "DA_ArmorMRBooster18",
@@ -230,7 +230,7 @@
       "name": "护甲和魔抗补剂",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ArmorMRBooster18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ArmorMRBooster18.png"
     },
     {
       "id": "DA_Artifact_AegisOfDawn",
@@ -238,7 +238,7 @@
       "name": "黎明圣盾",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_AegisOfDawn.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_AegisOfDawn.png"
     },
     {
       "id": "DA_Artifact_AegisOfDusk",
@@ -246,7 +246,7 @@
       "name": "黄昏圣盾",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_AegisOfDusk.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_AegisOfDusk.png"
     },
     {
       "id": "DA_Artifact_BlightingJewel",
@@ -254,7 +254,7 @@
       "name": "枯萎珠宝",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_BlightingJewel.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_BlightingJewel.png"
     },
     {
       "id": "DA_Artifact_Dawncore",
@@ -262,7 +262,7 @@
       "name": "黎明核心",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_Dawncore.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_Dawncore.png"
     },
     {
       "id": "DA_Artifact_EternalPact",
@@ -270,7 +270,7 @@
       "name": "永恒契约",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_EternalPact.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_EternalPact.png"
     },
     {
       "id": "DA_Artifact_Fishbones",
@@ -278,7 +278,7 @@
       "name": "鱼骨头",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_Fishbones.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_Fishbones.png"
     },
     {
       "id": "DA_Artifact_ForbiddenIdol",
@@ -286,7 +286,7 @@
       "name": "禁忌雕像",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_ForbiddenIdol.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_ForbiddenIdol.png"
     },
     {
       "id": "DA_Artifact_GamblersBlade",
@@ -294,7 +294,7 @@
       "name": "投机者之刃",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_GamblersBlade.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_GamblersBlade.png"
     },
     {
       "id": "DA_Artifact_GoldCollector",
@@ -302,7 +302,7 @@
       "name": "金币收集者",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_GoldCollector.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_GoldCollector.png"
     },
     {
       "id": "DA_Artifact_HellfireHatchet",
@@ -310,7 +310,7 @@
       "name": "恶火小斧",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_HellfireHatchet.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_HellfireHatchet.png"
     },
     {
       "id": "DA_Artifact_HorizonFocus",
@@ -318,7 +318,15 @@
       "name": "视界专注",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_HorizonFocus.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_HorizonFocus.png"
+    },
+    {
+      "id": "DA_Artifact_Hullcrusher",
+      "apiName": "DA_Artifact_Hullcrusher",
+      "name": "碎舰者",
+      "category": "artifact",
+      "effects": {},
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_Hullcrusher.png"
     },
     {
       "id": "DA_Artifact_InfinityForce",
@@ -326,7 +334,7 @@
       "name": "三相之力",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_InfinityForce.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_InfinityForce.png"
     },
     {
       "id": "DA_Artifact_LichBane",
@@ -334,7 +342,7 @@
       "name": "巫妖之祸",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_LichBane.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_LichBane.png"
     },
     {
       "id": "DA_Artifact_LightshieldCrest",
@@ -342,7 +350,7 @@
       "name": "光盾徽章",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_LightshieldCrest.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_LightshieldCrest.png"
     },
     {
       "id": "DA_Artifact_LudensTempest",
@@ -350,7 +358,7 @@
       "name": "卢登的激荡",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_LudensTempest.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_LudensTempest.png"
     },
     {
       "id": "DA_Artifact_Manazane",
@@ -358,7 +366,7 @@
       "name": "魔蕴",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_Manazane.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_Manazane.png"
     },
     {
       "id": "DA_Artifact_Mittens",
@@ -366,7 +374,7 @@
       "name": "连指手套",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_Mittens.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_Mittens.png"
     },
     {
       "id": "DA_Artifact_MogulsMail",
@@ -374,7 +382,7 @@
       "name": "大亨之铠",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_MogulsMail.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_MogulsMail.png"
     },
     {
       "id": "DA_Artifact_NavoriFlickerblade",
@@ -382,7 +390,7 @@
       "name": "烁刃",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_NavoriFlickerblade.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_NavoriFlickerblade.png"
     },
     {
       "id": "DA_Artifact_RapidFireCannon",
@@ -390,7 +398,7 @@
       "name": "疾射火炮",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_RapidFireCannon.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_RapidFireCannon.png"
     },
     {
       "id": "DA_Artifact_SeekersArmguard",
@@ -398,7 +406,7 @@
       "name": "探索者的护臂",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_SeekersArmguard.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_SeekersArmguard.png"
     },
     {
       "id": "DA_Artifact_SilvermereDawn",
@@ -406,7 +414,7 @@
       "name": "密银黎明",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_SilvermereDawn.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_SilvermereDawn.png"
     },
     {
       "id": "DA_Artifact_StatikkShiv",
@@ -414,7 +422,7 @@
       "name": "斯塔缇克电刃",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_StatikkShiv.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_StatikkShiv.png"
     },
     {
       "id": "DA_Artifact_TheIndomitable",
@@ -422,7 +430,7 @@
       "name": "顽强不屈",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_TheIndomitable.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_TheIndomitable.png"
     },
     {
       "id": "DA_Artifact_TitanicHydra",
@@ -430,7 +438,7 @@
       "name": "巨型九头蛇",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_TitanicHydra.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_TitanicHydra.png"
     },
     {
       "id": "DA_Artifact_VoidGauntlet",
@@ -438,7 +446,7 @@
       "name": "虚空护手",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_VoidGauntlet.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_VoidGauntlet.png"
     },
     {
       "id": "DA_Artifact_WitsEnd",
@@ -446,7 +454,7 @@
       "name": "智慧末刃",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_WitsEnd.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_WitsEnd.png"
     },
     {
       "id": "DA_Artifact_ZhonyasParadox",
@@ -454,7 +462,7 @@
       "name": "中娅悖论",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Artifact_ZhonyasParadox.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Artifact_ZhonyasParadox.png"
     },
     {
       "id": "DA_AttackBooster18",
@@ -462,7 +470,7 @@
       "name": "物理加成补剂",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_AttackBooster18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_AttackBooster18.png"
     },
     {
       "id": "DA_BlastPotion18",
@@ -470,7 +478,7 @@
       "name": "爆炸药水",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_BlastPotion18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_BlastPotion18.png"
     },
     {
       "id": "DA_BlastPotion18_Radiant",
@@ -478,7 +486,7 @@
       "name": "光明版爆炸药水",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_BlastPotion18_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_BlastPotion18_Radiant.png"
     },
     {
       "id": "DA_Bloodthirster",
@@ -486,7 +494,7 @@
       "name": "饮血剑",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Bloodthirster.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Bloodthirster.png"
     },
     {
       "id": "DA_BloodthirsterRadiant",
@@ -494,7 +502,7 @@
       "name": "光明版饮血剑",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_BloodthirsterRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_BloodthirsterRadiant.png"
     },
     {
       "id": "DA_BlueBuff",
@@ -502,7 +510,7 @@
       "name": "蓝霸符",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_BlueBuff.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_BlueBuff.png"
     },
     {
       "id": "DA_BlueBuffRadiant",
@@ -510,7 +518,7 @@
       "name": "光明版蓝霸符",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_BlueBuffRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_BlueBuffRadiant.png"
     },
     {
       "id": "DA_BrambleVest",
@@ -518,7 +526,7 @@
       "name": "棘刺背心",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_BrambleVest.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_BrambleVest.png"
     },
     {
       "id": "DA_BrambleVestRadiant",
@@ -526,7 +534,7 @@
       "name": "光明版棘刺背心",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_BrambleVestRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_BrambleVestRadiant.png"
     },
     {
       "id": "DA_Component_BFSword",
@@ -534,7 +542,7 @@
       "name": "暴风大剑",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_BFSword.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_BFSword.png"
     },
     {
       "id": "DA_Component_ChainVest",
@@ -542,7 +550,7 @@
       "name": "锁子甲",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_ChainVest.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_ChainVest.png"
     },
     {
       "id": "DA_Component_FryingPan",
@@ -550,7 +558,7 @@
       "name": "金锅锅",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_FryingPan.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_FryingPan.png"
     },
     {
       "id": "DA_Component_GiantsBelt",
@@ -558,7 +566,7 @@
       "name": "巨人腰带",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_GiantsBelt.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_GiantsBelt.png"
     },
     {
       "id": "DA_Component_NeedlesslyLargeRod",
@@ -566,7 +574,7 @@
       "name": "无用大棒",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_NeedlesslyLargeRod.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_NeedlesslyLargeRod.png"
     },
     {
       "id": "DA_Component_NegatronCloak",
@@ -574,7 +582,7 @@
       "name": "负极斗篷",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_NegatronCloak.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_NegatronCloak.png"
     },
     {
       "id": "DA_Component_RecurveBow",
@@ -582,7 +590,7 @@
       "name": "反曲之弓",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_RecurveBow.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_RecurveBow.png"
     },
     {
       "id": "DA_Component_SparringGloves",
@@ -590,7 +598,7 @@
       "name": "拳套",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_SparringGloves.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_SparringGloves.png"
     },
     {
       "id": "DA_Component_Spatula",
@@ -598,7 +606,7 @@
       "name": "金铲铲",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_Spatula.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_Spatula.png"
     },
     {
       "id": "DA_Component_TearOfTheGoddess",
@@ -606,7 +614,7 @@
       "name": "女神之泪",
       "category": "component",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Component_TearOfTheGoddess.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Component_TearOfTheGoddess.png"
     },
     {
       "id": "DA_Consumable_ChampionDuplicator",
@@ -614,7 +622,7 @@
       "name": "英雄复制器",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Consumable_ChampionDuplicator.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Consumable_ChampionDuplicator.png"
     },
     {
       "id": "DA_Consumable_GoldenItemRemover",
@@ -622,7 +630,7 @@
       "name": "金制拆卸器",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Consumable_GoldenItemRemover.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Consumable_GoldenItemRemover.png"
     },
     {
       "id": "DA_Consumable_ItemRemover",
@@ -630,7 +638,7 @@
       "name": "装备拆卸器",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Consumable_ItemRemover.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Consumable_ItemRemover.png"
     },
     {
       "id": "DA_Consumable_LesserChampionDuplicator",
@@ -638,7 +646,7 @@
       "name": "次级英雄复制器",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Consumable_LesserChampionDuplicator.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Consumable_LesserChampionDuplicator.png"
     },
     {
       "id": "DA_Crownguard",
@@ -646,7 +654,7 @@
       "name": "冕卫",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Crownguard.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Crownguard.png"
     },
     {
       "id": "DA_CrownguardRadiant",
@@ -654,7 +662,7 @@
       "name": "光明版冕卫",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_CrownguardRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_CrownguardRadiant.png"
     },
     {
       "id": "DA_Deathblade",
@@ -662,7 +670,7 @@
       "name": "死亡之刃",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Deathblade.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Deathblade.png"
     },
     {
       "id": "DA_DeathbladeRadiant",
@@ -670,7 +678,7 @@
       "name": "光明版死亡之刃",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_DeathbladeRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_DeathbladeRadiant.png"
     },
     {
       "id": "DA_DragonsClaw",
@@ -678,7 +686,7 @@
       "name": "巨龙之爪",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_DragonsClaw.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_DragonsClaw.png"
     },
     {
       "id": "DA_DragonsClawRadiant",
@@ -686,7 +694,7 @@
       "name": "光明版巨龙之爪",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_DragonsClawRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_DragonsClawRadiant.png"
     },
     {
       "id": "DA_EdgeOfNight",
@@ -694,7 +702,7 @@
       "name": "夜之锋刃",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_EdgeOfNight.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_EdgeOfNight.png"
     },
     {
       "id": "DA_EdgeOfNightRadiant",
@@ -702,7 +710,7 @@
       "name": "光明版夜之锋刃",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_EdgeOfNightRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_EdgeOfNightRadiant.png"
     },
     {
       "id": "DA_Evenshroud",
@@ -710,7 +718,7 @@
       "name": "薄暮法袍",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Evenshroud.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Evenshroud.png"
     },
     {
       "id": "DA_EvenshroudRadiant",
@@ -718,7 +726,7 @@
       "name": "光明版薄暮法袍",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_EvenshroudRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_EvenshroudRadiant.png"
     },
     {
       "id": "DA_GargoyleStoneplate",
@@ -726,7 +734,7 @@
       "name": "石像鬼石板甲",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_GargoyleStoneplate.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_GargoyleStoneplate.png"
     },
     {
       "id": "DA_GargoyleStoneplate_Radiant",
@@ -734,7 +742,7 @@
       "name": "光明版石像鬼石板甲",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_GargoyleStoneplate_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_GargoyleStoneplate_Radiant.png"
     },
     {
       "id": "DA_GiantSlayer",
@@ -742,7 +750,7 @@
       "name": "巨人杀手",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_GiantSlayer.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_GiantSlayer.png"
     },
     {
       "id": "DA_GiantSlayer_Radiant",
@@ -750,7 +758,7 @@
       "name": "光明版巨人杀手",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_GiantSlayer_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_GiantSlayer_Radiant.png"
     },
     {
       "id": "DA_GuinsoosRageblade",
@@ -758,7 +766,7 @@
       "name": "鬼索的狂暴之刃",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_GuinsoosRageblade.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_GuinsoosRageblade.png"
     },
     {
       "id": "DA_GuinsoosRagebladeRadiant",
@@ -766,7 +774,7 @@
       "name": "光明版鬼索的狂暴之刃",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_GuinsoosRagebladeRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_GuinsoosRagebladeRadiant.png"
     },
     {
       "id": "DA_HandOfJustice",
@@ -774,7 +782,7 @@
       "name": "正义之手",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_HandOfJustice.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_HandOfJustice.png"
     },
     {
       "id": "DA_HandOfJusticeRadiant",
@@ -782,7 +790,7 @@
       "name": "光明版正义之手",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_HandOfJusticeRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_HandOfJusticeRadiant.png"
     },
     {
       "id": "DA_HealthBooster18",
@@ -790,7 +798,7 @@
       "name": "生命值补剂",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_HealthBooster18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_HealthBooster18.png"
     },
     {
       "id": "DA_HealthPotion18",
@@ -798,7 +806,7 @@
       "name": "生命药水",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_HealthPotion18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_HealthPotion18.png"
     },
     {
       "id": "DA_HealthPotion18_Radiant",
@@ -806,7 +814,7 @@
       "name": "光明版生命药水",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_HealthPotion18_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_HealthPotion18_Radiant.png"
     },
     {
       "id": "DA_HextechGunblade",
@@ -814,7 +822,7 @@
       "name": "海克斯科技枪刃",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_HextechGunblade.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_HextechGunblade.png"
     },
     {
       "id": "DA_HextechGunbladeRadiant",
@@ -822,7 +830,7 @@
       "name": "光明版海克斯科技枪刃",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_HextechGunbladeRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_HextechGunbladeRadiant.png"
     },
     {
       "id": "DA_InfinityEdge",
@@ -830,7 +838,7 @@
       "name": "无尽之刃",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_InfinityEdge.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_InfinityEdge.png"
     },
     {
       "id": "DA_InfinityEdgeRadiant",
@@ -838,7 +846,7 @@
       "name": "光明版无尽之刃",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_InfinityEdgeRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_InfinityEdgeRadiant.png"
     },
     {
       "id": "DA_IonicSpark",
@@ -846,7 +854,7 @@
       "name": "离子火花",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_IonicSpark.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_IonicSpark.png"
     },
     {
       "id": "DA_IonicSparkRadiant",
@@ -854,7 +862,7 @@
       "name": "光明版离子火花",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_IonicSparkRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_IonicSparkRadiant.png"
     },
     {
       "id": "DA_Item_Artifact_TalismanOfAscension",
@@ -862,7 +870,7 @@
       "name": "飞升护符",
       "category": "artifact",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Item_Artifact_TalismanOfAscension.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Item_Artifact_TalismanOfAscension.png"
     },
     {
       "id": "DA_JeweledGauntlet",
@@ -870,7 +878,7 @@
       "name": "珠光护手",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_JeweledGauntlet.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_JeweledGauntlet.png"
     },
     {
       "id": "DA_JeweledGauntletRadiant",
@@ -878,7 +886,7 @@
       "name": "光明版珠光护手",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_JeweledGauntletRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_JeweledGauntletRadiant.png"
     },
     {
       "id": "DA_KrakensFury",
@@ -886,7 +894,7 @@
       "name": "海妖之怒",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_KrakensFury.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_KrakensFury.png"
     },
     {
       "id": "DA_KrakensFury_Radiant",
@@ -894,7 +902,7 @@
       "name": "光明版海妖之怒",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_KrakensFury_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_KrakensFury_Radiant.png"
     },
     {
       "id": "DA_LastWhisper",
@@ -902,7 +910,7 @@
       "name": "最后的轻语",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_LastWhisper.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_LastWhisper.png"
     },
     {
       "id": "DA_LastWhisperRadiant",
@@ -910,7 +918,7 @@
       "name": "光明版最后的轻语",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_LastWhisperRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_LastWhisperRadiant.png"
     },
     {
       "id": "DA_LuckyItemChest",
@@ -918,7 +926,7 @@
       "name": "幸运装备宝箱",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_LuckyItemChest.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_LuckyItemChest.png"
     },
     {
       "id": "DA_ManaPotion18",
@@ -926,7 +934,7 @@
       "name": "法力药水",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ManaPotion18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ManaPotion18.png"
     },
     {
       "id": "DA_ManaPotion18_Radiant",
@@ -934,7 +942,7 @@
       "name": "光明版法力药水",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ManaPotion18_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ManaPotion18_Radiant.png"
     },
     {
       "id": "DA_ManaRegenBooster18",
@@ -942,7 +950,7 @@
       "name": "法力回复补剂",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ManaRegenBooster18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ManaRegenBooster18.png"
     },
     {
       "id": "DA_MasterworkUpgrade",
@@ -950,7 +958,7 @@
       "name": "杰作升级",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_MasterworkUpgrade.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_MasterworkUpgrade.png"
     },
     {
       "id": "DA_Morellonomicon",
@@ -958,7 +966,7 @@
       "name": "莫雷洛秘典",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Morellonomicon.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Morellonomicon.png"
     },
     {
       "id": "DA_MorellonomiconRadiant",
@@ -966,7 +974,7 @@
       "name": "光明版莫雷洛秘典",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_MorellonomiconRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_MorellonomiconRadiant.png"
     },
     {
       "id": "DA_NashorsTooth",
@@ -974,7 +982,7 @@
       "name": "纳什之牙",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_NashorsTooth.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_NashorsTooth.png"
     },
     {
       "id": "DA_NashorsToothRadiant",
@@ -982,7 +990,7 @@
       "name": "光明版纳什之牙",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_NashorsToothRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_NashorsToothRadiant.png"
     },
     {
       "id": "DA_ProtectorsVow",
@@ -990,7 +998,7 @@
       "name": "圣盾使的誓约",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ProtectorsVow.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ProtectorsVow.png"
     },
     {
       "id": "DA_ProtectorsVowRadiant",
@@ -998,7 +1006,7 @@
       "name": "光明版圣盾使的誓约",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ProtectorsVowRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ProtectorsVowRadiant.png"
     },
     {
       "id": "DA_Quicksilver",
@@ -1006,7 +1014,7 @@
       "name": "水银",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Quicksilver.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Quicksilver.png"
     },
     {
       "id": "DA_QuicksilverRadiant",
@@ -1014,7 +1022,7 @@
       "name": "光明版水银",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_QuicksilverRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_QuicksilverRadiant.png"
     },
     {
       "id": "DA_RabadonsDeathcap",
@@ -1022,7 +1030,7 @@
       "name": "灭世者的死亡之帽",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_RabadonsDeathcap.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_RabadonsDeathcap.png"
     },
     {
       "id": "DA_RabadonsDeathcap_Radiant",
@@ -1030,7 +1038,7 @@
       "name": "光明版灭世者的死亡之帽",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_RabadonsDeathcap_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_RabadonsDeathcap_Radiant.png"
     },
     {
       "id": "DA_RadiantLuckyItemChest",
@@ -1038,7 +1046,7 @@
       "name": "光明版幸运装备宝箱",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_RadiantLuckyItemChest.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_RadiantLuckyItemChest.png"
     },
     {
       "id": "DA_RedBuff",
@@ -1046,7 +1054,7 @@
       "name": "红霸符",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_RedBuff.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_RedBuff.png"
     },
     {
       "id": "DA_RedBuffRadiant",
@@ -1054,7 +1062,7 @@
       "name": "光明版红霸符",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_RedBuffRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_RedBuffRadiant.png"
     },
     {
       "id": "DA_Reforger",
@@ -1062,7 +1070,7 @@
       "name": "装备重铸器",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_Reforger.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_Reforger.png"
     },
     {
       "id": "DA_SpearOfShojin",
@@ -1070,7 +1078,7 @@
       "name": "朔极之矛",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SpearOfShojin.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SpearOfShojin.png"
     },
     {
       "id": "DA_SpearOfShojinRadiant",
@@ -1078,7 +1086,7 @@
       "name": "光明版朔极之矛",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SpearOfShojinRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SpearOfShojinRadiant.png"
     },
     {
       "id": "DA_SpeedBooster18",
@@ -1086,7 +1094,7 @@
       "name": "攻击速度补剂",
       "category": "consumable",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SpeedBooster18.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SpeedBooster18.png"
     },
     {
       "id": "DA_SpiritVisage",
@@ -1094,7 +1102,7 @@
       "name": "振奋盔甲",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SpiritVisage.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SpiritVisage.png"
     },
     {
       "id": "DA_SpiritVisage_Radiant",
@@ -1102,7 +1110,7 @@
       "name": "光明版振奋盔甲",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SpiritVisage_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SpiritVisage_Radiant.png"
     },
     {
       "id": "DA_SteadfastHeart",
@@ -1110,7 +1118,7 @@
       "name": "坚定之心",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SteadfastHeart.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SteadfastHeart.png"
     },
     {
       "id": "DA_SteadfastHeartRadiant",
@@ -1118,7 +1126,7 @@
       "name": "光明版坚定之心",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SteadfastHeartRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SteadfastHeartRadiant.png"
     },
     {
       "id": "DA_SteraksGage",
@@ -1126,7 +1134,7 @@
       "name": "斯特拉克的挑战护手",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SteraksGage.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SteraksGage.png"
     },
     {
       "id": "DA_SteraksGageRadiant",
@@ -1134,7 +1142,7 @@
       "name": "光明版斯特拉克的挑战护手",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SteraksGageRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SteraksGageRadiant.png"
     },
     {
       "id": "DA_StrikersFlail",
@@ -1142,7 +1150,7 @@
       "name": "强袭者的链枷",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_StrikersFlail.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_StrikersFlail.png"
     },
     {
       "id": "DA_StrikersFlailRadiant",
@@ -1150,7 +1158,7 @@
       "name": "光明版强袭者的链枷",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_StrikersFlailRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_StrikersFlailRadiant.png"
     },
     {
       "id": "DA_SunfireCape",
@@ -1158,7 +1166,7 @@
       "name": "日炎斗篷",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SunfireCape.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SunfireCape.png"
     },
     {
       "id": "DA_SunfireCape_Radiant",
@@ -1166,7 +1174,7 @@
       "name": "光明版日炎斗篷",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_SunfireCape_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_SunfireCape_Radiant.png"
     },
     {
       "id": "DA_TacticiansCape",
@@ -1174,7 +1182,7 @@
       "name": "金锅铲冠冕",
       "category": "tactician",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_TacticiansCape.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_TacticiansCape.png"
     },
     {
       "id": "DA_TacticiansCrown",
@@ -1182,7 +1190,7 @@
       "name": "金铲铲冠冕",
       "category": "tactician",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_TacticiansCrown.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_TacticiansCrown.png"
     },
     {
       "id": "DA_TacticiansShield",
@@ -1190,7 +1198,7 @@
       "name": "金锅锅冠冕",
       "category": "tactician",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_TacticiansShield.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_TacticiansShield.png"
     },
     {
       "id": "DA_ThiefsGloves",
@@ -1198,7 +1206,7 @@
       "name": "窃贼手套",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ThiefsGloves.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ThiefsGloves.png"
     },
     {
       "id": "DA_ThiefsGlovesRadiant",
@@ -1206,7 +1214,7 @@
       "name": "光明版窃贼手套",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_ThiefsGlovesRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_ThiefsGlovesRadiant.png"
     },
     {
       "id": "DA_TitansResolve",
@@ -1214,7 +1222,7 @@
       "name": "泰坦的坚决",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_TitansResolve.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_TitansResolve.png"
     },
     {
       "id": "DA_TitansResolve_Radiant",
@@ -1222,7 +1230,7 @@
       "name": "光明版泰坦的坚决",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_TitansResolve_Radiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_TitansResolve_Radiant.png"
     },
     {
       "id": "DA_VoidStaff",
@@ -1230,7 +1238,7 @@
       "name": "虚空之杖",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_VoidStaff.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_VoidStaff.png"
     },
     {
       "id": "DA_VoidStaffRadiant",
@@ -1238,7 +1246,7 @@
       "name": "光明版虚空之杖",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_VoidStaffRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_VoidStaffRadiant.png"
     },
     {
       "id": "DA_WarmogsArmor",
@@ -1246,7 +1254,7 @@
       "name": "狂徒铠甲",
       "category": "completed",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_WarmogsArmor.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_WarmogsArmor.png"
     },
     {
       "id": "DA_WarmogsArmorRadiant",
@@ -1254,7 +1262,7 @@
       "name": "光明版狂徒铠甲",
       "category": "radiant",
       "effects": {},
-      "icon": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/tft-item/DA_WarmogsArmorRadiant.png"
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.19.1/img/tft-item/DA_WarmogsArmorRadiant.png"
     }
   ]
 }
