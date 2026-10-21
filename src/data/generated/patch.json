@@ -1,13 +1,13 @@
 {
   "metadata": {
     "source": "Riot Games TFT patch notes",
-    "sourceUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-4/",
+    "sourceUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-5/",
     "set": "18",
-    "patch": "18.4",
-    "collectedAt": "2026-10-20T14:20:56.749Z",
+    "patch": "18.5",
+    "collectedAt": "2026-10-21T11:58:45.979Z",
     "schemaVersion": 1,
-    "sourceVersion": "16.20.1",
-    "sha256": "9780c40a4905e0bc7023cd3921bb5722266534a65ed7df99765efa220bcefc58",
+    "sourceVersion": "16.21.1",
+    "sha256": "c8196714faba4d76f6d218fec37394bfdc6160b613eb395d632eed4dba4a89d4",
     "supportingSources": [
       "https://teamfighttactics.leagueoflegends.com/en-us/news/",
       "https://raw.communitydragon.org/latest/content-metadata.json",
@@ -17,12 +17,12 @@
   "data": [
     {
       "set": "18",
-      "releasedAt": "2026-10-06T18:00:00.000Z",
-      "patch": "18.4",
-      "patchNotesUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-4/",
-      "checkedAt": "2026-10-20T14:20:56.749Z",
-      "resourceVersion": "16.20.1",
-      "resourcePublishedAt": "2026-10-19T20:31:26.000Z",
+      "releasedAt": "2026-10-20T18:00:00.000Z",
+      "patch": "18.5",
+      "patchNotesUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-5/",
+      "checkedAt": "2026-10-21T11:58:45.979Z",
+      "resourceVersion": "16.21.1",
+      "resourcePublishedAt": "2026-10-21T06:59:34.000Z",
       "resourceMetadataUrl": "https://raw.communitydragon.org/latest/content-metadata.json",
       "patchAssociation": "官方公告版本 + Riot/CDragon 资源分支一致 + 资源发布时间晚于公告；非地区服务器上线探测"
     }

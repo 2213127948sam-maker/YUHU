@@ -2,10 +2,10 @@
   {
     "id": "riot",
     "name": "Riot",
-    "sourceUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-4/",
-    "detectedPatch": "18.4",
-    "collectedAt": "2026-10-20T14:20:56.749Z",
-    "checkedAt": "2026-10-20T14:20:56.092Z",
+    "sourceUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-5/",
+    "detectedPatch": "18.5",
+    "collectedAt": "2026-10-21T11:58:45.979Z",
+    "checkedAt": "2026-10-21T11:58:45.275Z",
     "status": "fresh",
     "method": "官方公告 HTML + JSON-LD",
     "fields": [
@@ -20,9 +20,9 @@
     "id": "communityDragon",
     "name": "CommunityDragon",
     "sourceUrl": "https://raw.communitydragon.org/latest/cdragon/tft/zh_cn.json",
-    "detectedPatch": "18.4",
-    "collectedAt": "2026-10-20T14:20:57.185Z",
-    "checkedAt": "2026-10-20T14:20:56.092Z",
+    "detectedPatch": "18.5",
+    "collectedAt": "2026-10-21T11:58:46.466Z",
+    "checkedAt": "2026-10-21T11:58:45.275Z",
     "status": "fresh",
     "method": "公开 JSON + Riot 目录交叉校验",
     "fields": [
@@ -37,10 +37,10 @@
     "id": "tftacademy",
     "name": "TFT Academy",
     "sourceUrl": "https://tftacademy.com/tierlist/comps",
-    "checkedAt": "2026-10-20T14:20:57.334Z",
+    "checkedAt": "2026-10-21T11:58:46.609Z",
     "method": "公开 HTML 内 Svelte 字面量（AST，无代码执行）",
     "detectedPatch": "18.4b",
-    "collectedAt": "2026-10-20T14:20:57.334Z",
+    "collectedAt": "2026-10-21T11:58:46.609Z",
     "status": "stale",
     "fields": [
       "名称",
@@ -50,18 +50,18 @@
       "主C",
       "来源更新时间"
     ],
-    "message": "专家评级，不是对局胜率；保留公开最终棋盘，内部召唤物在归一化时隔离。 保留233条历史记录，已标记不属于本次采集。"
+    "message": "专家评级，不是对局胜率；保留公开最终棋盘，内部召唤物在归一化时隔离。 保留234条历史记录，已标记不属于本次采集。"
   },
   {
     "id": "tftable",
     "name": "TFTable",
     "sourceUrl": "https://tftable.cc/comps",
-    "checkedAt": "2026-10-20T14:20:57.535Z",
+    "checkedAt": "2026-10-21T11:58:46.859Z",
     "method": "公开 HTML 内 __NEXT_DATA__ JSON",
-    "detectedPatch": "18.4b",
-    "collectedAt": "2026-10-20T14:20:57.535Z",
-    "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
-    "status": "stale",
+    "detectedPatch": "18.5",
+    "collectedAt": "2026-10-21T11:58:46.859Z",
+    "sourceUpdatedAt": "2026-10-21T08:59:13.753462+00:00",
+    "status": "fresh",
     "fields": [
       "阵容标识",
       "平均排名",
@@ -69,16 +69,16 @@
       "均排版本变化值",
       "来源更新时间"
     ],
-    "message": "未取得筛选分段、样本量、前四率；均排变化保留原数值，不猜测趋势方向。 保留144条历史记录，已标记不属于本次采集。"
+    "message": "未取得筛选分段、样本量、前四率；均排变化保留原数值，不猜测趋势方向。 保留176条历史记录，已标记不属于本次采集。"
   },
   {
     "id": "tftflow",
     "name": "TFTFlow",
     "sourceUrl": "https://tftflow.com/",
-    "checkedAt": "2026-10-20T14:20:59.733Z",
+    "checkedAt": "2026-10-21T11:58:47.036Z",
     "method": "公开 HTML 语义卡片",
-    "detectedPatch": "18.4",
-    "collectedAt": "2026-10-20T14:20:59.733Z",
+    "detectedPatch": "18.5",
+    "collectedAt": "2026-10-21T11:58:47.036Z",
     "status": "fresh",
     "fields": [
       "阵容名称",
@@ -86,13 +86,13 @@
       "部分Tier",
       "运营分类"
     ],
-    "message": "只采集公开卡片；无胜率/样本统计，不推断隐藏评级。 保留143条历史记录，已标记不属于本次采集。"
+    "message": "只采集公开卡片；无胜率/样本统计，不推断隐藏评级。 保留182条历史记录，已标记不属于本次采集。"
   },
   {
     "id": "datatft",
     "name": "DataTFT",
     "sourceUrl": "https://www.datatft.com/comps/rank",
-    "checkedAt": "2026-10-20T14:20:59.901Z",
+    "checkedAt": "2026-10-21T11:58:47.170Z",
     "method": "manual + HTML availability check",
     "status": "unknown",
     "fields": [],
@@ -102,7 +102,7 @@
     "id": "metatft",
     "name": "MetaTFT",
     "sourceUrl": "https://www.metatft.com/comps",
-    "checkedAt": "2026-10-20T14:21:03.008Z",
+    "checkedAt": "2026-10-21T11:58:49.719Z",
     "method": "manual + HTML availability check",
     "status": "unknown",
     "fields": [],
