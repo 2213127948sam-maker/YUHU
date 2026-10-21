@@ -7,9 +7,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-tempo-riftbeast",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.257Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.634Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "S",
       "archetype": "fast9",
       "coreUnits": [
@@ -37,9 +37,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-lunarwood-khazix",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:11:44.745Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.789Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "S",
       "archetype": "reroll3",
       "coreUnits": [
@@ -64,43 +64,14 @@
     },
     {
       "source": "tftacademy",
-      "sourceRecordId": "m85sy8p7quxbwjc",
-      "name": "Azir Rammus Reroll",
-      "set": "18",
-      "patch": "18.5",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.383Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
-      "tier": "A",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Azir",
-        "DA_18_Rammus",
-        "DA_18_Soraka",
-        "DA_18_Zyra"
-      ],
-      "carries": [
-        "DA_18_Azir"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftacademy",
       "sourceRecordId": "wz0a5dwezzb5rbh",
       "name": "Riftbeast Pebbles Reroll",
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-riftbeast-reroll",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:11:40.809Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.139Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "reroll1",
       "coreUnits": [
@@ -128,9 +99,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-elderwood-executioners-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.353Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.803Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "fast9",
       "coreUnits": [
@@ -161,9 +132,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ahri-morgana",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:11:37.440Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.819Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "fast8",
       "coreUnits": [
@@ -191,9 +162,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-elderwood-executioners",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.628Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.181Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "fast8",
       "coreUnits": [
@@ -225,9 +196,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.628Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.148Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "reroll3",
       "coreUnits": [
@@ -254,9 +225,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solara-yunara",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.376Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.820Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "reroll2",
       "coreUnits": [
@@ -284,9 +255,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-aphelios-nidalee",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.679Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.149Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "fast8",
       "coreUnits": [
@@ -314,9 +285,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-veigar-consuming-flora-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.397Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.185Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "reroll1",
       "coreUnits": [
@@ -345,9 +316,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.673Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.182Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "reroll3",
       "coreUnits": [
@@ -369,14 +340,43 @@
     },
     {
       "source": "tftacademy",
+      "sourceRecordId": "m85sy8p7quxbwjc",
+      "name": "Azir Rammus Reroll",
+      "set": "18",
+      "patch": "18.5",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.189Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
+      "tier": "A",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Azir",
+        "DA_18_Rammus",
+        "DA_18_Soraka",
+        "DA_18_Zyra"
+      ],
+      "carries": [
+        "DA_18_Azir"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftacademy",
       "sourceRecordId": "pe2ljiorlrcs6uj",
       "name": "Alune AP Fast 9",
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ap-95",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:11:29.311Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.168Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast9",
       "coreUnits": [
@@ -405,9 +405,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solar-melee",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.693Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.192Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "reroll1",
       "coreUnits": [
@@ -434,9 +434,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-6-juggernaut-ap",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.772Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.178Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -465,9 +465,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-soraka-flex",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:12:20.224Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.183Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -495,9 +495,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-10-riftbeast",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.691Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.814Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast9",
       "coreUnits": [
@@ -528,9 +528,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-eclipse-kayle",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.696Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.141Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "reroll2",
       "coreUnits": [
@@ -558,9 +558,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-warwick-rr",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.692Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.130Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "reroll2",
       "coreUnits": [
@@ -583,14 +583,44 @@
     },
     {
       "source": "tftacademy",
+      "sourceRecordId": "u17zsaclo9tdx9c",
+      "name": "Juggernaut Ashe",
+      "set": "18",
+      "patch": "18.5",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ashe-juggernauts",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.141Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
+      "tier": "B",
+      "archetype": "fast8",
+      "coreUnits": [
+        "DA_18_Rakan",
+        "DA_Vi18",
+        "DA_Amumu18",
+        "DA_18_Sivir",
+        "DA_18_Ivern",
+        "DA_18_Maokai",
+        "DA_Taric18",
+        "DA_18_Ashe"
+      ],
+      "carries": [
+        "DA_18_Ashe"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftacademy",
       "sourceRecordId": "ggxzd3j3w9knl0e",
       "name": "Primal Nidalee Sivir",
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-invoker-nidalee-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.685Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.910Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "fast8",
       "coreUnits": [
@@ -618,9 +648,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-cashout-morgana",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.702Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.190Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "unknown",
       "coreUnits": [
@@ -649,9 +679,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-caitlyn-hunters",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.666Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.164Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "reroll2",
       "coreUnits": [
@@ -673,44 +703,14 @@
     },
     {
       "source": "tftacademy",
-      "sourceRecordId": "u17zsaclo9tdx9c",
-      "name": "Juggernaut Ashe",
-      "set": "18",
-      "patch": "18.5",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ashe-juggernauts",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:10:14.312Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
-      "tier": "B",
-      "archetype": "fast8",
-      "coreUnits": [
-        "DA_18_Rakan",
-        "DA_Vi18",
-        "DA_Amumu18",
-        "DA_18_Sivir",
-        "DA_18_Ivern",
-        "DA_18_Maokai",
-        "DA_Taric18",
-        "DA_18_Ashe"
-      ],
-      "carries": [
-        "DA_18_Ashe"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftacademy",
       "sourceRecordId": "ncbuf2xodxhcgjw",
       "name": "Elderwood Teemo Reroll",
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-teemo-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.698Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.137Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "reroll2",
       "coreUnits": [
@@ -739,9 +739,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-nidalee",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.688Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.178Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "fast8",
       "coreUnits": [
@@ -769,9 +769,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-rengar-rr",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.696Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.142Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "reroll3",
       "coreUnits": [
@@ -799,9 +799,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-coven-elise",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.767Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.192Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "reroll2",
       "coreUnits": [
@@ -828,9 +828,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-spellweavers",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.677Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.173Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "fast8",
       "coreUnits": [
@@ -859,9 +859,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.773Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.199Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "reroll1",
       "coreUnits": [
@@ -889,9 +889,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-inferno-fast-9",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.399Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.107Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "fast8",
       "coreUnits": [
@@ -920,9 +920,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-trait-ladder",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.774Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.193Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "fast9",
       "coreUnits": [
@@ -952,9 +952,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solar-eclipse",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.682Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.178Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "fast8",
       "coreUnits": [
@@ -982,9 +982,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.689Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.193Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "reroll3",
       "coreUnits": [
@@ -1011,9 +1011,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-moo-nara",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.680Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.134Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "reroll2",
       "coreUnits": [
@@ -1040,9 +1040,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-fae-tristana-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.687Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.151Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "reroll3",
       "coreUnits": [
@@ -1069,9 +1069,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-unrivaled-reroll",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.684Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.190Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "X",
       "archetype": "reroll3",
       "coreUnits": [
@@ -1100,9 +1100,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solar-kayle",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.750Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.161Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "reroll2",
       "coreUnits": [
@@ -1131,9 +1131,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-blossom-fast-9",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.693Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.195Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "fast9",
       "coreUnits": [
@@ -1161,9 +1161,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dragon-princess",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.350Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.745Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "fast9",
       "coreUnits": [
@@ -1191,9 +1191,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.389Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.188Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "reroll3",
       "coreUnits": [
@@ -1220,9 +1220,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-teemo",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.635Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.816Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "reroll2",
       "coreUnits": [
@@ -1249,9 +1249,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-aphelios-vanguards-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.681Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.181Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "fast8",
       "coreUnits": [
@@ -1284,9 +1284,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-primal-jungle-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.757Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.149Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "C",
       "archetype": "fast8",
       "coreUnits": [
@@ -1314,9 +1314,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-reroll",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.373Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.196Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "reroll3",
       "coreUnits": [
@@ -1343,9 +1343,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-blackthorn-malphite",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.691Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.148Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -1374,9 +1374,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ahri-morgana-copy",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.373Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.134Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "A",
       "archetype": "fast8",
       "coreUnits": [
@@ -1404,9 +1404,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-fae-ezreal",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.335Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.816Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -1437,9 +1437,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-aphelios-rapidfire",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:12:04.632Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.121Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -1467,9 +1467,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-woodblossom",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.355Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:14.821Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -1499,9 +1499,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-moon-fire",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.611Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.147Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -1529,9 +1529,9 @@
       "set": "18",
       "patch": "18.5",
       "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-afaelios",
-      "collectedAt": "2026-10-21T17:18:27.817Z",
-      "sourceUpdatedAt": "2026-10-21T16:09:31.619Z",
-      "sha256": "e2e69a7347fe7550f81c0403ec793cc720bc871dc7902afa32f77a758b8f7127",
+      "collectedAt": "2026-10-21T21:47:32.787Z",
+      "sourceUpdatedAt": "2026-10-21T20:01:15.182Z",
+      "sha256": "6d7f7efb87d6f801149f9a73a9cbbab5d51d5ccd7a4753bcc1e84dabfd803714",
       "tier": "B",
       "archetype": "fast8",
       "coreUnits": [
@@ -1551,96 +1551,6 @@
         "专家评级；条件与完整指南请查看原文。"
       ],
       "retained": false
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "m85sy8p7quxbwjc",
-      "name": "Azir Rammus Reroll",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
-      "collectedAt": "2026-10-21T11:58:46.609Z",
-      "sourceUpdatedAt": "2026-10-20T16:28:47.298Z",
-      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
-      "tier": "S",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Azir",
-        "DA_18_Rammus",
-        "DA_18_Soraka",
-        "DA_18_Zyra"
-      ],
-      "carries": [
-        "DA_18_Azir"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "m85sy8p7quxbwjc",
-      "name": "Azir Rammus Reroll",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
-      "collectedAt": "2026-10-08T10:41:59.985Z",
-      "sourceUpdatedAt": "2026-10-07T18:28:18.797Z",
-      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
-      "tier": "A",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Azir",
-        "DA_18_Rammus",
-        "DA_18_Soraka",
-        "DA_18_Zyra"
-      ],
-      "carries": [
-        "DA_18_Azir"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "m85sy8p7quxbwjc",
-      "name": "Azir Rammus Reroll",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
-      "collectedAt": "2026-10-07T13:32:54.673Z",
-      "sourceUpdatedAt": "2026-10-05T21:09:01.123Z",
-      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
-      "tier": "A",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Azir",
-        "DA_18_Rammus",
-        "DA_18_Soraka",
-        "DA_18_Zyra"
-      ],
-      "carries": [
-        "DA_18_Azir"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
     },
     {
       "source": "tftacademy",
@@ -1671,6 +1581,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -1751,6 +1662,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -1785,6 +1697,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -1962,6 +1875,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -1996,6 +1910,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -2257,7 +2172,98 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "m85sy8p7quxbwjc",
+      "name": "Azir Rammus Reroll",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
+      "collectedAt": "2026-10-21T11:58:46.609Z",
+      "sourceUpdatedAt": "2026-10-20T16:28:47.298Z",
+      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
+      "tier": "S",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Azir",
+        "DA_18_Rammus",
+        "DA_18_Soraka",
+        "DA_18_Zyra"
+      ],
+      "carries": [
+        "DA_18_Azir"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "m85sy8p7quxbwjc",
+      "name": "Azir Rammus Reroll",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
+      "collectedAt": "2026-10-08T10:41:59.985Z",
+      "sourceUpdatedAt": "2026-10-07T18:28:18.797Z",
+      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
+      "tier": "A",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Azir",
+        "DA_18_Rammus",
+        "DA_18_Soraka",
+        "DA_18_Zyra"
+      ],
+      "carries": [
+        "DA_18_Azir"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "m85sy8p7quxbwjc",
+      "name": "Azir Rammus Reroll",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-azir-rammus",
+      "collectedAt": "2026-10-07T13:32:54.673Z",
+      "sourceUpdatedAt": "2026-10-05T21:09:01.123Z",
+      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
+      "tier": "A",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Azir",
+        "DA_18_Rammus",
+        "DA_18_Soraka",
+        "DA_18_Zyra"
+      ],
+      "carries": [
+        "DA_18_Azir"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
       ],
       "retained": true,
       "retentionReason": "version"
@@ -2447,6 +2453,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -2669,6 +2676,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -2751,6 +2759,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -2787,6 +2796,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
@@ -2966,6 +2976,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
       ],
       "retained": true,
@@ -3002,6 +3013,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
@@ -3265,7 +3277,219 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "xyl2tqxirk27vaa",
+      "name": "Defender Cassiopeia Reroll",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
+      "collectedAt": "2026-10-21T11:58:46.609Z",
+      "sourceUpdatedAt": "2026-10-20T16:28:47.913Z",
+      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
+      "tier": "A",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Leona",
+        "DA_18_Ornn",
+        "DA_18_Shen",
+        "DA_18_Cassiopeia",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Lillia"
+      ],
+      "carries": [
+        "DA_18_Cassiopeia"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "xyl2tqxirk27vaa",
+      "name": "Defender Cassiopeia Reroll",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
+      "collectedAt": "2026-10-08T10:41:59.985Z",
+      "sourceUpdatedAt": "2026-10-07T18:28:11.869Z",
+      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Leona",
+        "DA_18_Ornn",
+        "DA_18_Shen",
+        "DA_18_Cassiopeia",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Lillia"
+      ],
+      "carries": [
+        "DA_18_Cassiopeia"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "xyl2tqxirk27vaa",
+      "name": "Defender Cassiopeia Reroll",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
+      "collectedAt": "2026-10-07T13:32:54.673Z",
+      "sourceUpdatedAt": "2026-10-05T21:09:01.136Z",
+      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Leona",
+        "DA_18_Ornn",
+        "DA_18_Shen",
+        "DA_18_Cassiopeia",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Lillia"
+      ],
+      "carries": [
+        "DA_18_Cassiopeia"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "xyl2tqxirk27vaa",
+      "name": "Defender Cassiopeia Reroll",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
+      "collectedAt": "2026-09-24T17:16:45.247Z",
+      "sourceUpdatedAt": "2026-09-23T16:56:44.322Z",
+      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Leona",
+        "DA_18_Ornn",
+        "DA_18_Shen",
+        "DA_18_Cassiopeia",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Lillia"
+      ],
+      "carries": [
+        "DA_18_Cassiopeia"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "xyl2tqxirk27vaa",
+      "name": "Defender Cassiopeia Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
+      "collectedAt": "2026-09-22T17:01:33.873Z",
+      "sourceUpdatedAt": "2026-09-21T15:43:08.185Z",
+      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
+      "tier": "C",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Leona",
+        "DA_18_Ornn",
+        "DA_18_Shen",
+        "DA_18_Cassiopeia",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Lillia"
+      ],
+      "carries": [
+        "DA_18_Cassiopeia"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "xyl2tqxirk27vaa",
+      "name": "Defender Cassiopeia Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
+      "collectedAt": "2026-09-15T17:05:09.103Z",
+      "sourceUpdatedAt": "2026-09-15T14:26:06.731Z",
+      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Leona",
+        "DA_18_Ornn",
+        "DA_18_Shen",
+        "DA_18_Cassiopeia",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Lillia"
+      ],
+      "carries": [
+        "DA_18_Cassiopeia"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "dp3g3imnc4cihl4",
+      "name": "Solar Karma Reroll",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solara-yunara",
+      "collectedAt": "2026-10-21T11:58:46.609Z",
+      "sourceUpdatedAt": "2026-10-20T16:28:47.947Z",
+      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
+      "tier": "A",
+      "archetype": "reroll2",
+      "coreUnits": [
+        "DA_18_LeBlanc",
+        "DA_Karma18",
+        "DA_18_Yunara",
+        "DA_18_Sejuani",
+        "DA_18_Leona",
+        "DA_18_Azir",
+        "DA_18_Kayle",
+        "DA_18_Yorick"
+      ],
+      "carries": [
+        "DA_Karma18"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
       ],
       "retained": true,
       "retentionReason": "version"
@@ -3458,217 +3682,6 @@
     },
     {
       "source": "tftacademy",
-      "sourceRecordId": "dp3g3imnc4cihl4",
-      "name": "Solar Karma Reroll",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solara-yunara",
-      "collectedAt": "2026-10-21T11:58:46.609Z",
-      "sourceUpdatedAt": "2026-10-20T16:28:47.947Z",
-      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
-      "tier": "A",
-      "archetype": "reroll2",
-      "coreUnits": [
-        "DA_18_LeBlanc",
-        "DA_Karma18",
-        "DA_18_Yunara",
-        "DA_18_Sejuani",
-        "DA_18_Leona",
-        "DA_18_Azir",
-        "DA_18_Kayle",
-        "DA_18_Yorick"
-      ],
-      "carries": [
-        "DA_Karma18"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "xyl2tqxirk27vaa",
-      "name": "Defender Cassiopeia Reroll",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-      "collectedAt": "2026-10-21T11:58:46.609Z",
-      "sourceUpdatedAt": "2026-10-20T16:28:47.913Z",
-      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
-      "tier": "A",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Leona",
-        "DA_18_Ornn",
-        "DA_18_Shen",
-        "DA_18_Cassiopeia",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Lillia"
-      ],
-      "carries": [
-        "DA_18_Cassiopeia"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "xyl2tqxirk27vaa",
-      "name": "Defender Cassiopeia Reroll",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-      "collectedAt": "2026-10-08T10:41:59.985Z",
-      "sourceUpdatedAt": "2026-10-07T18:28:11.869Z",
-      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Leona",
-        "DA_18_Ornn",
-        "DA_18_Shen",
-        "DA_18_Cassiopeia",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Lillia"
-      ],
-      "carries": [
-        "DA_18_Cassiopeia"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "xyl2tqxirk27vaa",
-      "name": "Defender Cassiopeia Reroll",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-      "collectedAt": "2026-10-07T13:32:54.673Z",
-      "sourceUpdatedAt": "2026-10-05T21:09:01.136Z",
-      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Leona",
-        "DA_18_Ornn",
-        "DA_18_Shen",
-        "DA_18_Cassiopeia",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Lillia"
-      ],
-      "carries": [
-        "DA_18_Cassiopeia"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "xyl2tqxirk27vaa",
-      "name": "Defender Cassiopeia Reroll",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-      "collectedAt": "2026-09-24T17:16:45.247Z",
-      "sourceUpdatedAt": "2026-09-23T16:56:44.322Z",
-      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Leona",
-        "DA_18_Ornn",
-        "DA_18_Shen",
-        "DA_18_Cassiopeia",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Lillia"
-      ],
-      "carries": [
-        "DA_18_Cassiopeia"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "xyl2tqxirk27vaa",
-      "name": "Defender Cassiopeia Reroll",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-      "collectedAt": "2026-09-22T17:01:33.873Z",
-      "sourceUpdatedAt": "2026-09-21T15:43:08.185Z",
-      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
-      "tier": "C",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Leona",
-        "DA_18_Ornn",
-        "DA_18_Shen",
-        "DA_18_Cassiopeia",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Lillia"
-      ],
-      "carries": [
-        "DA_18_Cassiopeia"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "xyl2tqxirk27vaa",
-      "name": "Defender Cassiopeia Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-defender-cassio",
-      "collectedAt": "2026-09-15T17:05:09.103Z",
-      "sourceUpdatedAt": "2026-09-15T14:26:06.731Z",
-      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Leona",
-        "DA_18_Ornn",
-        "DA_18_Shen",
-        "DA_18_Cassiopeia",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Lillia"
-      ],
-      "carries": [
-        "DA_18_Cassiopeia"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
       "sourceRecordId": "cm9rvrylwohamlz",
       "name": "Elderwood Veigar Reroll",
       "set": "18",
@@ -3695,6 +3708,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -3774,6 +3788,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -3807,6 +3822,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -3983,6 +3999,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -4016,6 +4033,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -4276,7 +4294,220 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "sjuoqjtaj14morz",
+      "name": "Master Yi Rengar Reroll",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
+      "collectedAt": "2026-10-21T11:58:46.609Z",
+      "sourceUpdatedAt": "2026-10-20T16:28:48.024Z",
+      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Yorick",
+        "DA_Krug18",
+        "DA_18_MasterYi_AD",
+        "DA_18_Rengar",
+        "DA_Vi18",
+        "DA_18_Sett",
+        "DA_Nidalee18_AP"
+      ],
+      "carries": [
+        "DA_18_MasterYi_AD"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "sjuoqjtaj14morz",
+      "name": "Master Yi Rengar Reroll",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
+      "collectedAt": "2026-10-08T10:41:59.985Z",
+      "sourceUpdatedAt": "2026-10-07T18:28:43.589Z",
+      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Yorick",
+        "DA_Krug18",
+        "DA_18_MasterYi_AD",
+        "DA_18_Rengar",
+        "DA_Vi18",
+        "DA_18_Sett",
+        "DA_Nidalee18_AP"
+      ],
+      "carries": [
+        "DA_18_MasterYi_AD"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "sjuoqjtaj14morz",
+      "name": "Master Yi Rengar Reroll",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
+      "collectedAt": "2026-10-07T13:32:54.673Z",
+      "sourceUpdatedAt": "2026-10-05T21:09:01.131Z",
+      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Yorick",
+        "DA_Krug18",
+        "DA_18_MasterYi_AD",
+        "DA_18_Rengar",
+        "DA_Vi18",
+        "DA_18_Sett",
+        "DA_Nidalee18_AP"
+      ],
+      "carries": [
+        "DA_18_MasterYi_AD"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "sjuoqjtaj14morz",
+      "name": "Master Yi Rengar Reroll",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
+      "collectedAt": "2026-09-24T17:16:45.247Z",
+      "sourceUpdatedAt": "2026-09-23T17:00:02.291Z",
+      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Yorick",
+        "DA_Krug18",
+        "DA_18_MasterYi_AD",
+        "DA_18_Rengar",
+        "DA_Vi18",
+        "DA_18_Sett",
+        "DA_Nidalee18_AP"
+      ],
+      "carries": [
+        "DA_18_MasterYi_AD"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "sjuoqjtaj14morz",
+      "name": "Master Yi Rengar Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
+      "collectedAt": "2026-09-22T17:01:33.873Z",
+      "sourceUpdatedAt": "2026-09-21T15:42:45.499Z",
+      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
+      "tier": "C",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Yorick",
+        "DA_Krug18",
+        "DA_18_MasterYi_AD",
+        "DA_18_Rengar",
+        "DA_Vi18",
+        "DA_18_Sett",
+        "DA_Nidalee18_AP"
+      ],
+      "carries": [
+        "DA_18_MasterYi_AD"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "sjuoqjtaj14morz",
+      "name": "Master Yi Rengar Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
+      "collectedAt": "2026-09-15T17:05:09.103Z",
+      "sourceUpdatedAt": "2026-09-15T14:26:06.084Z",
+      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
+      "tier": "B",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Yorick",
+        "DA_Krug18",
+        "DA_18_MasterYi_AD",
+        "DA_18_Rengar",
+        "DA_Vi18",
+        "DA_18_Sett",
+        "DA_Nidalee18_AP"
+      ],
+      "carries": [
+        "DA_18_MasterYi_AD"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "pe2ljiorlrcs6uj",
+      "name": "Alune AP Fast 9",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ap-95",
+      "collectedAt": "2026-10-21T11:58:46.609Z",
+      "sourceUpdatedAt": "2026-10-20T16:28:48.087Z",
+      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
+      "tier": "B",
+      "archetype": "fast9",
+      "coreUnits": [
+        "DA_18_Morgana",
+        "DA_18_Diana",
+        "DA_Fiddlesticks18",
+        "DA_18_Lillia",
+        "DA_Sentinel18",
+        "DA_Taric18",
+        "DA_18_Alune",
+        "DA_18_Rakan",
+        "DA_18_Ivern"
+      ],
+      "carries": [
+        "DA_18_Alune"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
       ],
       "retained": true,
       "retentionReason": "version"
@@ -4454,38 +4685,6 @@
       ],
       "carries": [
         "DA_18_Akali_AD"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "pe2ljiorlrcs6uj",
-      "name": "Alune AP Fast 9",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ap-95",
-      "collectedAt": "2026-10-21T11:58:46.609Z",
-      "sourceUpdatedAt": "2026-10-20T16:28:48.087Z",
-      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
-      "tier": "B",
-      "archetype": "fast9",
-      "coreUnits": [
-        "DA_18_Morgana",
-        "DA_18_Diana",
-        "DA_Fiddlesticks18",
-        "DA_18_Lillia",
-        "DA_Sentinel18",
-        "DA_Taric18",
-        "DA_18_Alune",
-        "DA_18_Rakan",
-        "DA_18_Ivern"
-      ],
-      "carries": [
-        "DA_18_Alune"
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。"
@@ -4704,186 +4903,6 @@
       ],
       "carries": [
         "DA_18_Malphite"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "sjuoqjtaj14morz",
-      "name": "Master Yi Rengar Reroll",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-      "collectedAt": "2026-10-21T11:58:46.609Z",
-      "sourceUpdatedAt": "2026-10-20T16:28:48.024Z",
-      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Yorick",
-        "DA_Krug18",
-        "DA_18_MasterYi_AD",
-        "DA_18_Rengar",
-        "DA_Vi18",
-        "DA_18_Sett",
-        "DA_Nidalee18_AP"
-      ],
-      "carries": [
-        "DA_18_MasterYi_AD"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "sjuoqjtaj14morz",
-      "name": "Master Yi Rengar Reroll",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-      "collectedAt": "2026-10-08T10:41:59.985Z",
-      "sourceUpdatedAt": "2026-10-07T18:28:43.589Z",
-      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Yorick",
-        "DA_Krug18",
-        "DA_18_MasterYi_AD",
-        "DA_18_Rengar",
-        "DA_Vi18",
-        "DA_18_Sett",
-        "DA_Nidalee18_AP"
-      ],
-      "carries": [
-        "DA_18_MasterYi_AD"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "sjuoqjtaj14morz",
-      "name": "Master Yi Rengar Reroll",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-      "collectedAt": "2026-10-07T13:32:54.673Z",
-      "sourceUpdatedAt": "2026-10-05T21:09:01.131Z",
-      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Yorick",
-        "DA_Krug18",
-        "DA_18_MasterYi_AD",
-        "DA_18_Rengar",
-        "DA_Vi18",
-        "DA_18_Sett",
-        "DA_Nidalee18_AP"
-      ],
-      "carries": [
-        "DA_18_MasterYi_AD"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "sjuoqjtaj14morz",
-      "name": "Master Yi Rengar Reroll",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-      "collectedAt": "2026-09-24T17:16:45.247Z",
-      "sourceUpdatedAt": "2026-09-23T17:00:02.291Z",
-      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Yorick",
-        "DA_Krug18",
-        "DA_18_MasterYi_AD",
-        "DA_18_Rengar",
-        "DA_Vi18",
-        "DA_18_Sett",
-        "DA_Nidalee18_AP"
-      ],
-      "carries": [
-        "DA_18_MasterYi_AD"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "sjuoqjtaj14morz",
-      "name": "Master Yi Rengar Reroll",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-      "collectedAt": "2026-09-22T17:01:33.873Z",
-      "sourceUpdatedAt": "2026-09-21T15:42:45.499Z",
-      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
-      "tier": "C",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Yorick",
-        "DA_Krug18",
-        "DA_18_MasterYi_AD",
-        "DA_18_Rengar",
-        "DA_Vi18",
-        "DA_18_Sett",
-        "DA_Nidalee18_AP"
-      ],
-      "carries": [
-        "DA_18_MasterYi_AD"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "sjuoqjtaj14morz",
-      "name": "Master Yi Rengar Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-adaptor-reroll-copy",
-      "collectedAt": "2026-09-15T17:05:09.103Z",
-      "sourceUpdatedAt": "2026-09-15T14:26:06.084Z",
-      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
-      "tier": "B",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Yorick",
-        "DA_Krug18",
-        "DA_18_MasterYi_AD",
-        "DA_18_Rengar",
-        "DA_Vi18",
-        "DA_18_Sett",
-        "DA_Nidalee18_AP"
-      ],
-      "carries": [
-        "DA_18_MasterYi_AD"
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。"
@@ -5865,6 +5884,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -5898,6 +5918,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -6026,6 +6047,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -6059,6 +6081,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -6284,6 +6307,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -6317,6 +6341,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
@@ -6947,6 +6972,192 @@
     },
     {
       "source": "tftacademy",
+      "sourceRecordId": "h67mfu31g8x3mw1",
+      "name": "Flora Fatalis Sprykin Veigar Reroll",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
+      "collectedAt": "2026-10-21T11:58:46.609Z",
+      "sourceUpdatedAt": "2026-10-20T16:28:48.076Z",
+      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
+      "tier": "X",
+      "archetype": "reroll1",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_RekSai",
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Sett",
+        "DA_18_GnarSmall"
+      ],
+      "carries": [
+        "DA_18_Veigar"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "h67mfu31g8x3mw1",
+      "name": "Flora Fatalis Sprykin Veigar Reroll",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
+      "collectedAt": "2026-10-08T10:41:59.985Z",
+      "sourceUpdatedAt": "2026-10-07T18:28:51.497Z",
+      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
+      "tier": "X",
+      "archetype": "reroll1",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_RekSai",
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Sett",
+        "DA_18_GnarSmall"
+      ],
+      "carries": [
+        "DA_18_Veigar"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "h67mfu31g8x3mw1",
+      "name": "Flora Fatalis Sprykin Veigar Reroll",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
+      "collectedAt": "2026-10-07T13:32:54.673Z",
+      "sourceUpdatedAt": "2026-10-05T21:09:00.823Z",
+      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
+      "tier": "X",
+      "archetype": "reroll1",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_RekSai",
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Sett",
+        "DA_18_GnarSmall"
+      ],
+      "carries": [
+        "DA_18_Veigar"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "h67mfu31g8x3mw1",
+      "name": "Flora Fatalis Sprykin Veigar Reroll",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
+      "collectedAt": "2026-09-24T17:16:45.247Z",
+      "sourceUpdatedAt": "2026-09-23T17:00:02.576Z",
+      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
+      "tier": "X",
+      "archetype": "reroll1",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_RekSai",
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Sett",
+        "DA_18_GnarSmall"
+      ],
+      "carries": [
+        "DA_18_Veigar"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "h67mfu31g8x3mw1",
+      "name": "Flora Fatalis Sprykin Veigar Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
+      "collectedAt": "2026-09-22T17:01:33.873Z",
+      "sourceUpdatedAt": "2026-09-21T15:43:14.535Z",
+      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
+      "tier": "X",
+      "archetype": "reroll1",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_RekSai",
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Sett",
+        "DA_18_GnarSmall"
+      ],
+      "carries": [
+        "DA_18_Veigar"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "h67mfu31g8x3mw1",
+      "name": "Flora Fatalis Sprykin Veigar Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
+      "collectedAt": "2026-09-15T17:05:09.103Z",
+      "sourceUpdatedAt": "2026-09-15T14:26:06.671Z",
+      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
+      "tier": "X",
+      "archetype": "reroll1",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_RekSai",
+        "DA_18_Veigar",
+        "DA_18_Teemo",
+        "DA_Fiddlesticks18",
+        "DA_18_Rammus",
+        "DA_18_Sett",
+        "DA_18_GnarSmall"
+      ],
+      "carries": [
+        "DA_18_Veigar"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
       "sourceRecordId": "lskq0yo5kvzfrfj",
       "name": "Inferno Lux Ashe",
       "set": "18",
@@ -7134,6 +7345,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -7214,6 +7426,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -7248,6 +7461,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -7425,6 +7639,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -7459,6 +7674,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -7720,6 +7936,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -7749,6 +7966,186 @@
       ],
       "carries": [
         "DA_18_Aphelios"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "hl39j8m4hzxr7ly",
+      "name": "Fae Tristana Reroll",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
+      "collectedAt": "2026-10-21T11:58:46.609Z",
+      "sourceUpdatedAt": "2026-10-20T16:28:48.022Z",
+      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
+      "tier": "X",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_Rakan",
+        "DA_Vi18",
+        "DA_18_Rammus",
+        "DA_18_Tristana",
+        "DA_18_Lillia",
+        "DA_18_Sivir"
+      ],
+      "carries": [
+        "DA_18_Tristana"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "hl39j8m4hzxr7ly",
+      "name": "Fae Tristana Reroll",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
+      "collectedAt": "2026-10-08T10:41:59.985Z",
+      "sourceUpdatedAt": "2026-10-07T18:28:14.964Z",
+      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
+      "tier": "X",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_Rakan",
+        "DA_Vi18",
+        "DA_18_Rammus",
+        "DA_18_Tristana",
+        "DA_18_Lillia",
+        "DA_18_Sivir"
+      ],
+      "carries": [
+        "DA_18_Tristana"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "hl39j8m4hzxr7ly",
+      "name": "Fae Tristana Reroll",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
+      "collectedAt": "2026-10-07T13:32:54.673Z",
+      "sourceUpdatedAt": "2026-10-05T21:09:01.198Z",
+      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
+      "tier": "X",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_Rakan",
+        "DA_Vi18",
+        "DA_18_Rammus",
+        "DA_18_Tristana",
+        "DA_18_Lillia",
+        "DA_18_Sivir"
+      ],
+      "carries": [
+        "DA_18_Tristana"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "hl39j8m4hzxr7ly",
+      "name": "Fae Tristana Reroll",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
+      "collectedAt": "2026-09-24T17:16:45.247Z",
+      "sourceUpdatedAt": "2026-09-23T17:00:02.416Z",
+      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
+      "tier": "X",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_Rakan",
+        "DA_18_Rammus",
+        "DA_18_Tristana",
+        "DA_18_Lillia",
+        "DA_18_Sivir",
+        "DA_Vi18"
+      ],
+      "carries": [
+        "DA_18_Tristana"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "hl39j8m4hzxr7ly",
+      "name": "Fae Tristana Reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
+      "collectedAt": "2026-09-22T17:01:33.873Z",
+      "sourceUpdatedAt": "2026-09-21T15:42:57.429Z",
+      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
+      "tier": "X",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_Rakan",
+        "DA_18_Rammus",
+        "DA_18_Tristana",
+        "DA_18_Lillia",
+        "DA_18_Sivir",
+        "DA_Vi18"
+      ],
+      "carries": [
+        "DA_18_Tristana"
+      ],
+      "notes": [
+        "专家评级；条件与完整指南请查看原文。"
+      ],
+      "retained": true,
+      "retentionReason": "version"
+    },
+    {
+      "source": "tftacademy",
+      "sourceRecordId": "hl39j8m4hzxr7ly",
+      "name": "Fae Tristana Reroll",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
+      "collectedAt": "2026-09-15T17:05:09.103Z",
+      "sourceUpdatedAt": "2026-09-15T14:26:06.836Z",
+      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
+      "tier": "X",
+      "archetype": "reroll3",
+      "coreUnits": [
+        "DA_18_Kobuko",
+        "DA_18_Rakan",
+        "DA_18_Rammus",
+        "DA_18_Tristana",
+        "DA_18_Lillia",
+        "DA_18_Sivir",
+        "DA_Vi18"
+      ],
+      "carries": [
+        "DA_18_Tristana"
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。"
@@ -7969,6 +8366,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -8003,6 +8401,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -8264,193 +8663,8 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "h67mfu31g8x3mw1",
-      "name": "Flora Fatalis Sprykin Veigar Reroll",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-      "collectedAt": "2026-10-21T11:58:46.609Z",
-      "sourceUpdatedAt": "2026-10-20T16:28:48.076Z",
-      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
-      "tier": "X",
-      "archetype": "reroll1",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_RekSai",
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Sett",
-        "DA_18_GnarSmall"
-      ],
-      "carries": [
-        "DA_18_Veigar"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "h67mfu31g8x3mw1",
-      "name": "Flora Fatalis Sprykin Veigar Reroll",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-      "collectedAt": "2026-10-08T10:41:59.985Z",
-      "sourceUpdatedAt": "2026-10-07T18:28:51.497Z",
-      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
-      "tier": "X",
-      "archetype": "reroll1",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_RekSai",
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Sett",
-        "DA_18_GnarSmall"
-      ],
-      "carries": [
-        "DA_18_Veigar"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "h67mfu31g8x3mw1",
-      "name": "Flora Fatalis Sprykin Veigar Reroll",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-      "collectedAt": "2026-10-07T13:32:54.673Z",
-      "sourceUpdatedAt": "2026-10-05T21:09:00.823Z",
-      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
-      "tier": "X",
-      "archetype": "reroll1",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_RekSai",
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Sett",
-        "DA_18_GnarSmall"
-      ],
-      "carries": [
-        "DA_18_Veigar"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "h67mfu31g8x3mw1",
-      "name": "Flora Fatalis Sprykin Veigar Reroll",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-      "collectedAt": "2026-09-24T17:16:45.247Z",
-      "sourceUpdatedAt": "2026-09-23T17:00:02.576Z",
-      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
-      "tier": "X",
-      "archetype": "reroll1",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_RekSai",
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Sett",
-        "DA_18_GnarSmall"
-      ],
-      "carries": [
-        "DA_18_Veigar"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "h67mfu31g8x3mw1",
-      "name": "Flora Fatalis Sprykin Veigar Reroll",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-      "collectedAt": "2026-09-22T17:01:33.873Z",
-      "sourceUpdatedAt": "2026-09-21T15:43:14.535Z",
-      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
-      "tier": "X",
-      "archetype": "reroll1",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_RekSai",
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Sett",
-        "DA_18_GnarSmall"
-      ],
-      "carries": [
-        "DA_18_Veigar"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "h67mfu31g8x3mw1",
-      "name": "Flora Fatalis Sprykin Veigar Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
-      "collectedAt": "2026-09-15T17:05:09.103Z",
-      "sourceUpdatedAt": "2026-09-15T14:26:06.671Z",
-      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
-      "tier": "X",
-      "archetype": "reroll1",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_RekSai",
-        "DA_18_Veigar",
-        "DA_18_Teemo",
-        "DA_Fiddlesticks18",
-        "DA_18_Rammus",
-        "DA_18_Sett",
-        "DA_18_GnarSmall"
-      ],
-      "carries": [
-        "DA_18_Veigar"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
       ],
       "retained": true,
       "retentionReason": "version"
@@ -8637,186 +8851,6 @@
     },
     {
       "source": "tftacademy",
-      "sourceRecordId": "hl39j8m4hzxr7ly",
-      "name": "Fae Tristana Reroll",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-      "collectedAt": "2026-10-21T11:58:46.609Z",
-      "sourceUpdatedAt": "2026-10-20T16:28:48.022Z",
-      "sha256": "a9fc459199d5e38820a1878ca6ec3c9d34ea992a33daffe7c8bd5a673b41149b",
-      "tier": "X",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_Rakan",
-        "DA_Vi18",
-        "DA_18_Rammus",
-        "DA_18_Tristana",
-        "DA_18_Lillia",
-        "DA_18_Sivir"
-      ],
-      "carries": [
-        "DA_18_Tristana"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "hl39j8m4hzxr7ly",
-      "name": "Fae Tristana Reroll",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-      "collectedAt": "2026-10-08T10:41:59.985Z",
-      "sourceUpdatedAt": "2026-10-07T18:28:14.964Z",
-      "sha256": "8676ee0491d1ccbd53275ffccec3923a4356a075a562a9acf3f6cc69871649fa",
-      "tier": "X",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_Rakan",
-        "DA_Vi18",
-        "DA_18_Rammus",
-        "DA_18_Tristana",
-        "DA_18_Lillia",
-        "DA_18_Sivir"
-      ],
-      "carries": [
-        "DA_18_Tristana"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "hl39j8m4hzxr7ly",
-      "name": "Fae Tristana Reroll",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-      "collectedAt": "2026-10-07T13:32:54.673Z",
-      "sourceUpdatedAt": "2026-10-05T21:09:01.198Z",
-      "sha256": "851d2cd9d13b549447a907ceae11eb8beb3072b4101632c8fe31a865d375c072",
-      "tier": "X",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_Rakan",
-        "DA_Vi18",
-        "DA_18_Rammus",
-        "DA_18_Tristana",
-        "DA_18_Lillia",
-        "DA_18_Sivir"
-      ],
-      "carries": [
-        "DA_18_Tristana"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "hl39j8m4hzxr7ly",
-      "name": "Fae Tristana Reroll",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-      "collectedAt": "2026-09-24T17:16:45.247Z",
-      "sourceUpdatedAt": "2026-09-23T17:00:02.416Z",
-      "sha256": "48aee55adbec9320df0a01427f5ce732702c8e9fc41e1f917dbb15ad00731965",
-      "tier": "X",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_Rakan",
-        "DA_18_Rammus",
-        "DA_18_Tristana",
-        "DA_18_Lillia",
-        "DA_18_Sivir",
-        "DA_Vi18"
-      ],
-      "carries": [
-        "DA_18_Tristana"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "hl39j8m4hzxr7ly",
-      "name": "Fae Tristana Reroll",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-      "collectedAt": "2026-09-22T17:01:33.873Z",
-      "sourceUpdatedAt": "2026-09-21T15:42:57.429Z",
-      "sha256": "8287ad7aff892dc2ccc808c243ea05782c5ffea6c67e7af388b0ff5e08a34004",
-      "tier": "X",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_Rakan",
-        "DA_18_Rammus",
-        "DA_18_Tristana",
-        "DA_18_Lillia",
-        "DA_18_Sivir",
-        "DA_Vi18"
-      ],
-      "carries": [
-        "DA_18_Tristana"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
-      "sourceRecordId": "hl39j8m4hzxr7ly",
-      "name": "Fae Tristana Reroll",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
-      "collectedAt": "2026-09-15T17:05:09.103Z",
-      "sourceUpdatedAt": "2026-09-15T14:26:06.836Z",
-      "sha256": "1f3bd1e752f03475c0d2cf3326d4c7e8ce9e678151e864879ce0e665a8d00bb3",
-      "tier": "X",
-      "archetype": "reroll3",
-      "coreUnits": [
-        "DA_18_Kobuko",
-        "DA_18_Rakan",
-        "DA_18_Rammus",
-        "DA_18_Tristana",
-        "DA_18_Lillia",
-        "DA_18_Sivir",
-        "DA_Vi18"
-      ],
-      "carries": [
-        "DA_18_Tristana"
-      ],
-      "notes": [
-        "专家评级；条件与完整指南请查看原文。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftacademy",
       "sourceRecordId": "aqgxioqdlyuamd3",
       "name": "Unrivaled Kha'Zix Reroll",
       "set": "18",
@@ -8843,6 +8877,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -8922,6 +8957,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -8955,6 +8991,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -9131,6 +9168,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -9164,6 +9202,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -9424,6 +9463,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -9457,6 +9497,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -9490,6 +9531,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -9618,6 +9660,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -9651,6 +9694,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -9876,6 +9920,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -9909,6 +9954,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -10652,6 +10698,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
       ],
       "retained": true,
@@ -10689,6 +10736,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
@@ -10821,6 +10869,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
       ],
       "retained": true,
@@ -10858,6 +10907,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
@@ -11087,6 +11137,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
       ],
       "retained": true,
@@ -11124,6 +11175,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
@@ -11751,6 +11803,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
       ],
       "retained": true,
@@ -11971,6 +12024,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -12005,6 +12059,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -12134,6 +12189,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -12168,6 +12224,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -12394,6 +12451,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -12428,6 +12486,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -13725,6 +13784,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -13809,6 +13869,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -13844,6 +13905,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -14071,6 +14133,7 @@
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
       ],
       "retained": true,
@@ -14106,6 +14169,7 @@
       ],
       "notes": [
         "专家评级；条件与完整指南请查看原文。",
+        "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
         "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -15039,10 +15103,10 @@
     "id": "tftacademy",
     "name": "TFT Academy",
     "sourceUrl": "https://tftacademy.com/tierlist/comps",
-    "checkedAt": "2026-10-21T17:18:27.817Z",
+    "checkedAt": "2026-10-21T21:47:32.787Z",
     "method": "公开 HTML 内 Svelte 字面量（AST，无代码执行）",
     "detectedPatch": "18.5",
-    "collectedAt": "2026-10-21T17:18:27.817Z",
+    "collectedAt": "2026-10-21T21:47:32.787Z",
     "status": "fresh",
     "fields": [
       "名称",
