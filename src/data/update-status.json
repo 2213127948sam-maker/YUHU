@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-23T17:14:17.144Z",
+  "checkedAt": "2026-10-23T21:28:46.984Z",
   "success": true,
   "observedPatch": {
     "set": "18",
     "releasedAt": "2026-10-20T18:00:00.000Z",
     "patch": "18.5",
     "patchNotesUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-5/",
-    "checkedAt": "2026-10-23T17:14:21.388Z",
+    "checkedAt": "2026-10-23T21:28:48.141Z",
     "resourceVersion": "16.21.1",
     "resourcePublishedAt": "2026-10-21T06:59:34.000Z",
     "resourceMetadataUrl": "https://raw.communitydragon.org/latest/content-metadata.json",
