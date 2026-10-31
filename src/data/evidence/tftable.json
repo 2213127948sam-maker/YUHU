@@ -2,126 +2,6 @@
   "records": [
     {
       "source": "tftable",
-      "sourceRecordId": "vanguard_alune",
-      "name": "vanguard alune",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 3.79,
-      "playRate": 0.04834576833220288,
-      "trendDelta": 0.015,
-      "notes": [
-        "原站阵容标识：vanguard_alune",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood_95",
-      "name": "elderwood 95",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 3.97,
-      "playRate": 0.03548684904665009,
-      "trendDelta": 0.037,
-      "notes": [
-        "原站阵容标识：elderwood_95",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "dragon_95",
-      "name": "dragon 95",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.14,
-      "playRate": 0.1010437862687467,
-      "trendDelta": -0.003,
-      "notes": [
-        "原站阵容标识：dragon_95",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tempo_riftbeast",
-      "name": "tempo riftbeast",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.19,
-      "playRate": 0.05672997211545708,
-      "trendDelta": -0.025,
-      "notes": [
-        "原站阵容标识：tempo_riftbeast",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "riftbeast_reroll",
-      "name": "riftbeast reroll",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.23,
-      "playRate": 0.015119828170924712,
-      "trendDelta": -0.006,
-      "notes": [
-        "原站阵容标识：riftbeast_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "defender_cassiopeia",
-      "name": "defender cassiopeia",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.27,
-      "playRate": 0.01292486246137614,
-      "trendDelta": 0.028,
-      "notes": [
-        "原站阵容标识：defender_cassiopeia",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
       "sourceRecordId": "elderwood_aphelios",
       "name": "elderwood aphelios",
       "set": "18",
@@ -138,527 +18,8 @@
         "统计分段、地区和样本数未随此公开快照提供。",
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "vanguard_morgana",
-      "name": "vanguard morgana",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.31,
-      "playRate": 0.04325872334011606,
-      "trendDelta": 0.011,
-      "notes": [
-        "原站阵容标识：vanguard_morgana",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "teemo_reroll",
-      "name": "teemo reroll",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.31,
-      "playRate": 0.017314793880473283,
-      "trendDelta": -0.011,
-      "notes": [
-        "原站阵容标识：teemo_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.31,
-      "playRate": 0.03537380360238149,
-      "trendDelta": -0.004,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.32,
-      "playRate": 0.05546763132112442,
-      "trendDelta": -0.022,
-      "notes": [
-        "原站阵容标识：yunara",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "adaptor_reroll",
-      "name": "adaptor reroll",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.33,
-      "playRate": 0.038115155625894945,
-      "trendDelta": 0.013,
-      "notes": [
-        "原站阵容标识：adaptor_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "veigar_reroll",
-      "name": "veigar reroll",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.36,
-      "playRate": 0.04640515487225865,
-      "trendDelta": 0.004,
-      "notes": [
-        "原站阵容标识：veigar_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "vanguard_aphelios",
-      "name": "vanguard aphelios",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.39,
-      "playRate": 0.0084218855980104,
-      "trendDelta": -0.024,
-      "notes": [
-        "原站阵容标识：vanguard_aphelios",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "blossom_ahri",
-      "name": "blossom ahri",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.39,
-      "playRate": 0.010494385409601327,
-      "trendDelta": 0.057,
-      "notes": [
-        "原站阵容标识：blossom_ahri",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood_mamabeak",
-      "name": "elderwood mamabeak",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.4,
-      "playRate": 0.009919737734569297,
-      "trendDelta": -0.003,
-      "notes": [
-        "原站阵容标识：elderwood_mamabeak",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "azir_reroll",
-      "name": "azir reroll",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.42,
-      "playRate": 0.02644321350516241,
-      "trendDelta": 0.014,
-      "notes": [
-        "原站阵容标识：azir_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "bfl_zyra",
-      "name": "bfl zyra",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.42,
-      "playRate": 0.020093827718742935,
-      "trendDelta": -0.158,
-      "notes": [
-        "原站阵容标识：bfl_zyra",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood_blossom",
-      "name": "elderwood blossom",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.43,
-      "playRate": 0.01404589645037305,
-      "trendDelta": -0.005,
-      "notes": [
-        "原站阵容标识：elderwood_blossom",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "juggernaut_flex",
-      "name": "juggernaut flex",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.44,
-      "playRate": 0.03574120129625443,
-      "trendDelta": -0.003,
-      "notes": [
-        "原站阵容标识：juggernaut_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "inferno_kayle",
-      "name": "inferno kayle",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.49,
-      "playRate": 0.008666817393925691,
-      "trendDelta": 0.085,
-      "notes": [
-        "原站阵容标识：inferno_kayle",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "solar_akali",
-      "name": "solar akali",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.49,
-      "playRate": 0.019500339136332805,
-      "trendDelta": -0.007,
-      "notes": [
-        "原站阵容标识：solar_akali",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "inferno_hunter",
-      "name": "inferno hunter",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.5,
-      "playRate": 0.025048986359183057,
-      "trendDelta": -0.013,
-      "notes": [
-        "原站阵容标识：inferno_hunter",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "warwick_murkwolf",
-      "name": "warwick murkwolf",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.52,
-      "playRate": 0.00846898786645565,
-      "trendDelta": -0.065,
-      "notes": [
-        "原站阵容标识：warwick_murkwolf",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.53,
-      "playRate": 0.03285854246740523,
-      "trendDelta": 0.019,
-      "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "caitlyn",
-      "name": "caitlyn",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.58,
-      "playRate": 0.007272590247946341,
-      "trendDelta": -0.073,
-      "notes": [
-        "原站阵容标识：caitlyn",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "hunter_sivir",
-      "name": "hunter sivir",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.59,
-      "playRate": 0.005963147185168438,
-      "trendDelta": -0.062,
-      "notes": [
-        "原站阵容标识：hunter_sivir",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "zyra_fatalis",
-      "name": "zyra fatalis",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.66,
-      "playRate": 0.021667043484814227,
-      "trendDelta": -0.037,
-      "notes": [
-        "原站阵容标识：zyra_fatalis",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.68,
-      "playRate": 0.02837440651141759,
-      "trendDelta": 0.032,
-      "notes": [
-        "原站阵容标识：tristana_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "solar_kayle",
-      "name": "solar kayle",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.74,
-      "playRate": 0.018435827869470192,
-      "trendDelta": -0.033,
-      "notes": [
-        "原站阵容标识：solar_kayle",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "khazix_reroll",
-      "name": "khazix reroll",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 4.8,
-      "playRate": 0.0098066922903007,
-      "trendDelta": 0.034,
-      "notes": [
-        "原站阵容标识：khazix_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "dark_ritual",
-      "name": "dark ritual",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 5.03,
-      "playRate": 0.01235021478634411,
-      "trendDelta": 0.072,
-      "notes": [
-        "原站阵容标识：dark_ritual",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "unrivaled",
-      "name": "unrivaled",
-      "set": "18",
-      "patch": "18.5c",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-31T05:53:09.139Z",
-      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
-      "avgPlacement": 5.46,
-      "playRate": 0.004465295048609541,
-      "trendDelta": -0.046,
-      "notes": [
-        "原站阵容标识：unrivaled",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": false
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -679,7 +40,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -700,7 +61,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -721,7 +82,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -742,7 +103,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -763,7 +124,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -784,7 +145,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -805,7 +166,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -826,7 +187,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -847,7 +208,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -868,7 +229,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -889,7 +250,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -910,7 +271,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -931,7 +292,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -952,7 +313,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "azir_reroll",
+      "name": "azir reroll",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.42,
+      "playRate": 0.02644321350516241,
+      "trendDelta": 0.014,
+      "notes": [
+        "原站阵容标识：azir_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -973,7 +355,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -994,7 +376,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1015,7 +397,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1036,7 +418,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "vanguard_aphelios",
+      "name": "vanguard aphelios",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.39,
+      "playRate": 0.0084218855980104,
+      "trendDelta": -0.024,
+      "notes": [
+        "原站阵容标识：vanguard_aphelios",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1057,7 +460,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1078,7 +481,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1099,7 +502,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1120,7 +523,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1141,7 +544,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1162,7 +565,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1183,7 +586,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood_blossom",
+      "name": "elderwood blossom",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.43,
+      "playRate": 0.01404589645037305,
+      "trendDelta": -0.005,
+      "notes": [
+        "原站阵容标识：elderwood_blossom",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1204,7 +628,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1225,7 +649,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1246,7 +670,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1267,7 +691,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1288,7 +712,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1309,7 +733,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "juggernaut_flex",
+      "name": "juggernaut flex",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.44,
+      "playRate": 0.03574120129625443,
+      "trendDelta": -0.003,
+      "notes": [
+        "原站阵容标识：juggernaut_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1330,7 +775,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1351,7 +796,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1372,7 +817,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1393,7 +838,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1414,7 +859,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1435,7 +880,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1456,7 +901,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "vanguard_alune",
+      "name": "vanguard alune",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 3.79,
+      "playRate": 0.04834576833220288,
+      "trendDelta": 0.015,
+      "notes": [
+        "原站阵容标识：vanguard_alune",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1477,7 +943,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1498,7 +964,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood_95",
+      "name": "elderwood 95",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 3.97,
+      "playRate": 0.03548684904665009,
+      "trendDelta": 0.037,
+      "notes": [
+        "原站阵容标识：elderwood_95",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1519,7 +1006,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1540,7 +1027,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1561,7 +1048,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1582,7 +1069,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1603,7 +1090,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1624,7 +1111,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1645,7 +1132,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "dragon_95",
+      "name": "dragon 95",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.14,
+      "playRate": 0.1010437862687467,
+      "trendDelta": -0.003,
+      "notes": [
+        "原站阵容标识：dragon_95",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1666,7 +1174,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1687,7 +1195,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1708,7 +1216,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1729,7 +1237,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1750,7 +1258,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1771,7 +1279,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1792,7 +1300,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tempo_riftbeast",
+      "name": "tempo riftbeast",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.19,
+      "playRate": 0.05672997211545708,
+      "trendDelta": -0.025,
+      "notes": [
+        "原站阵容标识：tempo_riftbeast",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1813,7 +1342,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1834,7 +1363,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1855,7 +1384,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "riftbeast_reroll",
+      "name": "riftbeast reroll",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.23,
+      "playRate": 0.015119828170924712,
+      "trendDelta": -0.006,
+      "notes": [
+        "原站阵容标识：riftbeast_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1876,7 +1426,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1897,7 +1447,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1918,7 +1468,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1939,7 +1489,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1960,7 +1510,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -1981,7 +1531,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2002,7 +1552,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "defender_cassiopeia",
+      "name": "defender cassiopeia",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.27,
+      "playRate": 0.01292486246137614,
+      "trendDelta": 0.028,
+      "notes": [
+        "原站阵容标识：defender_cassiopeia",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2023,7 +1594,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2044,7 +1615,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2065,7 +1636,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2086,7 +1657,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2107,7 +1678,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2128,7 +1699,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2149,7 +1720,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "vanguard_morgana",
+      "name": "vanguard morgana",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.31,
+      "playRate": 0.04325872334011606,
+      "trendDelta": 0.011,
+      "notes": [
+        "原站阵容标识：vanguard_morgana",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2170,7 +1762,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2191,7 +1783,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2212,7 +1804,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2233,7 +1825,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2254,7 +1846,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2275,7 +1867,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2296,301 +1888,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
+      "sourceRecordId": "teemo_reroll",
+      "name": "teemo reroll",
       "set": "18",
-      "patch": "18.5",
+      "patch": "18.5c",
       "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-27T22:20:51.271Z",
-      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
-      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
-      "avgPlacement": 4.39,
-      "playRate": 0.02733140147523709,
-      "trendDelta": 0.029,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "missing"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-20T14:20:57.535Z",
-      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
-      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
-      "avgPlacement": 4.49,
-      "playRate": 0.02495577861603052,
-      "trendDelta": 0.032,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-09T01:15:17.847Z",
-      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
-      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
-      "avgPlacement": 4.38,
-      "playRate": 0.023895253682487724,
-      "trendDelta": -0.165,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-07T13:32:54.965Z",
-      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
-      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
-      "avgPlacement": 4.53,
-      "playRate": 0.015171269408557545,
-      "trendDelta": -0.108,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-25T05:03:50.318Z",
-      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
-      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
-      "avgPlacement": 4.07,
-      "playRate": 0.010602978752017213,
-      "trendDelta": -0.005,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-21T05:04:14.732Z",
-      "sourceUpdatedAt": "2026-09-20T22:28:25.093492+00:00",
-      "sha256": "c006553639f8a6549f696ddad492b309341139e687e7e32af3738a75ac0b867a",
-      "avgPlacement": 4.3,
-      "playRate": 0.01614402258097828,
-      "trendDelta": 0.038,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "elderwood",
-      "name": "elderwood",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-15T21:26:29.493Z",
-      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-      "avgPlacement": 4.28,
-      "playRate": 0.014778469855447174,
-      "trendDelta": -0.031,
-      "notes": [
-        "原站阵容标识：elderwood",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.5",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-27T22:20:51.271Z",
-      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
-      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
       "avgPlacement": 4.31,
-      "playRate": 0.06026080084299262,
-      "trendDelta": -0.01,
-      "notes": [
-        "原站阵容标识：yunara",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "missing"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-20T14:20:57.535Z",
-      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
-      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
-      "avgPlacement": 4.42,
-      "playRate": 0.041184493745071715,
+      "playRate": 0.017314793880473283,
       "trendDelta": -0.011,
       "notes": [
-        "原站阵容标识：yunara",
+        "原站阵容标识：teemo_reroll",
         "统计分段、地区和样本数未随此公开快照提供。",
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-09T01:15:17.847Z",
-      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
-      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
-      "avgPlacement": 4.89,
-      "playRate": 0.009656301145662847,
-      "trendDelta": -0.104,
-      "notes": [
-        "原站阵容标识：yunara",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-07T13:32:54.965Z",
-      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
-      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
-      "avgPlacement": 4.9,
-      "playRate": 0.013348939196396823,
-      "trendDelta": -0.032,
-      "notes": [
-        "原站阵容标识：yunara",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-25T05:03:50.318Z",
-      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
-      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
-      "avgPlacement": 4.96,
-      "playRate": 0.012922774341043572,
-      "trendDelta": 0.016,
-      "notes": [
-        "原站阵容标识：yunara",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-22T17:01:34.034Z",
-      "sourceUpdatedAt": "2026-09-21T16:54:57.242814+00:00",
-      "sha256": "01a06d967918bd891cdbe9e8aac0d2610dec50a93a9d4ac849d2a8da0e065214",
-      "avgPlacement": 4.87,
-      "playRate": 0.01502542237625117,
-      "trendDelta": -0.069,
-      "notes": [
-        "原站阵容标识：yunara",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "yunara",
-      "name": "yunara",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-15T21:26:29.493Z",
-      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-      "avgPlacement": 4.85,
-      "playRate": 0.019461011869784935,
-      "trendDelta": -0.004,
-      "notes": [
-        "原站阵容标识：yunara",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2611,7 +1930,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2632,7 +1951,364 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.31,
+      "playRate": 0.03537380360238149,
+      "trendDelta": -0.004,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.5",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-27T22:20:51.271Z",
+      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
+      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
+      "avgPlacement": 4.39,
+      "playRate": 0.02733140147523709,
+      "trendDelta": 0.029,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-20T14:20:57.535Z",
+      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
+      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
+      "avgPlacement": 4.49,
+      "playRate": 0.02495577861603052,
+      "trendDelta": 0.032,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-09T01:15:17.847Z",
+      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
+      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
+      "avgPlacement": 4.38,
+      "playRate": 0.023895253682487724,
+      "trendDelta": -0.165,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-07T13:32:54.965Z",
+      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
+      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
+      "avgPlacement": 4.53,
+      "playRate": 0.015171269408557545,
+      "trendDelta": -0.108,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-25T05:03:50.318Z",
+      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
+      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
+      "avgPlacement": 4.07,
+      "playRate": 0.010602978752017213,
+      "trendDelta": -0.005,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-21T05:04:14.732Z",
+      "sourceUpdatedAt": "2026-09-20T22:28:25.093492+00:00",
+      "sha256": "c006553639f8a6549f696ddad492b309341139e687e7e32af3738a75ac0b867a",
+      "avgPlacement": 4.3,
+      "playRate": 0.01614402258097828,
+      "trendDelta": 0.038,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood",
+      "name": "elderwood",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-15T21:26:29.493Z",
+      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+      "avgPlacement": 4.28,
+      "playRate": 0.014778469855447174,
+      "trendDelta": -0.031,
+      "notes": [
+        "原站阵容标识：elderwood",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.32,
+      "playRate": 0.05546763132112442,
+      "trendDelta": -0.022,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.5",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-27T22:20:51.271Z",
+      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
+      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
+      "avgPlacement": 4.31,
+      "playRate": 0.06026080084299262,
+      "trendDelta": -0.01,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-20T14:20:57.535Z",
+      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
+      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
+      "avgPlacement": 4.42,
+      "playRate": 0.041184493745071715,
+      "trendDelta": -0.011,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-09T01:15:17.847Z",
+      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
+      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
+      "avgPlacement": 4.89,
+      "playRate": 0.009656301145662847,
+      "trendDelta": -0.104,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-07T13:32:54.965Z",
+      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
+      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
+      "avgPlacement": 4.9,
+      "playRate": 0.013348939196396823,
+      "trendDelta": -0.032,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-25T05:03:50.318Z",
+      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
+      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
+      "avgPlacement": 4.96,
+      "playRate": 0.012922774341043572,
+      "trendDelta": 0.016,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-22T17:01:34.034Z",
+      "sourceUpdatedAt": "2026-09-21T16:54:57.242814+00:00",
+      "sha256": "01a06d967918bd891cdbe9e8aac0d2610dec50a93a9d4ac849d2a8da0e065214",
+      "avgPlacement": 4.87,
+      "playRate": 0.01502542237625117,
+      "trendDelta": -0.069,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "yunara",
+      "name": "yunara",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-15T21:26:29.493Z",
+      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+      "avgPlacement": 4.85,
+      "playRate": 0.019461011869784935,
+      "trendDelta": -0.004,
+      "notes": [
+        "原站阵容标识：yunara",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "adaptor_reroll",
+      "name": "adaptor reroll",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.33,
+      "playRate": 0.038115155625894945,
+      "trendDelta": 0.013,
+      "notes": [
+        "原站阵容标识：adaptor_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2653,7 +2329,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2674,7 +2350,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2695,7 +2371,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2716,7 +2392,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2737,7 +2413,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2758,7 +2434,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2779,7 +2455,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "veigar_reroll",
+      "name": "veigar reroll",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.36,
+      "playRate": 0.04640515487225865,
+      "trendDelta": 0.004,
+      "notes": [
+        "原站阵容标识：veigar_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2800,7 +2497,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2821,7 +2518,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2842,7 +2539,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2863,7 +2560,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2884,7 +2581,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2905,7 +2602,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2926,7 +2623,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "blossom_ahri",
+      "name": "blossom ahri",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.39,
+      "playRate": 0.010494385409601327,
+      "trendDelta": 0.057,
+      "notes": [
+        "原站阵容标识：blossom_ahri",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2947,7 +2665,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2968,7 +2686,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -2989,7 +2707,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3010,7 +2728,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3031,7 +2749,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3052,7 +2770,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3073,7 +2791,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "elderwood_mamabeak",
+      "name": "elderwood mamabeak",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.4,
+      "playRate": 0.009919737734569297,
+      "trendDelta": -0.003,
+      "notes": [
+        "原站阵容标识：elderwood_mamabeak",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3094,7 +2833,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "bfl_zyra",
+      "name": "bfl zyra",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.42,
+      "playRate": 0.020093827718742935,
+      "trendDelta": -0.158,
+      "notes": [
+        "原站阵容标识：bfl_zyra",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3115,7 +2875,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3136,7 +2896,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3157,7 +2917,49 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "inferno_kayle",
+      "name": "inferno kayle",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.49,
+      "playRate": 0.008666817393925691,
+      "trendDelta": 0.085,
+      "notes": [
+        "原站阵容标识：inferno_kayle",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "solar_akali",
+      "name": "solar akali",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.49,
+      "playRate": 0.019500339136332805,
+      "trendDelta": -0.007,
+      "notes": [
+        "原站阵容标识：solar_akali",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3178,7 +2980,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3199,7 +3001,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3220,7 +3022,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3241,7 +3043,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3262,7 +3064,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3283,7 +3085,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3304,7 +3106,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "inferno_hunter",
+      "name": "inferno hunter",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.5,
+      "playRate": 0.025048986359183057,
+      "trendDelta": -0.013,
+      "notes": [
+        "原站阵容标识：inferno_hunter",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3325,7 +3148,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3346,7 +3169,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3367,7 +3190,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3388,7 +3211,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3409,154 +3232,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
+      "sourceRecordId": "warwick_murkwolf",
+      "name": "warwick murkwolf",
       "set": "18",
-      "patch": "18.5",
+      "patch": "18.5c",
       "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-27T22:20:51.271Z",
-      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
-      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
-      "avgPlacement": 4.55,
-      "playRate": 0.03457586933614331,
-      "trendDelta": 0.046,
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.52,
+      "playRate": 0.00846898786645565,
+      "trendDelta": -0.065,
       "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
+        "原站阵容标识：warwick_murkwolf",
         "统计分段、地区和样本数未随此公开快照提供。",
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-20T14:20:57.535Z",
-      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
-      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
-      "avgPlacement": 4.35,
-      "playRate": 0.07380975214713467,
-      "trendDelta": 0.015,
-      "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-09T01:15:17.847Z",
-      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
-      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
-      "avgPlacement": 4.28,
-      "playRate": 0.08003273322422258,
-      "trendDelta": -0.035,
-      "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-07T13:32:54.965Z",
-      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
-      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
-      "avgPlacement": 4.31,
-      "playRate": 0.11279186914780136,
-      "trendDelta": 0.002,
-      "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-25T05:03:50.318Z",
-      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
-      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
-      "avgPlacement": 4.36,
-      "playRate": 0.07769634211941905,
-      "trendDelta": 0.096,
-      "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-22T17:01:34.034Z",
-      "sourceUpdatedAt": "2026-09-21T16:54:57.242814+00:00",
-      "sha256": "01a06d967918bd891cdbe9e8aac0d2610dec50a93a9d4ac849d2a8da0e065214",
-      "avgPlacement": 4.28,
-      "playRate": 0.08998438176885018,
-      "trendDelta": 0.021,
-      "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "nidalee_aphelios_flex",
-      "name": "nidalee aphelios flex",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-15T21:26:29.493Z",
-      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-      "avgPlacement": 4.34,
-      "playRate": 0.06970560582912211,
-      "trendDelta": -0.017,
-      "notes": [
-        "原站阵容标识：nidalee_aphelios_flex",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3577,7 +3274,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3598,7 +3295,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3619,7 +3316,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3640,7 +3337,196 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.53,
+      "playRate": 0.03285854246740523,
+      "trendDelta": 0.019,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.5",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-27T22:20:51.271Z",
+      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
+      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
+      "avgPlacement": 4.55,
+      "playRate": 0.03457586933614331,
+      "trendDelta": 0.046,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-20T14:20:57.535Z",
+      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
+      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
+      "avgPlacement": 4.35,
+      "playRate": 0.07380975214713467,
+      "trendDelta": 0.015,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-09T01:15:17.847Z",
+      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
+      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
+      "avgPlacement": 4.28,
+      "playRate": 0.08003273322422258,
+      "trendDelta": -0.035,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-07T13:32:54.965Z",
+      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
+      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
+      "avgPlacement": 4.31,
+      "playRate": 0.11279186914780136,
+      "trendDelta": 0.002,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-25T05:03:50.318Z",
+      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
+      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
+      "avgPlacement": 4.36,
+      "playRate": 0.07769634211941905,
+      "trendDelta": 0.096,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-22T17:01:34.034Z",
+      "sourceUpdatedAt": "2026-09-21T16:54:57.242814+00:00",
+      "sha256": "01a06d967918bd891cdbe9e8aac0d2610dec50a93a9d4ac849d2a8da0e065214",
+      "avgPlacement": 4.28,
+      "playRate": 0.08998438176885018,
+      "trendDelta": 0.021,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "nidalee_aphelios_flex",
+      "name": "nidalee aphelios flex",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-15T21:26:29.493Z",
+      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+      "avgPlacement": 4.34,
+      "playRate": 0.06970560582912211,
+      "trendDelta": -0.017,
+      "notes": [
+        "原站阵容标识：nidalee_aphelios_flex",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "caitlyn",
+      "name": "caitlyn",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.58,
+      "playRate": 0.007272590247946341,
+      "trendDelta": -0.073,
+      "notes": [
+        "原站阵容标识：caitlyn",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3661,7 +3547,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3682,7 +3568,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3703,7 +3589,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3724,7 +3610,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3745,7 +3631,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3766,7 +3652,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3787,7 +3673,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "hunter_sivir",
+      "name": "hunter sivir",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.59,
+      "playRate": 0.005963147185168438,
+      "trendDelta": -0.062,
+      "notes": [
+        "原站阵容标识：hunter_sivir",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3808,7 +3715,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3829,7 +3736,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3850,7 +3757,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3871,7 +3778,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3892,7 +3799,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3913,7 +3820,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -3934,154 +3841,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
+      "sourceRecordId": "zyra_fatalis",
+      "name": "zyra fatalis",
       "set": "18",
-      "patch": "18.5",
+      "patch": "18.5c",
       "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-27T22:20:51.271Z",
-      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
-      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
-      "avgPlacement": 4.68,
-      "playRate": 0.02417017913593256,
-      "trendDelta": 0.051,
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.66,
+      "playRate": 0.021667043484814227,
+      "trendDelta": -0.037,
       "notes": [
-        "原站阵容标识：tristana_reroll",
+        "原站阵容标识：zyra_fatalis",
         "统计分段、地区和样本数未随此公开快照提供。",
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
-      "set": "18",
-      "patch": "18.4b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-20T14:20:57.535Z",
-      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
-      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
-      "avgPlacement": 5.01,
-      "playRate": 0.009600835411205592,
-      "trendDelta": 0.017,
-      "notes": [
-        "原站阵容标识：tristana_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
-      "set": "18",
-      "patch": "18.4",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-09T01:15:17.847Z",
-      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
-      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
-      "avgPlacement": 5.03,
-      "playRate": 0.013379705400981996,
-      "trendDelta": 0.099,
-      "notes": [
-        "原站阵容标识：tristana_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
-      "set": "18",
-      "patch": "18.3b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-10-07T13:32:54.965Z",
-      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
-      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
-      "avgPlacement": 4.94,
-      "playRate": 0.008548654735095413,
-      "trendDelta": 0.035,
-      "notes": [
-        "原站阵容标识：tristana_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
-      "set": "18",
-      "patch": "18.3",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-25T05:03:50.318Z",
-      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
-      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
-      "avgPlacement": 4.76,
-      "playRate": 0.011107282140935986,
-      "trendDelta": -0.076,
-      "notes": [
-        "原站阵容标识：tristana_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
-      "set": "18",
-      "patch": "18.2b",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-22T17:01:34.034Z",
-      "sourceUpdatedAt": "2026-09-21T16:54:57.242814+00:00",
-      "sha256": "01a06d967918bd891cdbe9e8aac0d2610dec50a93a9d4ac849d2a8da0e065214",
-      "avgPlacement": 4.87,
-      "playRate": 0.01115791513714403,
-      "trendDelta": -0.004,
-      "notes": [
-        "原站阵容标识：tristana_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
-    },
-    {
-      "source": "tftable",
-      "sourceRecordId": "tristana_reroll",
-      "name": "tristana reroll",
-      "set": "18",
-      "patch": "18.2",
-      "sourceUrl": "https://tftable.cc/comps",
-      "collectedAt": "2026-09-15T21:26:29.493Z",
-      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
-      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
-      "avgPlacement": 4.88,
-      "playRate": 0.013897050182160066,
-      "trendDelta": 0.023,
-      "notes": [
-        "原站阵容标识：tristana_reroll",
-        "统计分段、地区和样本数未随此公开快照提供。",
-        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
-      ],
-      "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4102,7 +3883,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4123,7 +3904,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4144,7 +3925,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4165,7 +3946,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4186,7 +3967,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4207,7 +3988,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4228,7 +4009,196 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.68,
+      "playRate": 0.02837440651141759,
+      "trendDelta": 0.032,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.5",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-27T22:20:51.271Z",
+      "sourceUpdatedAt": "2026-10-27T16:59:25.121142+00:00",
+      "sha256": "25ae2a5638beb036969be771e772201f7fc684b9ac60117ec1ad05c18f1474eb",
+      "avgPlacement": 4.68,
+      "playRate": 0.02417017913593256,
+      "trendDelta": 0.051,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.4b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-20T14:20:57.535Z",
+      "sourceUpdatedAt": "2026-10-20T09:32:40.047629+00:00",
+      "sha256": "54bfb09440f8fdfaa97f920774493d55e18f5b173a5fe254a9f889fe3ef4d58b",
+      "avgPlacement": 5.01,
+      "playRate": 0.009600835411205592,
+      "trendDelta": 0.017,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.4",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-09T01:15:17.847Z",
+      "sourceUpdatedAt": "2026-10-08T17:04:39.018067+00:00",
+      "sha256": "952682dbfeaf5c913599282a3f91d38c57e006b7bc84ebc563529e764a07edd3",
+      "avgPlacement": 5.03,
+      "playRate": 0.013379705400981996,
+      "trendDelta": 0.099,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.3b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-07T13:32:54.965Z",
+      "sourceUpdatedAt": "2026-10-04T19:18:20.835164+00:00",
+      "sha256": "1e7a499c772ecb2928c15d559f4c7902c120107883688198bf069ea75561583a",
+      "avgPlacement": 4.94,
+      "playRate": 0.008548654735095413,
+      "trendDelta": 0.035,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.3",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-25T05:03:50.318Z",
+      "sourceUpdatedAt": "2026-09-24T08:48:43.370990+00:00",
+      "sha256": "ce3ce59e6f33c4b850576f824e1b118f1c3699d96f4f26706e1672dbd1c04de4",
+      "avgPlacement": 4.76,
+      "playRate": 0.011107282140935986,
+      "trendDelta": -0.076,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.2b",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-22T17:01:34.034Z",
+      "sourceUpdatedAt": "2026-09-21T16:54:57.242814+00:00",
+      "sha256": "01a06d967918bd891cdbe9e8aac0d2610dec50a93a9d4ac849d2a8da0e065214",
+      "avgPlacement": 4.87,
+      "playRate": 0.01115791513714403,
+      "trendDelta": -0.004,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "tristana_reroll",
+      "name": "tristana reroll",
+      "set": "18",
+      "patch": "18.2",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-09-15T21:26:29.493Z",
+      "sourceUpdatedAt": "2026-09-15T15:38:55.706144+00:00",
+      "sha256": "79d9b4c09444878e0e4b83e4beea552feb08750c78c5678b49638001f3ef4167",
+      "avgPlacement": 4.88,
+      "playRate": 0.013897050182160066,
+      "trendDelta": 0.023,
+      "notes": [
+        "原站阵容标识：tristana_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "solar_kayle",
+      "name": "solar kayle",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.74,
+      "playRate": 0.018435827869470192,
+      "trendDelta": -0.033,
+      "notes": [
+        "原站阵容标识：solar_kayle",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4249,7 +4219,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4270,7 +4240,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4291,7 +4261,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4312,7 +4282,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4333,7 +4303,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4354,7 +4324,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4375,7 +4345,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "khazix_reroll",
+      "name": "khazix reroll",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 4.8,
+      "playRate": 0.0098066922903007,
+      "trendDelta": 0.034,
+      "notes": [
+        "原站阵容标识：khazix_reroll",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4396,7 +4387,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4417,7 +4408,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4438,7 +4429,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4459,7 +4450,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4480,7 +4471,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4501,7 +4492,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4522,7 +4513,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "dark_ritual",
+      "name": "dark ritual",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 5.03,
+      "playRate": 0.01235021478634411,
+      "trendDelta": 0.072,
+      "notes": [
+        "原站阵容标识：dark_ritual",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4543,7 +4555,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4564,7 +4576,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4585,7 +4597,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4606,7 +4618,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4627,7 +4639,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4648,7 +4660,28 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
+    },
+    {
+      "source": "tftable",
+      "sourceRecordId": "unrivaled",
+      "name": "unrivaled",
+      "set": "18",
+      "patch": "18.5c",
+      "sourceUrl": "https://tftable.cc/comps",
+      "collectedAt": "2026-10-31T05:53:09.139Z",
+      "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
+      "sha256": "23e86b0fe8598f6702f5be6a2b896fc4c6279ff35616a76dc6e2d36b78bb7447",
+      "avgPlacement": 5.46,
+      "playRate": 0.004465295048609541,
+      "trendDelta": -0.046,
+      "notes": [
+        "原站阵容标识：unrivaled",
+        "统计分段、地区和样本数未随此公开快照提供。",
+        "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
+      ],
+      "retained": true,
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4669,7 +4702,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4690,7 +4723,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4711,7 +4744,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4732,7 +4765,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4753,7 +4786,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4774,7 +4807,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4795,7 +4828,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4816,7 +4849,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4837,7 +4870,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4858,7 +4891,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4879,7 +4912,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4900,7 +4933,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4921,7 +4954,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4942,7 +4975,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4963,7 +4996,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -4984,7 +5017,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -5005,7 +5038,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -5026,7 +5059,7 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     },
     {
       "source": "tftable",
@@ -5047,26 +5080,20 @@
         "trendDelta 为原站 version 模式均排变化；不推导综合趋势。"
       ],
       "retained": true,
-      "retentionReason": "version"
+      "retentionReason": "error"
     }
   ],
   "status": {
     "id": "tftable",
     "name": "TFTable",
     "sourceUrl": "https://tftable.cc/comps",
-    "checkedAt": "2026-10-31T05:53:09.139Z",
+    "checkedAt": "2026-10-31T12:42:37.153Z",
     "method": "公开 HTML 内 __NEXT_DATA__ JSON",
+    "status": "error",
     "detectedPatch": "18.5c",
     "collectedAt": "2026-10-31T05:53:09.139Z",
-    "sourceUpdatedAt": "2026-10-31T01:10:19.655088+00:00",
-    "status": "stale",
-    "fields": [
-      "阵容标识",
-      "平均排名",
-      "登场率",
-      "均排版本变化值",
-      "来源更新时间"
-    ],
-    "message": "未取得筛选分段、样本量、前四率；均排变化保留原数值，不猜测趋势方向。 保留209条历史记录，已标记不属于本次采集。"
+    "fields": [],
+    "retained": true,
+    "message": "采集失败：TypeError: fetch failed；保留242条上次有效记录。"
   }
 }
