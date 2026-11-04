@@ -7,8 +7,8 @@
       "name": "Riftbeast Brambleback",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "default",
       "archetype": "fast8",
       "notes": [
@@ -24,8 +24,8 @@
       "name": "Riftbeast Tempo",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "default",
       "archetype": "reroll3",
       "notes": [
@@ -41,8 +41,8 @@
       "name": "Master Yi Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "default",
       "archetype": "reroll3",
       "notes": [
@@ -58,8 +58,8 @@
       "name": "Solar Karma Yunara",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "default",
       "archetype": "unknown",
       "notes": [
@@ -76,8 +76,8 @@
       "name": "Ahri Zyra",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "default",
       "archetype": "fast8",
       "notes": [
@@ -93,8 +93,8 @@
       "name": "Elderwood Executioners",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast8",
       "notes": [
@@ -110,8 +110,8 @@
       "name": "Draven Fast 9",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast9",
       "notes": [
@@ -127,8 +127,25 @@
       "name": "Nidalee Aphelios",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
+      "category": "meta",
+      "archetype": "fast8",
+      "notes": [
+        "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
+        "部分阵容依赖特定强化或装备，完整条件见原文。"
+      ],
+      "retained": false
+    },
+    {
+      "source": "tftflow",
+      "sourceRecordId": "sivir-nidalee-amumu",
+      "sourceUrl": "https://tftflow.com/composition/set18/sivir-nidalee-amumu",
+      "name": "Sivir Nidalee Amumu",
+      "set": "18",
+      "patch": "18.5c",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast8",
       "notes": [
@@ -144,8 +161,8 @@
       "name": "Ashe Sivir",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast9",
       "notes": [
@@ -161,8 +178,8 @@
       "name": "Mama Beak Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "reroll3",
       "notes": [
@@ -178,8 +195,8 @@
       "name": "Alune Fast 9",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast9",
       "notes": [
@@ -195,8 +212,8 @@
       "name": "Invoker Ahri",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast8",
       "notes": [
@@ -212,8 +229,8 @@
       "name": "Juggernaut Zyra",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast8",
       "notes": [
@@ -229,8 +246,8 @@
       "name": "Soraka Flex",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "fast8",
       "notes": [
@@ -246,8 +263,8 @@
       "name": "Defender Cassiopeia",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "reroll3",
       "notes": [
@@ -263,8 +280,8 @@
       "name": "Rammus Azir",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "reroll3",
       "notes": [
@@ -280,8 +297,8 @@
       "name": "Elderwood Veigar",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "meta",
       "archetype": "reroll1",
       "notes": [
@@ -297,8 +314,8 @@
       "name": "Rapidfire Bramble",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "A",
       "archetype": "fast8",
@@ -315,8 +332,8 @@
       "name": "Blossom Executioners",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "fast8",
@@ -333,8 +350,8 @@
       "name": "Vanguard Aphelios",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "fast8",
@@ -351,8 +368,8 @@
       "name": "Tristana Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "reroll3",
@@ -369,8 +386,8 @@
       "name": "Warwick Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "reroll2",
@@ -387,8 +404,8 @@
       "name": "Solar Mama Beak",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "unknown",
@@ -405,8 +422,8 @@
       "name": "Akali Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "reroll1",
@@ -423,8 +440,8 @@
       "name": "Elderwood Aphelios",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "fast8",
@@ -441,8 +458,8 @@
       "name": "Sivir Nidalee",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "fast8",
@@ -459,8 +476,8 @@
       "name": "Caitlyn Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "reroll2",
@@ -477,8 +494,8 @@
       "name": "Yunara Executioner Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "reroll2",
@@ -495,8 +512,8 @@
       "name": "Rengar Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "D",
       "archetype": "reroll3",
@@ -513,8 +530,8 @@
       "name": "Unrivaled Kha'Zix & Rengar",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "D",
       "archetype": "reroll3",
@@ -531,8 +548,8 @@
       "name": "Blossom",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "fast8",
@@ -549,8 +566,8 @@
       "name": "Invoker Brambleback",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "fast8",
@@ -567,8 +584,8 @@
       "name": "Spellweaver Ahri",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "fast8",
@@ -585,8 +602,8 @@
       "name": "Blossom Fast 9",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "fast9",
@@ -603,8 +620,8 @@
       "name": "Azir Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "B",
       "archetype": "reroll3",
@@ -621,8 +638,8 @@
       "name": "Invoker Nidalee",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "fast8",
@@ -639,8 +656,8 @@
       "name": "Kha'Zix Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "reroll3",
@@ -657,8 +674,8 @@
       "name": "Dark Ritual Coven",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "reroll2",
@@ -675,8 +692,8 @@
       "name": "Eclipse",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "reroll2",
@@ -693,8 +710,8 @@
       "name": "Teemo Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "reroll2",
@@ -711,8 +728,8 @@
       "name": "Elderwood Kayle Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "unknown",
@@ -730,8 +747,8 @@
       "name": "Veigar Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "C",
       "archetype": "reroll1",
@@ -748,8 +765,8 @@
       "name": "Blackthorn Kha'Zix",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "D",
       "archetype": "reroll3",
@@ -766,8 +783,8 @@
       "name": "Inferno Kayle Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "D",
       "archetype": "unknown",
@@ -785,8 +802,8 @@
       "name": "Pebbles Reroll",
       "set": "18",
       "patch": "18.5c",
-      "collectedAt": "2026-11-03T10:58:46.660Z",
-      "sha256": "97465190e2d0d7b61cd989e6dfa85cfaec8ff6b904e346af4092835bae54379e",
+      "collectedAt": "2026-11-04T11:04:12.662Z",
+      "sha256": "02698120aa88ea7209260d076033a7382529ff3b16aee388142caa3227ca8b5f",
       "category": "other",
       "tier": "D",
       "archetype": "reroll1",
@@ -830,7 +847,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -866,7 +883,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -920,7 +937,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1046,7 +1063,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1177,7 +1194,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1306,7 +1323,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1434,7 +1451,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1546,7 +1563,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1674,7 +1691,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1807,7 +1824,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -1938,7 +1955,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2066,7 +2083,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2102,7 +2119,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2234,7 +2251,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2416,7 +2433,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2545,7 +2562,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2671,7 +2688,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2803,7 +2820,7 @@
         "原站标为1费与2费混合 Reroll，不归为单一费用。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2859,7 +2876,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2896,7 +2913,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -2987,7 +3004,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3023,7 +3040,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3149,7 +3166,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3239,7 +3256,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3370,7 +3387,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3503,7 +3520,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3613,7 +3630,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3746,7 +3763,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -3878,7 +3895,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4007,7 +4024,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4136,7 +4153,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4269,7 +4286,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4401,7 +4418,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4534,7 +4551,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4663,7 +4680,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4795,7 +4812,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -4926,7 +4943,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -5036,7 +5053,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -5167,7 +5184,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -5225,7 +5242,7 @@
         "原站标为1费与2费混合 Reroll，不归为单一费用。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -5363,7 +5380,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -5498,7 +5515,7 @@
         "原站标为1费与2费混合 Reroll，不归为单一费用。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -5636,7 +5653,7 @@
         "部分阵容依赖特定强化或装备，完整条件见原文。"
       ],
       "retained": true,
-      "retentionReason": "missing"
+      "retentionReason": "version"
     },
     {
       "source": "tftflow",
@@ -5814,10 +5831,10 @@
     "id": "tftflow",
     "name": "TFTFlow",
     "sourceUrl": "https://tftflow.com/",
-    "checkedAt": "2026-11-03T10:58:46.660Z",
+    "checkedAt": "2026-11-04T11:04:12.662Z",
     "method": "公开 HTML 语义卡片",
     "detectedPatch": "18.5c",
-    "collectedAt": "2026-11-03T10:58:46.660Z",
+    "collectedAt": "2026-11-04T11:04:12.662Z",
     "status": "stale",
     "fields": [
       "阵容名称",
