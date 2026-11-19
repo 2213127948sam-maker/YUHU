@@ -4,11 +4,11 @@
     "sourceUrl": "https://raw.communitydragon.org/latest/cdragon/tft/zh_cn.json",
     "set": "18",
     "patch": "18.7",
-    "collectedAt": "2026-11-18T20:38:41.587Z",
+    "collectedAt": "2026-11-19T02:37:30.100Z",
     "schemaVersion": 1,
     "sourceVersion": "16.23.1",
     "sha256": "99cf4096b7813356473427180ab1d61ab74138391b5456aa3ec73ee2eed46237",
-    "lastModified": "Wed, 18 Nov 2026 07:24:14 GMT",
+    "lastModified": "Thu, 19 Nov 2026 01:34:29 GMT",
     "supportingSources": [
       "https://ddragon.leagueoflegends.com/cdn/16.23.1/data/zh_CN/tft-champion.json",
       "https://ddragon.leagueoflegends.com/cdn/16.23.1/data/zh_CN/tft-item.json",
