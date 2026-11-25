@@ -149,7 +149,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -167,7 +168,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -185,7 +186,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -203,7 +204,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -221,7 +222,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -239,7 +240,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -417,7 +418,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -435,7 +437,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -453,7 +455,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -471,7 +473,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -489,7 +491,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -596,6 +598,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -632,6 +635,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
@@ -806,6 +810,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -842,6 +847,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
@@ -1089,6 +1095,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -1125,6 +1132,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
@@ -1472,6 +1480,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
@@ -1508,6 +1517,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
@@ -1952,6 +1962,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
@@ -1988,6 +1999,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
@@ -3167,6 +3179,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -3202,6 +3215,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -3375,6 +3389,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -3410,6 +3425,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -3656,6 +3672,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -3761,6 +3778,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -3795,6 +3813,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -4220,7 +4239,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4238,7 +4258,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4256,7 +4276,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4274,7 +4294,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4292,7 +4312,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4310,7 +4330,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4328,7 +4348,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4346,7 +4366,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4364,7 +4384,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -4382,7 +4402,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -6184,7 +6204,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6202,7 +6223,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6220,7 +6241,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6238,7 +6259,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6256,7 +6277,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6274,7 +6295,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6292,7 +6313,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6311,7 +6332,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6330,7 +6351,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -6349,7 +6370,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -6855,6 +6876,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -6944,6 +6966,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -6977,6 +7000,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -8360,6 +8384,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -8394,6 +8419,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -8566,6 +8592,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -8600,6 +8627,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -8845,6 +8873,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -8879,6 +8908,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -9224,6 +9254,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -9258,6 +9289,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -9700,6 +9732,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -9734,6 +9767,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -10379,6 +10413,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -10472,6 +10507,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Protector, DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -10509,6 +10545,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
@@ -10731,6 +10768,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
         ],
         "retained": true,
@@ -10768,6 +10806,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
@@ -11067,6 +11106,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
         ],
         "retained": true,
@@ -11104,6 +11144,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
@@ -11500,6 +11541,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
         ],
         "retained": true,
@@ -11537,6 +11579,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
@@ -12017,6 +12060,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree, DA_Elderwood18_StonebarkTree, DA_Elderwood18_Protector"
         ],
         "retained": true,
@@ -12227,7 +12271,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12246,7 +12291,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12265,7 +12310,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12284,7 +12329,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12303,7 +12348,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12322,7 +12367,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12341,7 +12386,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12360,7 +12405,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12378,7 +12423,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -12396,7 +12441,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -12495,6 +12540,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -12528,6 +12574,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -12699,6 +12746,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -12732,6 +12780,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -12976,6 +13025,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -13009,6 +13059,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -13353,6 +13404,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -13386,6 +13438,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -13827,6 +13880,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -13860,6 +13914,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -14425,6 +14480,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -15336,6 +15392,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -15576,6 +15633,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -15610,6 +15668,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -16195,6 +16254,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -16284,6 +16344,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -16317,6 +16378,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -16535,6 +16597,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -16568,6 +16631,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -16863,6 +16927,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -16896,6 +16961,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -17288,6 +17354,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -17321,6 +17388,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -17797,6 +17865,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -17898,6 +17967,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -17931,6 +18001,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -18102,6 +18173,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -18135,6 +18207,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -18379,6 +18452,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -18412,6 +18486,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -18756,6 +18831,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -18789,6 +18865,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -19230,6 +19307,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -19263,6 +19341,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -20059,7 +20138,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20078,7 +20158,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20097,7 +20177,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20116,7 +20196,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20135,7 +20215,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20153,7 +20233,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20171,7 +20251,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20189,7 +20269,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20207,7 +20287,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -20225,7 +20305,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -21647,7 +21727,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21665,7 +21746,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21683,7 +21764,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21701,7 +21782,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21719,7 +21800,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21737,7 +21818,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21755,7 +21836,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21773,7 +21854,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21791,7 +21872,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -21809,7 +21890,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -22941,7 +23022,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -22960,7 +23042,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -22979,7 +23061,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -22998,7 +23080,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -23017,7 +23099,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -23036,7 +23118,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -23055,7 +23137,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -23073,7 +23155,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -23091,7 +23173,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -23461,6 +23543,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
@@ -23552,6 +23635,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
@@ -23587,6 +23671,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
@@ -23807,6 +23892,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
@@ -23842,6 +23928,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
@@ -24497,6 +24584,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -24531,6 +24619,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -24824,7 +24913,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24843,7 +24933,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24862,7 +24952,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24881,7 +24971,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24900,7 +24990,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24919,7 +25009,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24938,7 +25028,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24957,7 +25047,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24976,7 +25066,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -24995,7 +25085,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -26532,6 +26622,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -26566,6 +26657,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -26811,6 +26903,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -26845,6 +26938,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -27190,6 +27284,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -27224,6 +27319,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -27666,6 +27762,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -27700,6 +27797,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -28237,6 +28335,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -28374,6 +28473,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -28407,6 +28507,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -28702,6 +28803,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -28735,6 +28837,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -29127,6 +29230,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -29160,6 +29264,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -29636,6 +29741,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_StonebarkTree, DA_Elderwood18_Lifeblossom"
         ],
         "retained": true,
@@ -29709,6 +29815,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -30102,7 +30209,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30121,7 +30229,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30140,7 +30248,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30159,7 +30267,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30178,7 +30286,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30197,7 +30305,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30216,7 +30324,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30235,7 +30343,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30254,7 +30362,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -30273,7 +30381,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -30716,6 +30824,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -30750,6 +30859,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -30995,6 +31105,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -31029,6 +31140,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -31374,6 +31486,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -31408,6 +31521,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -31850,6 +31964,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -31884,6 +31999,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -34077,6 +34193,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -34112,6 +34229,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -34506,6 +34624,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -34541,6 +34660,7 @@
         ],
         "notes": [
           "专家评级；条件与完整指南请查看原文。",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
@@ -35019,6 +35139,7 @@
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
+          "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree",
           "来源含当前静态库未收录的形态/召唤物，未并入英雄列表：DA_Elderwood18_Lifeblossom, DA_Elderwood18_StonebarkTree"
         ],
         "retained": true,
@@ -35039,7 +35160,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35057,7 +35179,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35075,7 +35197,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35093,7 +35215,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35111,7 +35233,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35129,7 +35251,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35147,7 +35269,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35165,7 +35287,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35183,7 +35305,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -35201,7 +35323,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -37956,7 +38078,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -37974,7 +38097,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -37992,7 +38115,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38010,7 +38133,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38028,7 +38151,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38046,7 +38169,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38065,7 +38188,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38084,7 +38207,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38103,7 +38226,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38122,7 +38245,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -38240,7 +38363,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38259,7 +38383,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38278,7 +38402,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38297,7 +38421,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38316,7 +38440,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -38745,7 +38869,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38764,7 +38889,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38783,7 +38908,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38802,7 +38927,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38821,7 +38946,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38840,7 +38965,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38859,7 +38984,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38877,7 +39002,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38895,7 +39020,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -38913,7 +39038,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -39500,7 +39625,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -39518,7 +39643,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -39536,7 +39661,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-20T02:22:50.777Z"
@@ -40701,7 +40826,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40720,7 +40846,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40739,7 +40865,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40757,7 +40883,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40775,7 +40901,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40794,7 +40920,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40813,7 +40939,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40832,7 +40958,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40850,7 +40976,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -40868,7 +40994,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42048,7 +42174,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42066,7 +42193,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42084,7 +42211,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42102,7 +42229,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42135,7 +42262,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42153,7 +42281,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42171,7 +42299,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42189,7 +42317,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42207,7 +42335,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42226,7 +42354,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42245,7 +42373,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42264,7 +42392,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42283,7 +42411,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42301,7 +42429,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42335,7 +42463,8 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。",
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42354,7 +42483,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42373,7 +42502,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42392,7 +42521,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42411,7 +42540,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42430,7 +42559,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42463,7 +42592,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42481,7 +42611,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42499,7 +42629,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42518,7 +42648,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42536,7 +42666,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42569,7 +42699,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42587,7 +42718,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42605,7 +42736,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42638,7 +42769,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42656,7 +42788,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42674,7 +42806,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42692,7 +42824,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42711,7 +42843,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42730,7 +42862,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42748,7 +42880,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42781,7 +42913,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42799,7 +42932,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42817,7 +42950,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42835,7 +42968,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42853,7 +42986,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42871,7 +43004,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42889,7 +43022,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42907,7 +43040,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42925,7 +43058,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42943,7 +43076,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -42976,7 +43109,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -42994,7 +43128,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43012,7 +43146,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43030,7 +43164,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43048,7 +43182,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -43081,7 +43215,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43099,7 +43234,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43117,7 +43252,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43135,7 +43270,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43153,7 +43288,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43171,7 +43306,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43189,7 +43324,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43207,7 +43342,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43225,7 +43360,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43243,7 +43378,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -43276,7 +43411,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43294,7 +43430,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43312,7 +43448,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43330,7 +43466,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43348,7 +43484,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43366,7 +43502,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43384,7 +43520,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43402,7 +43538,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -43435,7 +43571,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43453,7 +43590,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43471,7 +43608,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43489,7 +43626,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43507,7 +43644,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43525,7 +43662,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43543,7 +43680,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43562,7 +43699,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43581,7 +43718,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43600,7 +43737,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -43634,7 +43771,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43653,7 +43791,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43672,7 +43810,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43691,7 +43829,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43710,7 +43848,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43729,7 +43867,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43748,7 +43886,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43767,7 +43905,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43786,7 +43924,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43805,7 +43943,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -43839,7 +43977,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43858,7 +43997,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43877,7 +44016,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43896,7 +44035,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43915,7 +44054,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43933,7 +44072,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43951,7 +44090,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43969,7 +44108,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -43987,7 +44126,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -44021,7 +44160,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44040,7 +44180,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44059,7 +44199,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44078,7 +44218,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44097,7 +44237,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44116,7 +44256,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44134,7 +44274,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44152,7 +44292,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44170,7 +44310,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44188,7 +44328,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -44222,7 +44362,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44241,7 +44382,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44260,7 +44401,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44279,7 +44420,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44298,7 +44439,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44317,7 +44458,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44336,7 +44477,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44355,7 +44496,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44374,7 +44515,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44393,7 +44534,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -44427,7 +44568,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44446,7 +44588,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44465,7 +44607,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -44499,7 +44641,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44518,7 +44661,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44537,7 +44680,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44556,7 +44699,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44575,7 +44718,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44593,7 +44736,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44612,7 +44755,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44631,7 +44774,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44650,7 +44793,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44669,7 +44812,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -44703,7 +44846,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44722,7 +44866,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44741,7 +44885,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44760,7 +44904,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44779,7 +44923,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44798,7 +44942,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44816,7 +44960,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44834,7 +44978,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44852,7 +44996,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44870,7 +45014,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -44904,7 +45048,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44923,7 +45068,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44942,7 +45087,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44961,7 +45106,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44980,7 +45125,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -44999,7 +45144,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45018,7 +45163,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45037,7 +45182,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45056,7 +45201,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45075,7 +45220,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -45109,7 +45254,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45128,7 +45274,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45147,7 +45293,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45166,7 +45312,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45185,7 +45331,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45204,7 +45350,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45223,7 +45369,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45242,7 +45388,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45261,7 +45407,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45279,7 +45425,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -45313,7 +45459,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45332,7 +45479,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45351,7 +45498,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45370,7 +45517,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45389,7 +45536,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45408,7 +45555,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45427,7 +45574,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45446,7 +45593,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45465,7 +45612,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45484,7 +45631,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -45518,7 +45665,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45537,7 +45685,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45556,7 +45704,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45575,7 +45723,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45594,7 +45742,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45613,7 +45761,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45631,7 +45779,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45649,7 +45797,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45667,7 +45815,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45685,7 +45833,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -45719,7 +45867,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45738,7 +45887,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45757,7 +45906,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45776,7 +45925,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45795,7 +45944,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45813,7 +45962,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45832,7 +45981,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45851,7 +46000,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45870,7 +46019,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45889,7 +46038,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -45923,7 +46072,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45942,7 +46092,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45961,7 +46111,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45980,7 +46130,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -45999,7 +46149,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46018,7 +46168,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46037,7 +46187,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46056,7 +46206,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46075,7 +46225,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46094,7 +46244,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -46128,7 +46278,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46147,7 +46298,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46166,7 +46317,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46184,7 +46335,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46202,7 +46353,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46220,7 +46371,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46238,7 +46389,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46256,7 +46407,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46274,7 +46425,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -46308,7 +46459,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46327,7 +46479,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46346,7 +46498,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46365,7 +46517,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46384,7 +46536,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46403,7 +46555,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46422,7 +46574,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46441,7 +46593,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46460,7 +46612,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46479,7 +46631,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -46513,7 +46665,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46532,7 +46685,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46551,7 +46704,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46569,7 +46722,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46587,7 +46740,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46605,7 +46758,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -46640,7 +46793,8 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。",
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46660,7 +46814,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46680,7 +46834,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46700,7 +46854,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46720,7 +46874,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46740,7 +46894,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46760,7 +46914,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46780,7 +46934,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46800,7 +46954,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46820,7 +46974,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -46854,7 +47008,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46873,7 +47028,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46892,7 +47047,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46911,7 +47066,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46930,7 +47085,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46949,7 +47104,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46968,7 +47123,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -46987,7 +47142,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47006,7 +47161,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47025,7 +47180,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -47060,7 +47215,8 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。",
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47080,7 +47236,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47100,7 +47256,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47120,7 +47276,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47140,7 +47296,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47160,7 +47316,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47180,7 +47336,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47200,7 +47356,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47220,7 +47376,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47240,7 +47396,7 @@
           "原站标为1费与2费混合 Reroll，不归为单一费用。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -47274,7 +47430,8 @@
           "来源分组保留为 Default / Meta / Other，不换算成 S/A。",
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
-        "retained": false
+        "retained": true,
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47293,7 +47450,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47312,7 +47469,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47331,7 +47488,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47350,7 +47507,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47369,7 +47526,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47388,7 +47545,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47407,7 +47564,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47426,7 +47583,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47445,7 +47602,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-11-25T08:45:14.780Z"
@@ -47480,7 +47637,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47499,7 +47656,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47518,7 +47675,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       },
       {
         "source": "tftflow",
@@ -47537,7 +47694,7 @@
           "部分阵容依赖特定强化或装备，完整条件见原文。"
         ],
         "retained": true,
-        "retentionReason": "version"
+        "retentionReason": "error"
       }
     ],
     "updatedAt": "2026-10-06T15:59:56.662Z"
