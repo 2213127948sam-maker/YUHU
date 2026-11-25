@@ -4,10 +4,10 @@
     "sourceUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-7/",
     "set": "18",
     "patch": "18.7",
-    "collectedAt": "2026-11-24T23:55:44.956Z",
+    "collectedAt": "2026-11-25T08:45:12.917Z",
     "schemaVersion": 1,
     "sourceVersion": "16.23.1",
-    "sha256": "063e4c55a1ed497ec8f2aee6f57bbb245fe47055549fe5743e8a9f9d8b31243e",
+    "sha256": "fe134ea210ac8e922378f0ef72690f8eb7830239860fb51e196a48669efd62b5",
     "supportingSources": [
       "https://teamfighttactics.leagueoflegends.com/en-us/news/",
       "https://raw.communitydragon.org/latest/content-metadata.json",
@@ -20,9 +20,9 @@
       "releasedAt": "2026-11-17T19:00:00.000Z",
       "patch": "18.7",
       "patchNotesUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-7/",
-      "checkedAt": "2026-11-24T23:55:44.956Z",
+      "checkedAt": "2026-11-25T08:45:12.917Z",
       "resourceVersion": "16.23.1",
-      "resourcePublishedAt": "2026-11-24T02:42:40.000Z",
+      "resourcePublishedAt": "2026-11-25T06:16:31.000Z",
       "resourceMetadataUrl": "https://raw.communitydragon.org/latest/content-metadata.json",
       "patchAssociation": "官方公告版本 + Riot/CDragon 资源分支一致 + 资源发布时间晚于公告；非地区服务器上线探测"
     }
